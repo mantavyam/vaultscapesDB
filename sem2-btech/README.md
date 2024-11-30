@@ -1,71 +1,16 @@
-# MAT201 / Mathematics
+# Overview - Semester 2
 
-## Syllabus
+### Syllabus <a href="#syllabus" id="syllabus"></a>
 
-### References
+### Notes <a href="#notes" id="notes"></a>
 
-{% embed url="https://www.slideshare.net/slideshow/higher-engineering-mathematics-by-bs-grewal/65781053" %}
-Higher Engineering Mathematics by BS Grewal BOOK
-{% endembed %}
+### Assignments <a href="#assignments" id="assignments"></a>
 
-***
+### Previous Year Questions <a href="#previous-year-questions" id="previous-year-questions"></a>
 
-## Resources
+### Back Assignment <a href="#back-assignment" id="back-assignment"></a>
 
-<details>
+### Back Question Papers <a href="#back-question-papers" id="back-question-papers"></a>
 
-<summary>M1: Ordinary differential equations</summary>
+### Exam Schedule <a href="#exam-schedule" id="exam-schedule"></a>
 
-
-
-</details>
-
-<details>
-
-<summary>M2: Partial Differential Equations</summary>
-
-
-
-</details>
-
-<details>
-
-<summary>M3: Laplace Transform and Fourier series</summary>
-
-
-
-</details>
-
-<details>
-
-<summary>M4: Complex Variable– Differentiation</summary>
-
-
-
-</details>
-
-<details>
-
-<summary>M5: Complex Variable– Integration</summary>
-
-
-
-</details>
-
-## Questions Directory
-
-### Question Bank
-
-### Assignment Questions
-
-### Previous Year Questions
-
-### Back Paper Assignment
-
-### Back Paper Questions
-
-### Expected Questions
-
-***
-
-## External Sources
