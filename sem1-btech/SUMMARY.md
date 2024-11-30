@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Overview](README.md)
+* [Overview - Semester 1](README.md)
 * [MAT101 / Mathematics](mat101-mathematics.md)
 * [CHE101 / Chemistry](che101-chemistry/README.md)
   * [CHE121 / Chemistry Lab](che101-chemistry/che121-chemistry-lab.md)
