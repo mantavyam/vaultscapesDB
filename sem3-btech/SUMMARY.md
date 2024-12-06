@@ -20,3 +20,7 @@
 * [CSA301 / AI & ML](specialisation/csa301-ai-and-ml.md)
 * [CSD301 / Data Science](specialisation/csd301-data-science.md)
 * [CSI301 / IOT](specialisation/csi301-iot.md)
+
+***
+
+* [TERM PAPER](term-paper.md)
