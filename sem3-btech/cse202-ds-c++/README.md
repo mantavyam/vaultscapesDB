@@ -2,6 +2,8 @@
 
 ## Syllabus
 
+{% file src="../.gitbook/assets/CSE 202 DSC++ Syllabus BTECH-IT.pdf" %}
+
 ### References
 
 ## Resources
@@ -60,5 +62,6 @@
 
 ## External Sources
 
-{% embed url="https://www.youtube.com/@CoderArmy9/videos" %}
+{% embed url="https://www.wscubetech.com/resources/dsa" %}
 
+{% embed url="https://www.youtube.com/@CoderArmy9/videos" %}

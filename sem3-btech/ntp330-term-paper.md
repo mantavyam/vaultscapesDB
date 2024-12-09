@@ -2,7 +2,11 @@
 description: Courtesy @mantavyam
 ---
 
-# TERM PAPER
+# NTP330 / Term Paper
+
+## Syllabus
+
+{% file src=".gitbook/assets/NTP330 Term Paper Syllabus BTECH-IT.pdf" %}
 
 ## How to Create Term Paper - Start to Finish (Complete Guide)
 
@@ -66,6 +70,10 @@ Make Changes to your Topic / Name / Enrollment No / HOD / Asst Proff etc
 You cannot directly edit this template! You'll have to "Make a Copy" in your own Google Account to be able to edit this template as per your own needs! Instructions on Copying this template is given on the first page itself!
 {% endhint %}
 
+{% hint style="info" %}
+TEMPLATE: [https://docs.google.com/document/d/1i0sZZKHW8LabN-47GUSU0b-R2JWIpjM\_SjM-I\_4ULmI/edit?usp=sharing](https://docs.google.com/document/d/1i0sZZKHW8LabN-47GUSU0b-R2JWIpjM_SjM-I_4ULmI/edit?usp=sharing)
+{% endhint %}
+
 {% embed url="https://docs.google.com/document/d/1i0sZZKHW8LabN-47GUSU0b-R2JWIpjM_SjM-I_4ULmI/edit?usp=sharing" %}
 
 ### Generate The Content
@@ -80,6 +88,10 @@ I have attached documents related to the topic "ENTER TOPIC HERE" your task is t
 +++STRUCTURE/LENGTH/TONE+++
 You will generate 500 words for each subtopic in which you'll include all micro topics which are expressed after each ':' symbol, the goal is to utilize the attached documents and add your own content into an amalgamation of it. The tone of the content must be Human and the reader should know by reading itself that the content was researched by a deep enthusiastic researcher on the topic.
 ```
+
+{% hint style="warning" %}
+Change Topic and Content Requested in the prompt above!
+{% endhint %}
 
 Adjust the Length of Generated Content from the words length in the prompt at +++STRUCTURE/LENGTH/TONE+++
 
@@ -98,6 +110,10 @@ I have previously attached documents related to the topic "ENTER TOPIC HERE":
 (3) <4.pdf>
 Your task is to help me craft the content that I will write in my Research Paper, You can utilize these resources along with your own thought proces
 ```
+
+{% hint style="warning" %}
+Change Topic and PDF Names in the prompt above!
+{% endhint %}
 
 ## STEP 5: Humanize the AI generated Content
 
@@ -146,26 +162,55 @@ NOTE: Remove any unnecessary abbreviations which is not related to your Research
 
 ### Add Citations to Your Document
 
+{% stepper %}
+{% step %}
 Go to TOOLS > CITATIONS
 
 Use the APA (7th Ed)
+{% endstep %}
 
-Click on “Add Citation Source”
+{% step %}
+CLICK ON “Add Citation Source”
 
 Source Type : “Website”
 
 Accessed By: “Website”
+{% endstep %}
 
+{% step %}
 ENTER URL TO YOUR SOURCES
 
+The Reference will get automatically fetched.
+{% endstep %}
+
+{% step %}
 INSERT MANUALLY IF IT IS NOT FETCHED AUTOMATICALLY
 
 Add Author Name & Contributors / Published DD:MM:YY / Website Title / URL
 
 Collect At least 10+ Sources and Then Finalise your Citation List
+{% endstep %}
 
-Click on Insert References
+{% step %}
+CLICK ON INSERT REFERENCES
+{% endstep %}
+{% endstepper %}
 
 ## STEP 7: Download Your Document
 
 Click on FILE > DOWNLOAD > Microsoft Word (.docx)
+
+
+
+## RESOURCES
+
+Guidelines provided for creating the Term Paper are attached:
+
+{% file src=".gitbook/assets/NTP330 Word count, File type and plagiarism details.docx" %}
+
+{% file src=".gitbook/assets/NTP330 Formatting Guidelines for undergraduate NTCC reports.docx" %}
+
+{% file src=".gitbook/assets/NTP330 Term Paper format_odd24.docx" %}
+
+
+

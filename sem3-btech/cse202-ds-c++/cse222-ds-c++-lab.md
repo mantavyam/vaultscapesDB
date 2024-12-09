@@ -1,8 +1,8 @@
-# CSE202 / DS C++
+# CSE222 / DS C++ Lab
 
 ## Syllabus
 
-pdf here>
+{% file src="../.gitbook/assets/CSE 202 DSC++ Lab Syllabus BTECH-IT.pdf" %}
 
 ## Resources
 

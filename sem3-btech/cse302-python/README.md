@@ -2,6 +2,8 @@
 
 ## Syllabus
 
+{% file src="../.gitbook/assets/CSE302 Python Syllabus BTECH-IT.pdf" %}
+
 ### References
 
 ## Resources
@@ -52,5 +54,12 @@
 
 ## External Sources
 
-{% embed url="https://youtu.be/mDKM-JtUhhc?si=gbDzJOV2l7ynGLnq" %}
+{% embed url="https://www.wscubetech.com/resources/python" %}
+Complete Notes on Every Concept
+{% endembed %}
 
+{% embed url="https://www.wscubetech.com/resources/python/programs" %}
+Practice Code Programs in Python
+{% endembed %}
+
+{% embed url="https://youtu.be/mDKM-JtUhhc?si=gbDzJOV2l7ynGLnq" %}

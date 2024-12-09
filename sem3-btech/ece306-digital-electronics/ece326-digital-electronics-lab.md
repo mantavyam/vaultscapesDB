@@ -2,7 +2,7 @@
 
 ## Syllabus
 
-pdf here>
+{% file src="../.gitbook/assets/ECE326 Digital Electronics Lab Syllabus BTECH-IT.pdf" %}
 
 ## Resources
 

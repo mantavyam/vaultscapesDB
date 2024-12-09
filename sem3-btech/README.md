@@ -2,6 +2,8 @@
 
 ### Syllabus
 
+{% file src=".gitbook/assets/SEM3-Syllabus-BTECH-IT.pdf" %}
+
 ### Notes
 
 ### Assignments
@@ -16,7 +18,7 @@
 
 **End Semester Exams for Session 2023-27**
 
-noticefiles pdf here:
+{% file src=".gitbook/assets/EndofSem3-Exam-Notice.pdf" %}
 
 | SUBJECT           | DATE                 |
 | ----------------- | -------------------- |

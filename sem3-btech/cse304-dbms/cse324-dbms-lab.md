@@ -2,7 +2,7 @@
 
 ## Syllabus
 
-pdf here>
+{% file src="../.gitbook/assets/CSE324 DBMS Lab Syllabus BTECH-IT.pdf" %}
 
 ## Resources
 

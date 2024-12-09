@@ -2,9 +2,7 @@
 
 ## Syllabus
 
-french syllabus
-
-french syllabus \<translated>
+{% file src=".gitbook/assets/FLU344 French Syllabus BTECH-IT.pdf" %}
 
 ### Speech - Syllabus
 
