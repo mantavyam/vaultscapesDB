@@ -7,11 +7,11 @@
 * [CSE104 / Comp Science](cse104-comp-science/README.md)
   * [CSE124 / Comp Science Lab](cse104-comp-science/cse124-comp-science-lab.md)
 * [CIV101 / Civil Engg.](civ101-civil-engg..md)
-* [EVS121 / Environmental Sci.](evs121-environmental-sci..md)
-* [BCU142 / Communication](bcu142-communication.md)
+* [EVS142 / Environmental Sci.](evs142-environmental-sci..md)
+* [BCU141 / Communication](bcu141-communication.md)
 * [BSU143 / Behaviour](bsu143-behaviour.md)
-* [FLU141 / French](flu141-french.md)
-* [BME151 / Workshop](bme151-workshop.md)
+* [FLU144 / French](flu144-french.md)
+* [BME124 / Workshop](bme124-workshop.md)
 
 ## Specialisation
 

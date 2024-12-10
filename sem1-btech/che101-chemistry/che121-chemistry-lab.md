@@ -1,5 +1,11 @@
 # CHE121 / Chemistry Lab
 
+## Syllabus
+
+{% file src="../.gitbook/assets/CHE121-Syllabus-BTECH-IT.pdf" %}
+
+## Experiments
+
 <details>
 
 <summary>EXPT 1: Water Hardness</summary>

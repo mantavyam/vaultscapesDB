@@ -1,4 +1,8 @@
-# BME151 / Workshop
+# BME124 / Workshop
+
+## Syllabus
+
+{% file src=".gitbook/assets/BME124-Syllabus-BTECH-IT.pdf" %}
 
 ## References
 

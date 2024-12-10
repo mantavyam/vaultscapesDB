@@ -1,5 +1,11 @@
 # CSE124 / Comp Science Lab
 
+## Syllabus
+
+{% file src="../.gitbook/assets/CSE124-Syllabus-BTECH-IT.pdf" %}
+
+## Experiments:
+
 <details>
 
 <summary>EXPT 1: </summary>

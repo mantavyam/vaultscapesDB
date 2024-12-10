@@ -1,5 +1,9 @@
 # CIV101 / Civil Engg.
 
+## Syllabus
+
+{% file src=".gitbook/assets/CIV101-Syllabus-BTECH-IT.pdf" %}
+
 ## Resources
 
 <details>

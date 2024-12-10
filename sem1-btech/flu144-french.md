@@ -1,4 +1,8 @@
-# FLU141 / French
+# FLU144 / French
+
+## Syllabus
+
+{% file src=".gitbook/assets/FLU144-Syllabus-BTECH-IT.pdf" %}
 
 ## Resources
 

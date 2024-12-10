@@ -1,4 +1,8 @@
-# EVS121 / Environmental Sci.
+# EVS142 / Environmental Sci.
+
+## Syllabus
+
+{% file src=".gitbook/assets/EVS142-Syllabus-BTECH-IT.pdf" %}
 
 ## Resources
 

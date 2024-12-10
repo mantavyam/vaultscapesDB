@@ -1,8 +1,8 @@
-# Overview
+# Overview - Semester 1
 
 ## Syllabus
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>MATHS</td><td><a href="mat101-mathematics.md">mat101-mathematics.md</a></td></tr><tr><td>CHEMISTRY (THEORY + LAB)</td><td><a href="che101-chemistry/">che101-chemistry</a></td></tr><tr><td>C LANGUAGE (THEORY + LAB)</td><td><a href="cse104-comp-science/">cse104-comp-science</a></td></tr></tbody></table>
+{% file src=".gitbook/assets/SEM1-Syllabus-BTECH-IT.pdf" %}
 
 ## Notes
 

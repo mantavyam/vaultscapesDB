@@ -1,5 +1,9 @@
 # BSU143 / Behaviour
 
+## Syllabus
+
+{% file src=".gitbook/assets/BSU143-Syllabus-BTECH-IT.pdf" %}
+
 ## Resources
 
 <details>
