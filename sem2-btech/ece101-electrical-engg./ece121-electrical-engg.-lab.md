@@ -2,7 +2,7 @@
 
 ## Syllabus
 
-pdf here>
+{% file src="../.gitbook/assets/ECE121-Syllabus-BTECH-IT.pdf" %}
 
 ## Resources
 

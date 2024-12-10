@@ -2,9 +2,9 @@
 
 ## Syllabus:
 
-pdf here>
+{% file src="../.gitbook/assets/PHY121-Syllabus-BTECH-IT.pdf" %}
 
-## Resources
+## Experiments
 
 <details>
 

@@ -2,7 +2,7 @@
 
 ## Syllabus
 
-pdf here>
+{% file src="../.gitbook/assets/CSE224-Syllabus-BTECH-IT.pdf" %}
 
 ## Resources
 
