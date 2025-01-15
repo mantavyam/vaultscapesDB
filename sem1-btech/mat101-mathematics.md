@@ -266,6 +266,10 @@ Assignment Question
 
 ### Previous Year Questions
 
+{% embed url="https://file.notion.so/f/f/a55e0ddd-0663-44e4-aa54-2e6bc5b00199/9faf9ef7-05c1-4afd-bb00-0d794eea61a1/20240129_192915.jpg?downloadName=20240129_192915.jpg&expirationTimestamp=1736956800000&id=6fc2df33-c529-4d4f-9e40-a04b0545b31a&signature=j9HpsmjYBLEUMsoDQrq-RVquSIRTpp2sGma75v4T_lA&spaceId=a55e0ddd-0663-44e4-aa54-2e6bc5b00199&table=block" %}
+PYQ-MAT101-JAN2024
+{% endembed %}
+
 {% embed url="https://file.notion.so/f/f/a55e0ddd-0663-44e4-aa54-2e6bc5b00199/aaac925c-e78f-49cf-b337-9df27f80b8f2/20240128_160554_0003.png?downloadName=20240128_160554_0003.png&expirationTimestamp=1736949600000&id=61167ca4-2eab-4419-b223-7e0d68fa91ba&signature=UOloj32LkwW5SWwXmw9qzyYSCCdeMz_U7zga3LvSQKI&spaceId=a55e0ddd-0663-44e4-aa54-2e6bc5b00199&table=block" %}
 PYQ-MAT101-JAN2023
 {% endembed %}
