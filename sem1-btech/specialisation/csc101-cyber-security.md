@@ -114,13 +114,13 @@ Ask Your Current Faculty to Provide Latest Syllabus!
 
 ### Previous Year Questions
 
-\[⤓] CSC101-End-Sem-PYQ-DEC2023 **\<See-Image-Below>**
+\[⤓] [CSC101-End-Sem-PYQ-DEC2023](https://drive.google.com/file/d/1VnV5AiNaZvkgIF_urxKhlXBK_iZB5i3k/view?usp=drive_link) **\<See-Image-Below>**
 
 {% embed url="https://file.notion.so/f/f/a55e0ddd-0663-44e4-aa54-2e6bc5b00199/522f3673-9e2a-4ec2-91e7-03f755d11d84/20240124_202027.jpg?table=block&id=268b7977-6bdf-4ceb-93d1-5bc3f8c73305&spaceId=a55e0ddd-0663-44e4-aa54-2e6bc5b00199&expirationTimestamp=1737043200000&signature=XiEdlAP1839GPgaO9B8n7wmD7OJUCTm74B1YyBR8E2g&downloadName=20240124_202027.jpg" %}
 CSC101-End-Sem-PYQ-DEC2023
 {% endembed %}
 
-\[⤓] CSC101-End-Sem-BACK-PYQ-JAN2023 **\<See-Image-Below>**
+\[⤓] [CSC101-End-Sem-BACK-PYQ-JAN2023](https://drive.google.com/file/d/17pUZOvMUhbmJwtCXLeJiNue1knoEfWLB/view?usp=drive_link) **\<See-Image-Below>**
 
 {% embed url="https://file.notion.so/f/f/a55e0ddd-0663-44e4-aa54-2e6bc5b00199/2031812c-f9c1-43f9-bd74-e50a462e61a5/Cyber_PYQ.jpg?table=block&id=8f5a5201-ded9-4564-b3ad-d69bb5017a53&spaceId=a55e0ddd-0663-44e4-aa54-2e6bc5b00199&expirationTimestamp=1737043200000&signature=6uZr8EeZNP_xulzQdmzcu6l8PA-4jd0RKc-0XbPtU0I&downloadName=Cyber+PYQ.jpg" %}
 CSC101-End-Sem-BACK-PYQ-JAN2023

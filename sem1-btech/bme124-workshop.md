@@ -13,16 +13,18 @@
 {% hint style="success" %}
 **DOWNLOAD Above Book PDF to refer to the Resources below!**
 
-URL: [https://www.scribd.com/document/441291341/Workshop-Practice-by-Swarn-Singh](https://www.scribd.com/document/441291341/Workshop-Practice-by-Swarn-Singh)
+URL1: [https://www.scribd.com/document/441291341/Workshop-Practice-by-Swarn-Singh](https://www.scribd.com/document/441291341/Workshop-Practice-by-Swarn-Singh)
+
+URL2: [https://drive.google.com/file/d/1GlPIWWMHGyZRbF8QYfce4gJ\_sgtdaRX\_/view](https://drive.google.com/file/d/1GlPIWWMHGyZRbF8QYfce4gJ_sgtdaRX_/view)
 {% endhint %}
 
-\[⤓] [Safety Guidelines ](https://file.notion.so/f/f/a55e0ddd-0663-44e4-aa54-2e6bc5b00199/5c36f50d-c0eb-4a34-ba61-95afc5bf2b78/Safety_Guidelines.pdf?table=block\&id=d5163643-1c5f-4319-ae89-a8b8cdf525ef\&spaceId=a55e0ddd-0663-44e4-aa54-2e6bc5b00199\&expirationTimestamp=1736985600000\&signature=_exM0K_eu9pjKZKGcZzylu92nCq_GpUyg7zX1bC7ZpM\&downloadName=Safety+Guidelines.pdf)
+\[⤓] [Safety Guidelines ](https://drive.google.com/file/d/1iXIP0tHvaKbGh9xzIZjZOpoK_T2PnTjh/view?usp=drive_link)
 
 <details>
 
 <summary>Machine shop</summary>
 
-Page 188-212 from Workshop Practice by Swarn Singh
+Page 188-212 from **Workshop Practice by Swarn Singh**
 
 </details>
 
@@ -30,9 +32,9 @@ Page 188-212 from Workshop Practice by Swarn Singh
 
 <summary>Fitting shop</summary>
 
-Page 38-68 from Workshop Practice by Swarn Singh
+Page 38-68 from **Workshop Practice by Swarn Singh**
 
-\[⤓] [Fitting Shop](https://file.notion.so/f/f/a55e0ddd-0663-44e4-aa54-2e6bc5b00199/056c251f-e984-4e41-8f1d-c3d3cc66cbd7/2-Fitting_shop.pdf?table=block\&id=45f78c18-9d33-4d40-89d5-6aa546732842\&spaceId=a55e0ddd-0663-44e4-aa54-2e6bc5b00199\&expirationTimestamp=1736985600000\&signature=bmdNYr331CG8mx85LTym2SvPs_EE_mACqW2cJVTw78o\&downloadName=2-Fitting+shop.pdf)
+\[⤓] [Fitting Shop](https://drive.google.com/file/d/1KwDogSQDG_YSX2En6lKnPaBlhpSfw6js/view?usp=drive_link)
 
 </details>
 
@@ -40,7 +42,7 @@ Page 38-68 from Workshop Practice by Swarn Singh
 
 <summary>Carpentry shop</summary>
 
-Page 1-37 from Workshop Practice by Swarn Singh
+Page 1-37 from **Workshop Practice by Swarn Singh**
 
 </details>
 
@@ -48,7 +50,7 @@ Page 1-37 from Workshop Practice by Swarn Singh
 
 <summary>Welding shop (Arc + Gas)</summary>
 
-Page 69-93 from Workshop Practice by Swarn Singh
+Page 69-93 from **Workshop Practice by Swarn Singh**
 
 </details>
 
@@ -56,7 +58,7 @@ Page 69-93 from Workshop Practice by Swarn Singh
 
 <summary>Smithy shop</summary>
 
-Page 94-115 from Workshop Practice by Swarn Singh
+Page 94-115 from **Workshop Practice by Swarn Singh**
 
 </details>
 

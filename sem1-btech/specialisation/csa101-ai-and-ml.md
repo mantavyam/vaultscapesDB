@@ -31,7 +31,7 @@ Ask Your Current Faculty to Provide Latest Syllabus!
 
 <summary>M1: </summary>
 
-
+_**we warmly invite you to contribute**_
 
 </details>
 
@@ -39,7 +39,7 @@ Ask Your Current Faculty to Provide Latest Syllabus!
 
 <summary>M2: </summary>
 
-
+_**we warmly invite you to contribute**_
 
 </details>
 
@@ -47,7 +47,7 @@ Ask Your Current Faculty to Provide Latest Syllabus!
 
 <summary>M3: </summary>
 
-
+_**we warmly invite you to contribute**_
 
 </details>
 
@@ -55,7 +55,7 @@ Ask Your Current Faculty to Provide Latest Syllabus!
 
 <summary>M4: </summary>
 
-
+_**we warmly invite you to contribute**_
 
 </details>
 
@@ -63,7 +63,7 @@ Ask Your Current Faculty to Provide Latest Syllabus!
 
 <summary>M5: </summary>
 
-
+_**we warmly invite you to contribute**_
 
 </details>
 
@@ -75,11 +75,9 @@ Ask Your Current Faculty to Provide Latest Syllabus!
 
 ### Previous Year Questions
 
-\[⤓] CSA101-End-Sem-PYQ-JAN2024 **\<See-Image-Below>**
+\[⤓] [CSA101-End-Sem-PYQ-JAN2024 ](https://drive.google.com/file/d/1Ccxk2lk1_w0z4KiuuJmbl2D5Vl6ZT6h7/view?usp=drive_link)**\<See-Image-Below>**
 
-{% embed url="https://file.notion.so/f/f/a55e0ddd-0663-44e4-aa54-2e6bc5b00199/0b64fb77-8780-4eee-b256-136d9f3898f8/IMG-20240124-WA0010.jpg?downloadName=IMG-20240124-WA0010.jpg&expirationTimestamp=1737043200000&id=b1414342-3bd4-4fda-ade4-9ffea5507326&signature=ntwcaeOLeQuReAtz79VkM3rlEikeCgkmD4vL5y8LR74&spaceId=a55e0ddd-0663-44e4-aa54-2e6bc5b00199&table=block" %}
-&#x20;CSA101-End-Sem-PYQ-JAN2024
-{% endembed %}
+{% embed url="https://drive.google.com/file/d/1Ccxk2lk1_w0z4KiuuJmbl2D5Vl6ZT6h7/view?usp=drive_link" %}
 
 ***
 

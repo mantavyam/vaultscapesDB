@@ -31,7 +31,7 @@ Ask Your Current Faculty to Provide Latest Syllabus!
 
 <summary>M1: </summary>
 
-
+_**we warmly invite you to contribute**_
 
 </details>
 
@@ -39,7 +39,7 @@ Ask Your Current Faculty to Provide Latest Syllabus!
 
 <summary>M2: </summary>
 
-
+_**we warmly invite you to contribute**_
 
 </details>
 
@@ -47,7 +47,7 @@ Ask Your Current Faculty to Provide Latest Syllabus!
 
 <summary>M3: </summary>
 
-
+_**we warmly invite you to contribute**_
 
 </details>
 
@@ -55,7 +55,7 @@ Ask Your Current Faculty to Provide Latest Syllabus!
 
 <summary>M4: </summary>
 
-
+_**we warmly invite you to contribute**_
 
 </details>
 
@@ -63,7 +63,7 @@ Ask Your Current Faculty to Provide Latest Syllabus!
 
 <summary>M5: </summary>
 
-
+_**we warmly invite you to contribute**_
 
 </details>
 
@@ -75,7 +75,7 @@ Ask Your Current Faculty to Provide Latest Syllabus!
 
 ### Previous Year Questions
 
-\[⤓] CSD101-End-Sem-PYQ-JAN2023 **\<See-Image-Below>**
+\[⤓] [CSD101-End-Sem-PYQ-JAN2023](https://drive.google.com/file/d/1t82D7YRac0LXkTpSgKHfcLvie_kKQYNx/view?usp=drive_link) **\<See-Image-Below>**
 
 {% embed url="https://file.notion.so/f/f/a55e0ddd-0663-44e4-aa54-2e6bc5b00199/dacffc60-0322-43a6-8a60-6cb267b23172/DS_PYQ.jpg?table=block&id=519aee54-6abb-4b41-81c1-cc577676178d&spaceId=a55e0ddd-0663-44e4-aa54-2e6bc5b00199&expirationTimestamp=1737043200000&signature=11GtCTnSxY7i4CFVwYPlGJh290fSjdGHdX0e-F8Vg4M&downloadName=DS+PYQ.jpg" %}
 CSD101-End-Sem-PYQ-JAN2023

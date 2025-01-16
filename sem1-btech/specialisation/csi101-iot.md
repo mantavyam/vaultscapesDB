@@ -31,7 +31,7 @@ Ask Your Current Faculty to Provide Latest Syllabus!
 
 <summary>M1: </summary>
 
-
+_**we warmly invite you to contribute**_
 
 </details>
 
@@ -39,7 +39,7 @@ Ask Your Current Faculty to Provide Latest Syllabus!
 
 <summary>M2: </summary>
 
-
+_**we warmly invite you to contribute**_
 
 </details>
 
@@ -47,7 +47,7 @@ Ask Your Current Faculty to Provide Latest Syllabus!
 
 <summary>M3: </summary>
 
-
+_**we warmly invite you to contribute**_
 
 </details>
 
@@ -55,7 +55,7 @@ Ask Your Current Faculty to Provide Latest Syllabus!
 
 <summary>M4: </summary>
 
-
+_**we warmly invite you to contribute**_
 
 </details>
 
@@ -63,7 +63,7 @@ Ask Your Current Faculty to Provide Latest Syllabus!
 
 <summary>M5: </summary>
 
-
+_**we warmly invite you to contribute**_
 
 </details>
 

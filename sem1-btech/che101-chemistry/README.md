@@ -10,7 +10,7 @@
 
 <summary>M1: Chemical Bonding</summary>
 
-\[⤓][ - Lecture - CHE101 - Module 1](https://1drv.ms/f/c/f97b501b2e8e5310/EiXHr7HK7RlFoSgpTIK7zjoBM5T8eNF94CWNG4ywq9lCDQ)
+\[⤓] - [Lecture - CHE101 - Module 1](https://drive.google.com/file/d/1ud_fk76Vv7ck9WOW08Y7WRZmkIDp_3Qr/view?usp=drive_link)
 
 </details>
 
@@ -18,7 +18,7 @@
 
 <summary>M2: Thermodynamics &#x26; Chemical Equilibrium</summary>
 
-\[⤓][ - Lecture - CHE101 - Module 2](https://1drv.ms/f/c/f97b501b2e8e5310/EiXHr7HK7RlFoSgpTIK7zjoBM5T8eNF94CWNG4ywq9lCDQ)
+\[⤓] -[ Lecture - CHE101 - Module 2](https://drive.google.com/file/d/1uD4mcDSetOypae4S0ozeNuBiJoYPx3jc/view?usp=drive_link)
 
 </details>
 
@@ -26,7 +26,7 @@
 
 <summary>M3: Stereochemistry</summary>
 
-\[⤓][ - Lecture - CHE101 - Module 3](https://1drv.ms/f/c/f97b501b2e8e5310/EiXHr7HK7RlFoSgpTIK7zjoBM5T8eNF94CWNG4ywq9lCDQ)
+\[⤓] -[ Lecture - CHE101 - Module 3](https://drive.google.com/file/d/1MrAXfjue5q-DGCmSa1hGL9ImSPe9FfHZ/view?usp=drive_link)
 
 </details>
 
@@ -34,7 +34,7 @@
 
 <summary>M4: Polymers</summary>
 
-\[⤓][ - Lecture - CHE101 - Module 4](https://1drv.ms/f/c/f97b501b2e8e5310/EiXHr7HK7RlFoSgpTIK7zjoBM5T8eNF94CWNG4ywq9lCDQ)
+\[⤓] - [Lecture - CHE101 - Module 4](https://drive.google.com/file/d/1AXPKNxQo7Z2OB8pHF7AtFm9BgqVI1zy5/view?usp=drive_link)
 
 </details>
 
@@ -42,7 +42,7 @@
 
 <summary>M5: Water Chemistry</summary>
 
-\[⤓][ - Lecture - CHE101 - Module 5](https://1drv.ms/f/c/f97b501b2e8e5310/EiXHr7HK7RlFoSgpTIK7zjoBM5T8eNF94CWNG4ywq9lCDQ)
+\[⤓] - [Lecture - CHE101 - Module 5](https://drive.google.com/file/d/1U41L0iqglp1yqoM3gF5Mpz7JB3_aQTs6/view?usp=drive_link)
 
 </details>
 
@@ -50,11 +50,11 @@
 
 <summary>M6: Instrumental Methods of analysis</summary>
 
-\[⤓][ - L1- CHE101 - Module 6](https://1drv.ms/f/c/f97b501b2e8e5310/EiXHr7HK7RlFoSgpTIK7zjoBM5T8eNF94CWNG4ywq9lCDQ)
+\[⤓] - [L1- CHE101 - Module 6](https://drive.google.com/file/d/1_Has133txS3KhYqOAL2IwdmpArvXLV_3/view?usp=drive_link)
 
-\[⤓][ - L2 - CHE101 - Module 6](https://1drv.ms/f/c/f97b501b2e8e5310/EiXHr7HK7RlFoSgpTIK7zjoBM5T8eNF94CWNG4ywq9lCDQ)
+\[⤓] - [L2 - CHE101 - Module 6](https://drive.google.com/file/d/1aMaHZ9Y1ON4Qz7pmmYvlMHoxBvw_fIFc/view?usp=drive_link)
 
-\[⤓][ - L3 - CHE101 - Module 6](https://1drv.ms/f/c/f97b501b2e8e5310/EiXHr7HK7RlFoSgpTIK7zjoBM5T8eNF94CWNG4ywq9lCDQ)
+\[⤓] -[ L3 - CHE101 - Module 6](https://drive.google.com/file/d/1M29KLG8ARXNSYt-QHLUCNlUd8l7hp-IX/view?usp=drive_link)
 
 \[ ▶︎ ] - [Spectroscopy Techniques: IR/UV/NMR](https://youtu.be/YaHAgI6Vao0?si=gOYsto-8MmnQEeZe)
 
@@ -66,19 +66,19 @@
 
 ### Assignment Questions
 
-\[⤓] \[PDF] [Assignment-EndSem-DrShivendra-CHE101](https://file.notion.so/f/f/a55e0ddd-0663-44e4-aa54-2e6bc5b00199/4d14667a-ea05-4600-b2e1-7c1e3b3b39f2/Assignment-2_CHE_101.pdf?table=block\&id=06a5bb93-a7e0-4b4f-9b59-a58c1c23b686\&spaceId=a55e0ddd-0663-44e4-aa54-2e6bc5b00199\&expirationTimestamp=1736956800000\&signature=3oZ663fze3mGBesvsMhEc8k8Ef_716lTXRAq2oPkXZc\&downloadName=Assignment-2_CHE+101.pdf)
+\[⤓] \[PDF] [Assignment-EndSem-DrShivendra-CHE101](https://drive.google.com/file/d/1y-xKGEWA8gYxcKD9fNIeKuohxTYEvj9h/view?usp=drive_link)
 
 ### Previous Year Questions
 
-\[⤓] [MidSem-PYQ-CHE101-Oct23-Btech](https://file.notion.so/f/f/a55e0ddd-0663-44e4-aa54-2e6bc5b00199/b0e7d568-6fc5-4462-8caf-59580f8fb80e/Chem_Midsem-1_Test.pdf?table=block\&id=2b8ed667-766a-4a08-a993-1586fe5efc99\&spaceId=a55e0ddd-0663-44e4-aa54-2e6bc5b00199\&expirationTimestamp=1737043200000\&signature=aIYc0aTjxRb4nEadWqlovjAhqLF-zPZ6G9H7JaoS0I8\&downloadName=Chem_Midsem-1+Test.pdf)
+\[⤓] [MidSem-PYQ-CHE101-Oct23-Btech](https://drive.google.com/file/d/1K6IJw-AKF7U2BxNUBqoVT9AFZ1wgci-Q/view?usp=drive_link)
 
-\[⤓] EndSem-PYQ-CHE101-Jan24-Btech **\<See Image below>**
+\[⤓] [EndSem-PYQ-CHE101-Jan24-Btech](https://drive.google.com/file/d/1KygNQF40xNW8Kaathp37X3Y0VXowXfdN/view?usp=drive_link) **\<See Image below>**
 
 {% embed url="https://file.notion.so/f/f/a55e0ddd-0663-44e4-aa54-2e6bc5b00199/f685e7b6-8144-4d64-961f-6a6f19316650/20240125_125044.jpg?downloadName=20240125_125044.jpg&expirationTimestamp=1736956800000&id=19ffaa58-92e6-42a2-aee6-2178d2704c50&signature=5qNJ5xKnLjhuhV2KiAtsFXugf7Ep5JRN_2eA3giY3Io&spaceId=a55e0ddd-0663-44e4-aa54-2e6bc5b00199&table=block" %}
 CHE101-ENDSEM-PYQ-JAN2024
 {% endembed %}
 
-\[⤓] EndSem-PYQ-CHE101-Jan23-Btech **\<See Image below>**
+\[⤓] [EndSem-PYQ-CHE101-Jan23-Btech](https://drive.google.com/file/d/1EEjQ9WBKbXe_XA5IEFZuqGFoEIrBtP-4/view?usp=drive_link) **\<See Image below>**
 
 {% embed url="https://file.notion.so/f/f/a55e0ddd-0663-44e4-aa54-2e6bc5b00199/97005b04-bad4-447d-92eb-0aca5f2128c1/Chem_PYQ.jpg?downloadName=Chem+PYQ.jpg&expirationTimestamp=1736956800000&id=ccf5f656-2145-4e47-b911-ef3446d8d868&signature=TUA3vo-vXqZaItfZDz5LtMmbDVK48UqN3E4m689zFfI&spaceId=a55e0ddd-0663-44e4-aa54-2e6bc5b00199&table=block" %}
 CHE101-ENDSEM-PYQ-JAN2023

@@ -240,15 +240,17 @@
 
 </details>
 
+\[⤓] (PDF) [Complete Lecture Notes on C Programming](https://drive.google.com/file/d/1jQosuclvfHczGwY1dCHbG0O0-nhozsPN/view?usp=drive_link)
+
 ***
 
 ## Questions Directory
 
-\[⤓] (PDF) [C Programs with Solutions](https://file.notion.so/f/f/a55e0ddd-0663-44e4-aa54-2e6bc5b00199/bb3ed200-28f1-4794-a680-3de476abf2c0/C_Programming_Questions.pdf?table=block\&id=2b988492-c5be-4c9f-b3cc-12a51c7250ca\&spaceId=a55e0ddd-0663-44e4-aa54-2e6bc5b00199\&expirationTimestamp=1736964000000\&signature=5OgCt4c-IovaRbIR5Qalmy9pu8L2GHl6AqoD7lJvsus\&downloadName=C+Programming+Questions.pdf)
+\[⤓] (PDF) [C Programs with Solutions](https://drive.google.com/file/d/1K-9cLcZRyKE7L4nTLVlZz8OpgeqXQU-I/view?usp=drive_link)
 
 ### Assignment Questions
 
-\[⤓] (PDF) [CSE124-THEORY-Assignment-Sem1-Btech.pdf](https://file.notion.so/f/f/a55e0ddd-0663-44e4-aa54-2e6bc5b00199/cbe8e13d-d309-4725-a9c4-a47d7db4c7f7/CSE-THEORY-Assignment-Sem1-Btech.pdf?table=block\&id=17c52f7c-de88-804d-a008-fe273dc040cf\&spaceId=a55e0ddd-0663-44e4-aa54-2e6bc5b00199\&expirationTimestamp=1736971200000\&signature=VkG2f_bTdpYZhhL9ujhYUoCE2K_snWQ9mXMzrf6QFew\&downloadName=CSE-THEORY-Assignment-Sem1-Btech.pdf)
+\[⤓] (PDF) [CSE124-THEORY-Assignment-Sem1-Btech.pdf](https://drive.google.com/file/d/1h-sAbQ3Tn2H0BuJS6wUYuRQmvWpgPEm9/view?usp=drive_link)
 
 {% embed url="https://www.notion.so/mantavyam/Assignment-Theory-CSE-e66686dce1df4eedb9258dbf4a10c1bc" %}
 Solutions to Assignment
@@ -260,9 +262,9 @@ Solutions to Assignment
 
 ### Previous Year Questions
 
-\[⤓] [MidSem-PYQ-CSE104-Oct23-Btech](https://file.notion.so/f/f/a55e0ddd-0663-44e4-aa54-2e6bc5b00199/dd87859e-5f64-4f26-b475-634d2d68b981/Programming_Midsem-1_Test.pdf?table=block\&id=825dc1c8-1aff-4d9d-8b39-58c1587ebab8\&spaceId=a55e0ddd-0663-44e4-aa54-2e6bc5b00199\&expirationTimestamp=1737043200000\&signature=2lxiPuHO1u3klSyhJ5BkFYgQUhvND7roLR4-QuJ-5co\&downloadName=Programming_Midsem-1+Test.pdf)
+\[⤓] [MidSem-PYQ-CSE104-Oct23-Btech](https://drive.google.com/file/d/13KCGaG2EyC4GYDuuR6DDw7VJWYwtc4q9/view?usp=drive_link)
 
-\[⤓] EndSem-PYQ-CSE104-Jan24-Btech **\<See Image below>**
+\[⤓] [EndSem-PYQ-CSE104-Jan24-Btech](https://drive.google.com/file/d/1b3h-A5TyzEnviqzk_4e4_1g6ofINF-IR/view?usp=drive_link) **\<See Image below>**
 
 {% embed url="https://file.notion.so/f/f/a55e0ddd-0663-44e4-aa54-2e6bc5b00199/390f2f79-251e-4d31-afe4-3776638146fc/20240130_125849.jpg?downloadName=20240130_125849.jpg&expirationTimestamp=1736964000000&id=fa186760-61ff-45e5-a0fd-e67e276bb5c0&signature=CKZ-c8UK8-TCZcv7FZWGEAvIVwqvMERMT-fEAtXI_Z0&spaceId=a55e0ddd-0663-44e4-aa54-2e6bc5b00199&table=block" %}
 ENDSEM-CSE104-JAN2024
