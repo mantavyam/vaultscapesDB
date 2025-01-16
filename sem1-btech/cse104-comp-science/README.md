@@ -1,6 +1,6 @@
 # CSE104 / Comp Science
 
-Syllabus
+## Syllabus
 
 {% file src="../.gitbook/assets/CSE104-Syllabus-BTECH-IT.pdf" %}
 
@@ -10,7 +10,63 @@ Syllabus
 
 <summary>M1: Introduction to Programming</summary>
 
+\[🌐] [C - Overview](https://www.tutorialspoint.com/cprogramming/c_overview.htm)
 
+\[🌐] [C - Features](https://www.tutorialspoint.com/cprogramming/c_features.htm)
+
+\[🌐] [C - History](https://www.tutorialspoint.com/cprogramming/c_history.htm)
+
+\[🌐] [C - Environment Setup](https://www.tutorialspoint.com/cprogramming/c_environment_setup.htm)
+
+\[🌐] [C - Program Structure](https://www.tutorialspoint.com/cprogramming/c_program_structure.htm)
+
+\[🌐] [C - Hello World](https://www.tutorialspoint.com/cprogramming/c_hello_world.htm)
+
+\[🌐] [C - Compilation Process](https://www.tutorialspoint.com/cprogramming/c_compilation_process.htm)
+
+\[🌐] [C - Comments](https://www.tutorialspoint.com/cprogramming/c_comments.htm)
+
+\[🌐] [C - Tokens](https://www.tutorialspoint.com/cprogramming/c_tokens.htm)
+
+\[🌐] [C - Keywords](https://www.tutorialspoint.com/cprogramming/c_keywords.htm)
+
+\[🌐] [C - Identifiers](https://www.tutorialspoint.com/cprogramming/c_identifiers.htm)
+
+\[🌐] [C - User Input](https://www.tutorialspoint.com/cprogramming/c_user_input.htm)
+
+\[🌐] [C - Preprocessors](https://www.tutorialspoint.com/cprogramming/c_preprocessors.htm)
+
+\[🌐] [C - Header Files](https://www.tutorialspoint.com/cprogramming/c_header_files.htm)
+
+\[🌐] [C - Basic Syntax](https://www.tutorialspoint.com/cprogramming/c_basic_syntax.htm)
+
+\[🌐] [C - Data Types](https://www.tutorialspoint.com/cprogramming/c_data_types.htm)
+
+\[🌐] [C - Variables](https://www.tutorialspoint.com/cprogramming/c_variables.htm)
+
+\[🌐] [C - Integer Promotions](https://www.tutorialspoint.com/cprogramming/c_integer_promotions.htm)
+
+\[🌐] [C - Type Conversion](https://www.tutorialspoint.com/cprogramming/c_type_conversion.htm)
+
+\[🌐] [C - Type Casting](https://www.tutorialspoint.com/cprogramming/c_type_casting.htm)
+
+\[🌐] [C - Booleans](https://www.tutorialspoint.com/cprogramming/c_booleans.htm)
+
+\[🌐] [C - Constants](https://www.tutorialspoint.com/cprogramming/c_constants.htm)
+
+\[🌐] [C - Literals](https://www.tutorialspoint.com/cprogramming/c_literals.htm)
+
+\[🌐] [C - Escape sequences](https://www.tutorialspoint.com/cprogramming/c_escape_sequences.htm)
+
+\[🌐] [C - Format Specifiers](https://www.tutorialspoint.com/cprogramming/c_format_specifiers.htm)
+
+\[🌐] [C - Memory Management](https://www.tutorialspoint.com/cprogramming/c_memory_management.htm)
+
+\[🌐] [C - Memory Address](https://www.tutorialspoint.com/cprogramming/c_memory_address.htm)
+
+\[🌐] [C - Storage Classes](https://www.tutorialspoint.com/cprogramming/c_storage_classes.htm)
+
+\[🌐] [C - Error Handling](https://www.tutorialspoint.com/cprogramming/c_error_handling.htm)
 
 </details>
 
@@ -18,7 +74,57 @@ Syllabus
 
 <summary>M2: Programming Essential</summary>
 
+\[🌐] [C - Operators](https://www.tutorialspoint.com/cprogramming/c_operators.htm)
 
+\[🌐] [C - Arithmetic Operators](https://www.tutorialspoint.com/cprogramming/c_arithmetic_operators.htm)
+
+\[🌐] [C - Relational Operators](https://www.tutorialspoint.com/cprogramming/c_relational_operators.htm)
+
+\[🌐] [C - Logical Operators](https://www.tutorialspoint.com/cprogramming/c_logical_operators.htm)
+
+\[🌐] [C - Bitwise Operators](https://www.tutorialspoint.com/cprogramming/c_bitwise_operators.htm)
+
+\[🌐] [C - Assignment Operators](https://www.tutorialspoint.com/cprogramming/c_assignment_operators.htm)
+
+\[🌐] [C - Unary Operators](https://www.tutorialspoint.com/cprogramming/c_unary_operators.htm)
+
+\[🌐] [C - Increment and Decrement Operators](https://www.tutorialspoint.com/cprogramming/c_increment_and_decrement_operators.htm)
+
+\[🌐] [C - Ternary Operator](https://www.tutorialspoint.com/cprogramming/c_ternary_operator.htm)
+
+\[🌐] [C - sizeof Operator](https://www.tutorialspoint.com/cprogramming/c_sizeof_operator.htm)
+
+\[🌐] [C - Operator Precedence](https://www.tutorialspoint.com/cprogramming/c_operators_precedence.htm)
+
+\[🌐] [C - Misc Operators](https://www.tutorialspoint.com/cprogramming/c_misc_operators.htm)
+
+\[🌐] [C - Decision Making](https://www.tutorialspoint.com/cprogramming/c_decision_making.htm)
+
+\[🌐] [C - if statement](https://www.tutorialspoint.com/cprogramming/if_statement_in_c.htm)
+
+\[🌐] [C - if...else statement](https://www.tutorialspoint.com/cprogramming/if_else_statement_in_c.htm)
+
+\[🌐] [C - nested if statements](https://www.tutorialspoint.com/cprogramming/nested_if_statements_in_c.htm)
+
+\[🌐] [C - switch statement](https://www.tutorialspoint.com/cprogramming/switch_statement_in_c.htm)
+
+\[🌐] [C - Loops](https://www.tutorialspoint.com/cprogramming/c_loops.htm)
+
+\[🌐] [C - While loop](https://www.tutorialspoint.com/cprogramming/c_while_loop.htm)
+
+\[🌐] [C - For loop](https://www.tutorialspoint.com/cprogramming/c_for_loop.htm)
+
+\[🌐] [C - Do...while loop](https://www.tutorialspoint.com/cprogramming/c_do_while_loop.htm)
+
+\[🌐] [C - Nested loop](https://www.tutorialspoint.com/cprogramming/c_nested_loops.htm)
+
+\[🌐] [C - Infinite loop](https://www.tutorialspoint.com/cprogramming/c_infinite_loop.htm)
+
+\[🌐] [C - Break Statement](https://www.tutorialspoint.com/cprogramming/c_break_statement.htm)
+
+\[🌐] [C - Continue Statement](https://www.tutorialspoint.com/cprogramming/c_continue_statement.htm)
+
+\[🌐] [C - goto Statement](https://www.tutorialspoint.com/cprogramming/c_goto_statement.htm)
 
 </details>
 
@@ -26,7 +132,17 @@ Syllabus
 
 <summary>M3: Arrays</summary>
 
+\[🌐] [C - Arrays](https://www.tutorialspoint.com/cprogramming/c_arrays.htm)
 
+\[🌐] [C - Properties of Array](https://www.tutorialspoint.com/cprogramming/c_properties_of_array.htm)
+
+\[🌐] [C - Multi-Dimensional Arrays](https://www.tutorialspoint.com/cprogramming/c_multi_dimensional_arrays.htm)
+
+\[🌐] [C - Passing Arrays to Function](https://www.tutorialspoint.com/cprogramming/c_passing_arrays_to_functions.htm)
+
+\[🌐] [C - Return Array from Function](https://www.tutorialspoint.com/cprogramming/c_return_arrays_from_function.htm)
+
+\[🌐] [C - Variable Length Arrays](https://www.tutorialspoint.com/cprogramming/c_variable_length_arrays.htm)
 
 </details>
 
@@ -34,7 +150,13 @@ Syllabus
 
 <summary>M4: Basic Algorithms</summary>
 
+\[🌐] [C - Searching Algorithms](https://www.tutorialspoint.com/data_structures_algorithms/searching_algorithms.htm)
 
+\[🌐] [C - Linear Search Algorithm](https://www.tutorialspoint.com/data_structures_algorithms/linear_search_algorithm.htm)
+
+\[🌐] [C - Binary Search Algorithm](https://www.tutorialspoint.com/data_structures_algorithms/binary_search_algorithm.htm)
+
+\[🌐] [C - Sorting Algorithms](https://www.tutorialspoint.com/data_structures_algorithms/sorting_algorithms.htm)
 
 </details>
 
@@ -42,7 +164,21 @@ Syllabus
 
 <summary>M5: Functions</summary>
 
+\[🌐] [C - Functions](https://www.tutorialspoint.com/cprogramming/c_functions.htm)
 
+\[🌐] [C - Main Function](https://www.tutorialspoint.com/cprogramming/c_main_function.htm)
+
+\[🌐] [C - Function call by Value](https://www.tutorialspoint.com/cprogramming/c_function_call_by_value.htm)
+
+\[🌐] [C - Function call by reference](https://www.tutorialspoint.com/cprogramming/c_function_call_by_reference.htm)
+
+\[🌐] [C - Nested Functions](https://www.tutorialspoint.com/cprogramming/c_nested_functions.htm)
+
+\[🌐] [C - User-Defined Functions](https://www.tutorialspoint.com/cprogramming/c_user_defined_functions.htm)
+
+\[🌐] [C - Callback Function](https://www.tutorialspoint.com/cprogramming/c_callback_function.htm)
+
+\[🌐] [C - Return Statement](https://www.tutorialspoint.com/cprogramming/c_return_statement.htm)
 
 </details>
 
@@ -50,7 +186,7 @@ Syllabus
 
 <summary>M6: Recursion</summary>
 
-
+\[🌐] [C - Recursion](https://www.tutorialspoint.com/cprogramming/c_recursion.htm)
 
 </details>
 
@@ -58,7 +194,13 @@ Syllabus
 
 <summary>M7: Structure</summary>
 
+\[🌐] [C - Structures](https://www.tutorialspoint.com/cprogramming/c_structures.htm)
 
+\[🌐] [C - Unions](https://www.tutorialspoint.com/cprogramming/c_unions.htm)
+
+\[🌐] [C - Enumeration (or enum)](https://www.tutorialspoint.com/cprogramming/c_enumeration_or_enum.htm)
+
+\[🌐] [C - Typedef](https://www.tutorialspoint.com/cprogramming/c_typedef.htm)
 
 </details>
 
@@ -66,7 +208,25 @@ Syllabus
 
 <summary>M8: Pointers</summary>
 
+\[🌐] [C - Pointers](https://www.tutorialspoint.com/cprogramming/c_pointers.htm)
 
+\[🌐] [C - Pointer Arithmetics](https://www.tutorialspoint.com/cprogramming/c_pointer_arithmetic.htm)
+
+\[🌐] [C - Dereference Pointer](https://www.tutorialspoint.com/cprogramming/c_dereference_pointer.htm)
+
+\[🌐] [C - NULL Pointer](https://www.tutorialspoint.com/cprogramming/c_null_pointer.htm)
+
+\[🌐] [C - Pointer to Pointer](https://www.tutorialspoint.com/cprogramming/c_pointer_to_pointer.htm)
+
+\[🌐] [C - Pointer to an Array](https://www.tutorialspoint.com/cprogramming/c_pointer_to_an_array.htm)
+
+\[🌐] [C - Pointers to Structures](https://www.tutorialspoint.com/cprogramming/c_pointers_to_structures.htm)
+
+\[🌐] [C - Function Pointers](https://www.tutorialspoint.com/cprogramming/c_function_pointers.htm)
+
+\[🌐] [C - Passing Pointers to Functions](https://www.tutorialspoint.com/cprogramming/c_passing_pointers_to_functions.htm)
+
+\[🌐] [C - Return Pointer from Functions](https://www.tutorialspoint.com/cprogramming/c_return_pointer_from_functions.htm)
 
 </details>
 
@@ -74,7 +234,9 @@ Syllabus
 
 <summary>M9: File Handling</summary>
 
+\[🌐] [C - Input & Output](https://www.tutorialspoint.com/cprogramming/c_input_output.htm)
 
+\[🌐] [C - File I/O (File Handling)](https://www.tutorialspoint.com/cprogramming/c_file_io.htm)
 
 </details>
 
@@ -93,10 +255,14 @@ Solutions to Assignment
 {% endembed %}
 
 {% hint style="info" %}
-(Ask Your Present Faculty for Qs relevant to end sem)
+(Ask Your Present Faculty to provide Qs relevant to end sem)
 {% endhint %}
 
 ### Previous Year Questions
+
+\[⤓] [MidSem-PYQ-CSE104-Oct23-Btech](https://file.notion.so/f/f/a55e0ddd-0663-44e4-aa54-2e6bc5b00199/dd87859e-5f64-4f26-b475-634d2d68b981/Programming_Midsem-1_Test.pdf?table=block\&id=825dc1c8-1aff-4d9d-8b39-58c1587ebab8\&spaceId=a55e0ddd-0663-44e4-aa54-2e6bc5b00199\&expirationTimestamp=1737043200000\&signature=2lxiPuHO1u3klSyhJ5BkFYgQUhvND7roLR4-QuJ-5co\&downloadName=Programming_Midsem-1+Test.pdf)
+
+\[⤓] EndSem-PYQ-CSE104-Jan24-Btech **\<See Image below>**
 
 {% embed url="https://file.notion.so/f/f/a55e0ddd-0663-44e4-aa54-2e6bc5b00199/390f2f79-251e-4d31-afe4-3776638146fc/20240130_125849.jpg?downloadName=20240130_125849.jpg&expirationTimestamp=1736964000000&id=fa186760-61ff-45e5-a0fd-e67e276bb5c0&signature=CKZ-c8UK8-TCZcv7FZWGEAvIVwqvMERMT-fEAtXI_Z0&spaceId=a55e0ddd-0663-44e4-aa54-2e6bc5b00199&table=block" %}
 ENDSEM-CSE104-JAN2024
@@ -168,7 +334,7 @@ int main() {
 
 <details>
 
-<summary>Check Number and tell Positive / Negative / Zero</summary>
+<summary>Check No. if +/-/0</summary>
 
 <pre class="language-c"><code class="lang-c"><strong>#include &#x3C;stdio.h>
 </strong><strong>
@@ -237,7 +403,7 @@ int main() {
 
 <details>
 
-<summary>Check Character and tell Vowel or Consonant?</summary>
+<summary>Check Character: Vowel or Consonant?</summary>
 
 <pre class="language-c"><code class="lang-c"><strong>#include &#x3C;stdio.h>
 </strong>
@@ -268,7 +434,7 @@ int main() {
 
 <details>
 
-<summary>Calculate and display the length of the entered string</summary>
+<summary>Calculate length of the entered string</summary>
 
 ```c
 #include <stdio.h>
@@ -429,7 +595,7 @@ int main() {
 
 <details>
 
-<summary>Check if a number is an Armstrong number</summary>
+<summary>Check if a no. is an Armstrong</summary>
 
 ```c
 #include <stdio.h>
@@ -483,7 +649,7 @@ int main() {
 
 <details>
 
-<summary>Count Values using Conditional (Ternary) Operator</summary>
+<summary>Count Values using Ternary Operator</summary>
 
 ```c
 #include <stdio.h>
@@ -516,7 +682,7 @@ int main() {
 
 <details>
 
-<summary>Illustrate Difference b/w Iteration &#x26; Selection</summary>
+<summary>Illustrate Diff. b/w Iteration &#x26; Selection</summary>
 
 ```c
 #include <stdio.h>
@@ -621,5 +787,12 @@ int main() {
 
 ## External Sources
 
-Links to Cover Syllabus Content
+{% embed url="https://www.tutorialspoint.com/cprogramming/index.htm" %}
+RECOMMENDED LEARNING
+{% endembed %}
 
+{% embed url="https://www.scaler.com/topics/c/" %}
+
+{% embed url="https://www.programiz.com/c-programming" %}
+
+{% embed url="https://www.wscubetech.com/resources/c-programming" %}

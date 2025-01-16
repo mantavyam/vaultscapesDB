@@ -54,8 +54,6 @@
 
 </details>
 
-{% embed url="https://youtu.be/SuuBIdLlSRI" %}
-
 <details>
 
 <summary>EXPT 7: Plant pigments separation</summary>
@@ -103,3 +101,7 @@
 \[⤓] [(PDF) pH metric titration](https://www.scribd.com/document/250925607/Exp-6-PH-Metric-Titration)
 
 </details>
+
+## External Sources
+
+{% embed url="https://youtu.be/SuuBIdLlSRI" %}

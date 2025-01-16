@@ -94,7 +94,7 @@
 
 ## Questions Directory
 
-{% file src="broken-reference" %}
+{% file src=".gitbook/assets/EVS142_Qs Bank 2023.pdf" %}
 
 ### Assignment Questions
 
@@ -102,7 +102,7 @@
 
 \[⤓] [EVS142-Mid-Sem-PYQ-Oct2023](https://file.notion.so/f/f/a55e0ddd-0663-44e4-aa54-2e6bc5b00199/d3b3acc1-562d-4ec7-a51c-240675422580/EVS_Midsem-1_Test.pdf?table=block\&id=8f9ad8cd-ad5d-48eb-8495-818f60643e99\&spaceId=a55e0ddd-0663-44e4-aa54-2e6bc5b00199\&expirationTimestamp=1736978400000\&signature=jxP7LklQKYJs8jHXbHLd0MMYiKtO6VjLo4VSOdCO-cc\&downloadName=EVS_Midsem-1+Test.pdf)
 
-\[⤓] EVS142-End-Sem-PYQ-Jan2024 \<See-Image-Below>
+\[⤓] EVS142-End-Sem-PYQ-Jan2024 **\<See-Image-Below>**
 
 {% embed url="https://file.notion.so/f/f/a55e0ddd-0663-44e4-aa54-2e6bc5b00199/4ea4d001-c85d-4d69-af63-6aac977c63f0/20240123_162133.jpg?table=block&id=01273d8b-4855-4e0f-a0cd-227ede1ceaea&spaceId=a55e0ddd-0663-44e4-aa54-2e6bc5b00199&expirationTimestamp=1736978400000&signature=y5zquwDZWPPE7PBzk33Ma_omc_6p3OhqzH1ns7h7RV0&downloadName=20240123_162133.jpg" %}
 EVS142-End-Sem-PYQ-Jan2024

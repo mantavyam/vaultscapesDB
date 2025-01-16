@@ -70,9 +70,15 @@
 
 ### Previous Year Questions
 
+\[⤓] [MidSem-PYQ-CHE101-Oct23-Btech](https://file.notion.so/f/f/a55e0ddd-0663-44e4-aa54-2e6bc5b00199/b0e7d568-6fc5-4462-8caf-59580f8fb80e/Chem_Midsem-1_Test.pdf?table=block\&id=2b8ed667-766a-4a08-a993-1586fe5efc99\&spaceId=a55e0ddd-0663-44e4-aa54-2e6bc5b00199\&expirationTimestamp=1737043200000\&signature=aIYc0aTjxRb4nEadWqlovjAhqLF-zPZ6G9H7JaoS0I8\&downloadName=Chem_Midsem-1+Test.pdf)
+
+\[⤓] EndSem-PYQ-CHE101-Jan24-Btech **\<See Image below>**
+
 {% embed url="https://file.notion.so/f/f/a55e0ddd-0663-44e4-aa54-2e6bc5b00199/f685e7b6-8144-4d64-961f-6a6f19316650/20240125_125044.jpg?downloadName=20240125_125044.jpg&expirationTimestamp=1736956800000&id=19ffaa58-92e6-42a2-aee6-2178d2704c50&signature=5qNJ5xKnLjhuhV2KiAtsFXugf7Ep5JRN_2eA3giY3Io&spaceId=a55e0ddd-0663-44e4-aa54-2e6bc5b00199&table=block" %}
 CHE101-ENDSEM-PYQ-JAN2024
 {% endembed %}
+
+\[⤓] EndSem-PYQ-CHE101-Jan23-Btech **\<See Image below>**
 
 {% embed url="https://file.notion.so/f/f/a55e0ddd-0663-44e4-aa54-2e6bc5b00199/97005b04-bad4-447d-92eb-0aca5f2128c1/Chem_PYQ.jpg?downloadName=Chem+PYQ.jpg&expirationTimestamp=1736956800000&id=ccf5f656-2145-4e47-b911-ef3446d8d868&signature=TUA3vo-vXqZaItfZDz5LtMmbDVK48UqN3E4m689zFfI&spaceId=a55e0ddd-0663-44e4-aa54-2e6bc5b00199&table=block" %}
 CHE101-ENDSEM-PYQ-JAN2023
