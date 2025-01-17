@@ -244,6 +244,16 @@
 
 ***
 
+## Notes
+
+\[⤓] \[PDF] [CSE104-Imp-Code-Topics-1Page](https://drive.google.com/file/d/184oyo9fwS43u37CgqEbfggj8zM188quE/view?usp=drive_link)
+
+\[⤓] \[PDF] [CSE104-Midsem-ShortNotes](https://drive.google.com/file/d/1zKWqv5fL7Kb1cejb3JRGQ1QGcESVxQyo/view?usp=drive_link)
+
+\[⤓] \[PDF] [CSE104-SuperFastRevise-Notes](https://drive.google.com/file/d/1xmDDsoAySFJStV_n_JXHJrckiQwrOYgY/view?usp=drive_link)
+
+\[⤓] \[PDF] [CSE104-Shortnotes](https://drive.google.com/file/d/1O6meRPYAZLRLMwajiIC-dPb1LovhE-9r/view?usp=drive_link)
+
 ## Questions Directory
 
 \[⤓] (PDF) [C Programs with Solutions](https://drive.google.com/file/d/1K-9cLcZRyKE7L4nTLVlZz8OpgeqXQU-I/view?usp=drive_link)
@@ -264,11 +274,15 @@ Solutions to Assignment
 
 \[⤓] [MidSem-PYQ-CSE104-Oct23-Btech](https://drive.google.com/file/d/13KCGaG2EyC4GYDuuR6DDw7VJWYwtc4q9/view?usp=drive_link)
 
-\[⤓] [EndSem-PYQ-CSE104-Jan24-Btech](https://drive.google.com/file/d/1b3h-A5TyzEnviqzk_4e4_1g6ofINF-IR/view?usp=drive_link) **\<See Image below>**
+\[⤓] [Back-QPaper-Nov24-CSE104](https://drive.google.com/file/d/15PZSkr3wYiaienEZzz3NFYv4FBjldsue/view?usp=drive_link)
 
-{% embed url="https://file.notion.so/f/f/a55e0ddd-0663-44e4-aa54-2e6bc5b00199/390f2f79-251e-4d31-afe4-3776638146fc/20240130_125849.jpg?downloadName=20240130_125849.jpg&expirationTimestamp=1736964000000&id=fa186760-61ff-45e5-a0fd-e67e276bb5c0&signature=CKZ-c8UK8-TCZcv7FZWGEAvIVwqvMERMT-fEAtXI_Z0&spaceId=a55e0ddd-0663-44e4-aa54-2e6bc5b00199&table=block" %}
-ENDSEM-CSE104-JAN2024
-{% endembed %}
+\[⤓] [EndSem-PYQ-CSE104-Jan24-Btech](https://drive.google.com/file/d/1b3h-A5TyzEnviqzk_4e4_1g6ofINF-IR/view?usp=drive_link)&#x20;
+
+{% embed url="https://drive.google.com/file/d/1b3h-A5TyzEnviqzk_4e4_1g6ofINF-IR/view" %}
+
+\[⤓] [EndSem-PYQ-CSE104-Jan23-Btech](https://drive.google.com/file/d/1DNu-pFxCzLkwqnOVNCpkWshmJMVAXJzq/view?usp=drive_link)&#x20;
+
+{% embed url="https://drive.google.com/file/d/1DNu-pFxCzLkwqnOVNCpkWshmJMVAXJzq/view?usp=drive_link" %}
 
 ### Important Codes
 
@@ -798,3 +812,5 @@ RECOMMENDED LEARNING
 {% embed url="https://www.programiz.com/c-programming" %}
 
 {% embed url="https://www.wscubetech.com/resources/c-programming" %}
+
+{% embed url="https://mantavyam.notion.site/17e52f7cde8880e0987fd06d33ef6019?pvs=105" %}

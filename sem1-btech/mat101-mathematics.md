@@ -252,6 +252,12 @@ Advanced Engineering Mathematics by HK Das (S Chand Publications)
 
 ***
 
+## Notes
+
+\[⤓] \[PDF] [Maths-Topics-One-PAGE](https://drive.google.com/file/d/13kBhXStMgQOqmmvVK4oyYzqxwuOwC8lb/view?usp=drive_link)
+
+\[⤓] (PDF) [MAT101-Midsem-ShortNotes](https://drive.google.com/file/d/1hinI1cPMg_1XoCahUkQ3Jd00zof_TyjK/view?usp=drive_link)
+
 ## Questions Directory
 
 {% file src=".gitbook/assets/QB_MAT101.pdf" %}
@@ -268,17 +274,13 @@ Assignment Question
 
 \[⤓] [MidSem-PYQ-MAT101-Oct23-Btech](https://drive.google.com/file/d/1JzKonlRSMQaZG_4do6--cAI88sqvm-F2/view?usp=drive_link)
 
-\[⤓] [EndSem-PYQ-MAT101-Jan24-Btech ](https://drive.google.com/file/d/1bH8mnyGaVurAvbDqDK6hRzB0l2BR1Oyd/view?usp=drive_link)**\<See Image below>**
+\[⤓] [EndSem-PYQ-MAT101-Jan24-Btech ](https://drive.google.com/file/d/1bH8mnyGaVurAvbDqDK6hRzB0l2BR1Oyd/view?usp=drive_link)
 
-{% embed url="https://file.notion.so/f/f/a55e0ddd-0663-44e4-aa54-2e6bc5b00199/9faf9ef7-05c1-4afd-bb00-0d794eea61a1/20240129_192915.jpg?downloadName=20240129_192915.jpg&expirationTimestamp=1736956800000&id=6fc2df33-c529-4d4f-9e40-a04b0545b31a&signature=j9HpsmjYBLEUMsoDQrq-RVquSIRTpp2sGma75v4T_lA&spaceId=a55e0ddd-0663-44e4-aa54-2e6bc5b00199&table=block" %}
-PYQ-MAT101-JAN2024
-{% endembed %}
+{% embed url="https://drive.google.com/file/d/1bH8mnyGaVurAvbDqDK6hRzB0l2BR1Oyd/view" %}
 
-\[⤓] [EndSem-PYQ-MAT101-Jan23-Btech](https://drive.google.com/file/d/1JLjpuWPRkI1IjLDRui4b8UCk099J8rW-/view?usp=drive_link) **\<See Image below>**
+\[⤓] [EndSem-PYQ-MAT101-Jan23-Btech](https://drive.google.com/file/d/1JLjpuWPRkI1IjLDRui4b8UCk099J8rW-/view?usp=drive_link)&#x20;
 
-{% embed url="https://file.notion.so/f/f/a55e0ddd-0663-44e4-aa54-2e6bc5b00199/aaac925c-e78f-49cf-b337-9df27f80b8f2/20240128_160554_0003.png?downloadName=20240128_160554_0003.png&expirationTimestamp=1736949600000&id=61167ca4-2eab-4419-b223-7e0d68fa91ba&signature=UOloj32LkwW5SWwXmw9qzyYSCCdeMz_U7zga3LvSQKI&spaceId=a55e0ddd-0663-44e4-aa54-2e6bc5b00199&table=block" %}
-PYQ-MAT101-JAN2023
-{% endembed %}
+{% embed url="https://drive.google.com/file/d/1JLjpuWPRkI1IjLDRui4b8UCk099J8rW-/view" %}
 
 ### Expected Questions
 
@@ -311,4 +313,8 @@ URL: [https://iqti.iisc.ac.in/wp-content/uploads/2021/06/LinearAlgebra\_Kreyszig
 
 {% embed url="https://iqti.iisc.ac.in/wp-content/uploads/2021/06/LinearAlgebra_Kreyszig.pdf" %}
 Linear Algebra: Matrices, Vectors, Determinants & Linear Systems
+{% endembed %}
+
+{% embed url="https://mantavyam.notion.site/17e52f7cde8880e0987fd06d33ef6019?pvs=105" %}
+Submit Feedback or Report Broken Links/Incorrect Content
 {% endembed %}

@@ -72,6 +72,12 @@
 
 ***
 
+## Notes
+
+\[⤓] (PDF) [CIV101-Midsem-ShortNotes](https://drive.google.com/file/d/1TqgmaQdo9zc30a2zspcM7i-HdetaSPD1/view?usp=drive_link)
+
+\[⤓] (PDF) [CIV101-Topics-Outline](https://drive.google.com/file/d/1oEFOltiIC95uPJnLEjvhB03SkX7umr0U/view?usp=drive_link)
+
 ## Questions Directory
 
 {% file src=".gitbook/assets/CIV 101 Question Bank 2023.pdf" %}
@@ -90,15 +96,15 @@
 
 \[⤓] (PDF) [**End-Sem-test-PYQ-Jan24**](https://drive.google.com/file/d/1D40YAXs7mieFgRpTVoHcawRLZZq9He2o/view?usp=drive_link)
 
-{% embed url="https://file.notion.so/f/f/a55e0ddd-0663-44e4-aa54-2e6bc5b00199/bcbaeae7-8f3a-4978-94b9-49ce19804ae6/20240201_152002.jpg?downloadName=20240201_152002.jpg&expirationTimestamp=1736971200000&id=c30f2624-b47f-4149-8b20-d7a14e0466ad&signature=drC46HXgMp7245NmpgSbrAh_9pZsYszWewhpxI9ZT-c&spaceId=a55e0ddd-0663-44e4-aa54-2e6bc5b00199&table=block" %}
-End-Sem-PYQ\_Jan24-BTECH\_CIV101
-{% endembed %}
+{% embed url="https://drive.google.com/file/d/1D40YAXs7mieFgRpTVoHcawRLZZq9He2o/view" %}
+
+\[⤓] (PDF) [**End-Sem-test-PYQ-Jan23**](https://drive.google.com/file/d/1mJMv5eSapI_eypBqDCzlskULMjpCKwOa/view?usp=drive_link)
+
+{% embed url="https://drive.google.com/file/d/1mJMv5eSapI_eypBqDCzlskULMjpCKwOa/view?usp=drive_link" %}
 
 \[⤓] (PDF) [**Mid-Sem-Test-PYQ-Oct2023**](https://drive.google.com/file/d/10v6ht93OL6KntlM7cj39wevV9I-FFpa8/view?usp=drive_link)
 
-{% embed url="https://file.notion.so/f/f/a55e0ddd-0663-44e4-aa54-2e6bc5b00199/ca9e66d8-7da3-487b-b9f5-fd180c8b2adc/image.png?downloadName=image.png&expirationTimestamp=1736971200000&id=17c52f7c-de88-8089-b005-fe32f3c5db35&signature=ZgZp8oVZPKDnL9gWs91sgJS4lT3cIgTC0sem4RsJLvs&spaceId=a55e0ddd-0663-44e4-aa54-2e6bc5b00199&table=block" %}
-MidSem-PYQ\_Oct23-BTECH\_CIV101
-{% endembed %}
+{% embed url="https://drive.google.com/file/d/10v6ht93OL6KntlM7cj39wevV9I-FFpa8/view" %}
 
 ***
 
@@ -121,3 +127,5 @@ IITG SFD & BMD - Notes
 [https://www.iitg.ac.in/kd/Lecture%20Notes/ME101-Lecture11-KD.pdf](https://www.iitg.ac.in/kd/Lecture%20Notes/ME101-Lecture11-KD.pdf)
 
 {% embed url="https://www.iitg.ac.in/kd/Lecture%20Notes/ME101-Lecture11-KD.pdf" %}
+
+{% embed url="https://mantavyam.notion.site/17e52f7cde8880e0987fd06d33ef6019?pvs=105" %}

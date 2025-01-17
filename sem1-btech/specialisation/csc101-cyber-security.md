@@ -102,6 +102,14 @@ Ask Your Current Faculty to Provide Latest Syllabus!
 
 ***
 
+## Notes
+
+\[⤓] (PDF) [CSC101-Topics-Outline](https://drive.google.com/file/d/1xcyX1N8mBMkZ2IXktpZRWFRU2nhLINAj/view?usp=drive_link)
+
+\[⤓] (PDF) [CSC101-ImpQs-Filtered+LectureNo](https://drive.google.com/file/d/1c8jnQK7Bhc-ZOlWmYzsn6KE13yG9jnyU/view?usp=drive_link)
+
+\[⤓] (PDF) [CSC101-EndSem-ShortNotes](https://drive.google.com/file/d/1RvnMzQLr38DG6LQ9cJ1RSA0VUZp9hFIP/view?usp=drive_link)
+
 ## Questions Directory
 
 {% embed url="https://www.notion.so/mantavyam/Cyber-Sec-Short-Notes-cf5a2392ef3a4698bf69225ac1f6d7bb" %}
@@ -114,17 +122,13 @@ Ask Your Current Faculty to Provide Latest Syllabus!
 
 ### Previous Year Questions
 
-\[⤓] [CSC101-End-Sem-PYQ-DEC2023](https://drive.google.com/file/d/1VnV5AiNaZvkgIF_urxKhlXBK_iZB5i3k/view?usp=drive_link) **\<See-Image-Below>**
+\[⤓] [CSC101-End-Sem-PYQ-DEC2023](https://drive.google.com/file/d/1VnV5AiNaZvkgIF_urxKhlXBK_iZB5i3k/view?usp=drive_link)&#x20;
 
-{% embed url="https://file.notion.so/f/f/a55e0ddd-0663-44e4-aa54-2e6bc5b00199/522f3673-9e2a-4ec2-91e7-03f755d11d84/20240124_202027.jpg?table=block&id=268b7977-6bdf-4ceb-93d1-5bc3f8c73305&spaceId=a55e0ddd-0663-44e4-aa54-2e6bc5b00199&expirationTimestamp=1737043200000&signature=XiEdlAP1839GPgaO9B8n7wmD7OJUCTm74B1YyBR8E2g&downloadName=20240124_202027.jpg" %}
-CSC101-End-Sem-PYQ-DEC2023
-{% endembed %}
+{% embed url="https://drive.google.com/file/d/1VnV5AiNaZvkgIF_urxKhlXBK_iZB5i3k/view" %}
 
 \[⤓] [CSC101-End-Sem-BACK-PYQ-JAN2023](https://drive.google.com/file/d/17pUZOvMUhbmJwtCXLeJiNue1knoEfWLB/view?usp=drive_link) **\<See-Image-Below>**
 
-{% embed url="https://file.notion.so/f/f/a55e0ddd-0663-44e4-aa54-2e6bc5b00199/2031812c-f9c1-43f9-bd74-e50a462e61a5/Cyber_PYQ.jpg?table=block&id=8f5a5201-ded9-4564-b3ad-d69bb5017a53&spaceId=a55e0ddd-0663-44e4-aa54-2e6bc5b00199&expirationTimestamp=1737043200000&signature=6uZr8EeZNP_xulzQdmzcu6l8PA-4jd0RKc-0XbPtU0I&downloadName=Cyber+PYQ.jpg" %}
-CSC101-End-Sem-BACK-PYQ-JAN2023
-{% endembed %}
+{% embed url="https://drive.google.com/file/d/17pUZOvMUhbmJwtCXLeJiNue1knoEfWLB/view" %}
 
 ***
 
@@ -153,3 +157,5 @@ Evolving Cyber Threat Landscape by infosys
 [https://www.infosys.com/services/cyber-security/documents/cyber-threat-landscape.pdf](https://www.infosys.com/services/cyber-security/documents/cyber-threat-landscape.pdf)
 
 {% embed url="https://www.infosys.com/services/cyber-security/documents/cyber-threat-landscape.pdf" %}
+
+{% embed url="https://mantavyam.notion.site/17e52f7cde8880e0987fd06d33ef6019?pvs=105" %}

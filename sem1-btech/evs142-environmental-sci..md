@@ -92,6 +92,12 @@
 
 ***
 
+## Notes
+
+\[⤓] (PDF) [EVS142-Midsem-ShortNotes](https://drive.google.com/file/d/1Zgatbx5PQ4hi0KDrWq27J3eMdcKLOghn/view?usp=drive_link)
+
+\[⤓] (PDF) [EVS142-M1-M4-EndSem-ShortNotes](https://drive.google.com/file/d/1gldpDX2Tz6kyc_YY-56fWWQHyI7sqpgm/view?usp=drive_link)
+
 ## Questions Directory
 
 {% file src=".gitbook/assets/EVS142_Qs Bank 2023.pdf" %}
@@ -102,11 +108,11 @@
 
 \[⤓] [EVS142-Mid-Sem-PYQ-Oct2023](https://drive.google.com/file/d/11jCnO2fAMx45yw3hYNikXAQsM8TIo4Fp/view?usp=drive_link)
 
-\[⤓] [EVS142-End-Sem-PYQ-Jan2024 ](https://drive.google.com/file/d/1iltEzwISZxNTXcb0AwRkhGWDNZPS1B-x/view?usp=drive_link)**\<See-Image-Below>**
+{% embed url="https://drive.google.com/file/d/11jCnO2fAMx45yw3hYNikXAQsM8TIo4Fp/view" %}
 
-{% embed url="https://file.notion.so/f/f/a55e0ddd-0663-44e4-aa54-2e6bc5b00199/4ea4d001-c85d-4d69-af63-6aac977c63f0/20240123_162133.jpg?table=block&id=01273d8b-4855-4e0f-a0cd-227ede1ceaea&spaceId=a55e0ddd-0663-44e4-aa54-2e6bc5b00199&expirationTimestamp=1736978400000&signature=y5zquwDZWPPE7PBzk33Ma_omc_6p3OhqzH1ns7h7RV0&downloadName=20240123_162133.jpg" %}
-EVS142-End-Sem-PYQ-Jan2024
-{% endembed %}
+\[⤓] [EVS142-End-Sem-PYQ-Jan2024 ](https://drive.google.com/file/d/1iltEzwISZxNTXcb0AwRkhGWDNZPS1B-x/view?usp=drive_link)
+
+{% embed url="https://drive.google.com/file/d/1iltEzwISZxNTXcb0AwRkhGWDNZPS1B-x/view" %}
 
 ***
 
@@ -123,3 +129,5 @@ Notes on Biodiversity by DDU.ac.in
 [https://dducollegedu.ac.in/Datafiles/cms/ecourse%20content/PK%20(AECC-EVS)%20Chapter%20-%204%20Biodiversity.pdf](https://dducollegedu.ac.in/Datafiles/cms/ecourse%20content/PK%20\(AECC-EVS\)%20Chapter%20-%204%20Biodiversity.pdf)
 
 {% embed url="https://dducollegedu.ac.in/Datafiles/cms/ecourse%20content/PK%20(AECC-EVS)%20Chapter%20-%204%20Biodiversity.pdf" %}
+
+{% embed url="https://mantavyam.notion.site/17e52f7cde8880e0987fd06d33ef6019?pvs=105" %}

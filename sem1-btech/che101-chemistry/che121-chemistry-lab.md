@@ -105,3 +105,5 @@
 ## External Sources
 
 {% embed url="https://youtu.be/SuuBIdLlSRI" %}
+
+{% embed url="https://mantavyam.notion.site/17e52f7cde8880e0987fd06d33ef6019?pvs=105" %}

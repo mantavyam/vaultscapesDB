@@ -48,6 +48,10 @@
 
 ***
 
+## Notes
+
+\[⤓] \[PDF][ BSU143-OnePage-Topics-Outline](https://drive.google.com/file/d/1JUdTGCxZgRntth0DdoI-AfsvISMAG1tO/view?usp=drive_link)
+
 ## Questions Directory
 
 {% file src=".gitbook/assets/BSU-143-QB.pdf" %}
@@ -62,7 +66,7 @@ Ask Your Current Faculty to Provide Qs Relevant with End Sem
 
 \[⤓] [BSU143-EndSem-PYQ-Jan2024](https://drive.google.com/file/d/1nc43HVIki2UfZpjV9R_yUWSzFSSijYCS/view?usp=drive_link)
 
-{% embed url="https://file.notion.so/f/f/a55e0ddd-0663-44e4-aa54-2e6bc5b00199/cc2d1fe3-baaf-4471-a177-a35fbf47528a/20240123_162141.jpg?table=block&id=26d011d2-a3ef-42cd-ad11-09518d1b57d7&spaceId=a55e0ddd-0663-44e4-aa54-2e6bc5b00199&expirationTimestamp=1736985600000&signature=vMWyedxKoNM46Dm3t5fpk_Ek3MqjZQAggbeWba2YcTU&downloadName=20240123_162141.jpg" %}
+{% embed url="https://drive.google.com/file/d/1nc43HVIki2UfZpjV9R_yUWSzFSSijYCS/view" %}
 
 ***
 
@@ -79,3 +83,5 @@ Notes on Emotional Intelligence | University of Colorado
 [https://www.cu.edu/sites/default/files/EI%20Participant%20Guide%20Updated%202015.pdf](https://www.cu.edu/sites/default/files/EI%20Participant%20Guide%20Updated%202015.pdf)
 
 {% embed url="https://www.cu.edu/sites/default/files/EI%20Participant%20Guide%20Updated%202015.pdf" %}
+
+{% embed url="https://mantavyam.notion.site/17e52f7cde8880e0987fd06d33ef6019?pvs=105" %}

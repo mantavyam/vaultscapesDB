@@ -70,13 +70,17 @@ M4-BCU141-Prose-VIDEO
 
 ***
 
+## Notes
+
+\[⤓] (PDF) [BCU141-ShortNotes-1Page](https://drive.google.com/file/d/16AZbG-5N4Fi0rbYTzBZsD9_6ggeJyxPz/view?usp=drive_link)
+
 ## Questions Directory
 
 {% file src=".gitbook/assets/UG-1-QB-BCU_141.pdf" %}
 
 ### Assignment Questions
 
-\[⤓] Assignment-BCU141-Qs
+\[⤓] (PDF) [Assignment-BCU141-Qs](https://drive.google.com/file/d/1wDj3sJ1qqQAEy8laobwVivR6Ok8iaLm5/view?usp=drive_link)
 
 {% hint style="info" %}
 Ask Your Current Faculty to Provide End sem related Questions
@@ -84,11 +88,13 @@ Ask Your Current Faculty to Provide End sem related Questions
 
 ### Previous Year Questions
 
-\[⤓] [EndSem-PYQ-Jan24-BCU141 ](https://drive.google.com/file/d/17-bUKm3eisOgpnkygXiL9yEZBQPwVJNs/view?usp=drive_link)\<See Images Below>
+\[⤓] [EndSem-PYQ-Jan24-BCU141 ](https://drive.google.com/file/d/17-bUKm3eisOgpnkygXiL9yEZBQPwVJNs/view?usp=drive_link)
 
-{% embed url="https://file.notion.so/f/f/a55e0ddd-0663-44e4-aa54-2e6bc5b00199/d86b3ac5-621f-440b-992f-49e18471997c/20240127_140443.jpg?table=block&id=61807fe0-e6a2-44fa-8cc5-b8dfd6119572&spaceId=a55e0ddd-0663-44e4-aa54-2e6bc5b00199&expirationTimestamp=1736985600000&signature=7HMxgGa5VauyV7de0FnXY42NJ4pmdIfLc9BVMYh7Zf0&downloadName=20240127_140443.jpg" %}
+{% embed url="https://drive.google.com/file/d/17-bUKm3eisOgpnkygXiL9yEZBQPwVJNs/view" %}
 
-{% embed url="https://file.notion.so/f/f/a55e0ddd-0663-44e4-aa54-2e6bc5b00199/fc9c5f1a-6424-4ca9-833b-78d97019a2f6/20240127_140451.jpg?table=block&id=31e929fa-04b7-4159-bffc-8c1c3c50fe1e&spaceId=a55e0ddd-0663-44e4-aa54-2e6bc5b00199&expirationTimestamp=1736985600000&signature=2oFQnaMo4ZuKJQR-3GeoN3C1DAYpEuNzIekVY2eG694&downloadName=20240127_140451.jpg" %}
+\[⤓] [EndSem-PYQ-Jan23-BCU141 ](https://drive.google.com/file/d/1AZAPIgOR5fkOzMfDILVdbrOSwcF16aHt/view?usp=drive_link)
+
+{% embed url="https://drive.google.com/file/d/1AZAPIgOR5fkOzMfDILVdbrOSwcF16aHt/view?usp=drive_link" %}
 
 ***
 
@@ -99,3 +105,5 @@ Marc Antony Speech - Full Text (Act III Scene 2): [https://www.wtps.org/cms/lib8
 {% embed url="https://www.wtps.org/cms/lib8/NJ01912980/Centricity/Domain/745/Antony%20funeral%20speech.pdf" %}
 
 {% embed url="https://www.scribd.com/document/179578462/Anthony-speech" %}
+
+{% embed url="https://mantavyam.notion.site/17e52f7cde8880e0987fd06d33ef6019?pvs=105" %}

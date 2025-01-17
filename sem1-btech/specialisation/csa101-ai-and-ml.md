@@ -79,8 +79,4 @@ _**we warmly invite you to contribute**_
 
 {% embed url="https://drive.google.com/file/d/1Ccxk2lk1_w0z4KiuuJmbl2D5Vl6ZT6h7/view?usp=drive_link" %}
 
-***
-
-## External Sources
-
-Links to Cover Syllabus Content
+{% embed url="https://mantavyam.notion.site/17e52f7cde8880e0987fd06d33ef6019?pvs=105" %}

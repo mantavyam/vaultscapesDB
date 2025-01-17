@@ -72,9 +72,15 @@
 
 ***
 
-## Questions Directory
+## Notes
 
-### Assignment Questions
+\[⤓] (PDF) [FLU144-Midsem-ShortNotes](https://drive.google.com/file/d/1yEvFM4JHznQSSsMpAJUTNKaLZhwsQk5V/view?usp=drive_link)
+
+\[⤓] (PDF)[ FLU144-SpeechPart-ShortNotes](https://drive.google.com/file/d/1roQIY3UqnpAcAJ4vrXuZkTm_ycorU06-/view?usp=drive_link)
+
+\[⤓] (PDF) [FLU144-GrammarPart-ShortNotes](https://drive.google.com/file/d/1b14d2kEwOc6-PaUb11x1BP2INUaFcNAO/view?usp=drive_link)
+
+## Questions Directory
 
 ### Previous Year Questions
 
@@ -82,13 +88,7 @@
 
 \[⤓] [FLU-PYQ-Jan24-Original-Endsem](https://drive.google.com/file/d/1ker2mVS5qN4z7mryTwWMZwJldPb5HkUY/view?usp=drive_link) **\<See Images Below>**
 
-{% embed url="https://file.notion.so/f/f/a55e0ddd-0663-44e4-aa54-2e6bc5b00199/52440934-ec12-43c2-b4b9-d7ab2e8331cc/20240127_140356.jpg?table=block&id=0b1974bc-85c5-46cc-bb2e-a0cbb85f9c38&spaceId=a55e0ddd-0663-44e4-aa54-2e6bc5b00199&expirationTimestamp=1736985600000&signature=PcyHz0FjbVOJ7RMMwjRP6QtHkXsfGQto9X6342Abp7E&downloadName=20240127_140356.jpg" %}
-FLU-PYQ-Jan24-Original-Pg1
-{% endembed %}
-
-{% embed url="https://file.notion.so/f/f/a55e0ddd-0663-44e4-aa54-2e6bc5b00199/0d56ac57-d82d-4671-8aed-bce76fe31bae/20240127_140429.jpg?table=block&id=d62e8a12-33e5-4489-b24d-3697657f8bbf&spaceId=a55e0ddd-0663-44e4-aa54-2e6bc5b00199&expirationTimestamp=1736985600000&signature=ck0PyyRLqWFzdUDuKeT9KB4wf_CIlqob8QXKYHO47ZM&downloadName=20240127_140429.jpg" %}
-FLU-PYQ-Jan24-Original-Pg2
-{% endembed %}
+{% embed url="https://drive.google.com/file/d/1ker2mVS5qN4z7mryTwWMZwJldPb5HkUY/view" %}
 
 {% hint style="info" %}
 Below 2 Blocks are Tabs with Switchable Content **\<Click on Top Tabs to Toggle>**
@@ -151,3 +151,5 @@ Images Below are Preview of Above PDF **(For Links to Work, Open the PDF attache
 {% embed url="https://file.notion.so/f/f/a55e0ddd-0663-44e4-aa54-2e6bc5b00199/71f653db-aa94-46a6-b865-bc174a4d107d/FRENCH_ME_PAAS-1.png?table=block&id=e2445ad9-71e3-4529-940e-3e6f62395dbe&spaceId=a55e0ddd-0663-44e4-aa54-2e6bc5b00199&expirationTimestamp=1736985600000&signature=QWVzm4XfKMTDK92QKY-X20AkWxTTDcaV-SDQ3VwF9tw&downloadName=FRENCH+ME+PAAS-1.png" %}
 
 {% embed url="https://file.notion.so/f/f/a55e0ddd-0663-44e4-aa54-2e6bc5b00199/ad22919b-672f-4370-9247-8748ddf135a4/FRENCH_ME_PAAS-2.png?table=block&id=95150b7b-0885-4e58-a103-3a1324d12aa2&spaceId=a55e0ddd-0663-44e4-aa54-2e6bc5b00199&expirationTimestamp=1736985600000&signature=AkagsNbjHu2EKOldo8jkFr33Z9rRfPL2JCvN7JGo3Q0&downloadName=FRENCH+ME+PAAS-2.png" %}
+
+{% embed url="https://mantavyam.notion.site/17e52f7cde8880e0987fd06d33ef6019?pvs=105" %}

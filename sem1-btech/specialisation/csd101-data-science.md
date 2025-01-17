@@ -75,14 +75,8 @@ _**we warmly invite you to contribute**_
 
 ### Previous Year Questions
 
-\[⤓] [CSD101-End-Sem-PYQ-JAN2023](https://drive.google.com/file/d/1t82D7YRac0LXkTpSgKHfcLvie_kKQYNx/view?usp=drive_link) **\<See-Image-Below>**
+\[⤓] [CSD101-End-Sem-PYQ-JAN2023](https://drive.google.com/file/d/1t82D7YRac0LXkTpSgKHfcLvie_kKQYNx/view?usp=drive_link)&#x20;
 
-{% embed url="https://file.notion.so/f/f/a55e0ddd-0663-44e4-aa54-2e6bc5b00199/dacffc60-0322-43a6-8a60-6cb267b23172/DS_PYQ.jpg?table=block&id=519aee54-6abb-4b41-81c1-cc577676178d&spaceId=a55e0ddd-0663-44e4-aa54-2e6bc5b00199&expirationTimestamp=1737043200000&signature=11GtCTnSxY7i4CFVwYPlGJh290fSjdGHdX0e-F8Vg4M&downloadName=DS+PYQ.jpg" %}
-CSD101-End-Sem-PYQ-JAN2023
-{% endembed %}
+{% embed url="https://drive.google.com/file/d/1t82D7YRac0LXkTpSgKHfcLvie_kKQYNx/view" %}
 
-***
-
-## External Sources
-
-Links to Cover Syllabus Content
+{% embed url="https://mantavyam.notion.site/17e52f7cde8880e0987fd06d33ef6019?pvs=105" %}

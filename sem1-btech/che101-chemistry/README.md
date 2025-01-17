@@ -62,21 +62,39 @@
 
 ***
 
+## Notes
+
+\[⤓] \[PDF] [CHE101-ImportantConcepts](https://drive.google.com/file/d/1kSFLZZQVW9XlzTM3PaO53VQ4TLXlvSr3/view?usp=drive_link)
+
+\[⤓] \[PDF] [M1-CHE101-ShortNotes-Chem-Bonding](https://drive.google.com/file/d/1St9sjwgBc4Nw1GBQa66TGNfm2MKpSwQB/view?usp=drive_link)
+
+\[⤓] \[PDF] [M2-CHE101-ShortNotes-Thermodynam](https://drive.google.com/file/d/1Z2AR3ZHrvifDW655luXnzATIT7KBVjH2/view?usp=drive_link)
+
+\[⤓] \[PDF] [M3-CHE101-ShortNotes-StereoChem](https://drive.google.com/file/d/1Ujk3SqhW49sY6aZKnMqjFqNRucDK5OY0/view?usp=drive_link)
+
+\[⤓] \[PDF] [M4-CHE101-ShortNotes-Polymers](https://drive.google.com/file/d/1uJOl6M_2ScP3ICvCVHdxrJP7Rw5QhEu7/view?usp=drive_link)
+
+\[⤓] \[PDF] [M5+6-CHE101-ShortNotes-WaterChem+Spectro](https://drive.google.com/file/d/1IgcRMEAJexFUQjnTwY-g23JQVyp_gX9s/view?usp=drive_link)
+
+\[⤓] \[PDF] [M6-CHE101-1Page-ShortNotes-Spectroscopy](https://drive.google.com/file/d/1szrfLK7t2WCAsbjbmREi2lHNdSy7R1wE/view?usp=drive_link)
+
 ## Questions Directory
 
 ### Assignment Questions
 
 \[⤓] \[PDF] [Assignment-EndSem-DrShivendra-CHE101](https://drive.google.com/file/d/1y-xKGEWA8gYxcKD9fNIeKuohxTYEvj9h/view?usp=drive_link)
 
+\[⤓] \[PDF] [BackPaper-Assignment-Nov24-CHE101](https://drive.google.com/file/d/1FP5DLmogl1GtV78NnXZpoOh1shqKwWmW/view?usp=drive_link)
+
 ### Previous Year Questions
 
 \[⤓] [MidSem-PYQ-CHE101-Oct23-Btech](https://drive.google.com/file/d/1K6IJw-AKF7U2BxNUBqoVT9AFZ1wgci-Q/view?usp=drive_link)
 
+\[⤓] [Back-QPaper-Nov24-CHE101](https://drive.google.com/file/d/13_mslOhgFzRmCMahSb1E5voMK7KsWtbA/view?usp=drive_link)
+
 \[⤓] [EndSem-PYQ-CHE101-Jan24-Btech](https://drive.google.com/file/d/1KygNQF40xNW8Kaathp37X3Y0VXowXfdN/view?usp=drive_link) **\<See Image below>**
 
-{% embed url="https://file.notion.so/f/f/a55e0ddd-0663-44e4-aa54-2e6bc5b00199/f685e7b6-8144-4d64-961f-6a6f19316650/20240125_125044.jpg?downloadName=20240125_125044.jpg&expirationTimestamp=1736956800000&id=19ffaa58-92e6-42a2-aee6-2178d2704c50&signature=5qNJ5xKnLjhuhV2KiAtsFXugf7Ep5JRN_2eA3giY3Io&spaceId=a55e0ddd-0663-44e4-aa54-2e6bc5b00199&table=block" %}
-CHE101-ENDSEM-PYQ-JAN2024
-{% endembed %}
+{% embed url="https://drive.google.com/file/d/1KygNQF40xNW8Kaathp37X3Y0VXowXfdN/view" %}
 
 \[⤓] [EndSem-PYQ-CHE101-Jan23-Btech](https://drive.google.com/file/d/1EEjQ9WBKbXe_XA5IEFZuqGFoEIrBtP-4/view?usp=drive_link) **\<See Image below>**
 
@@ -101,3 +119,4 @@ CHE101-ENDSEM-PYQ-JAN2023
 M6-Instrumental-Methods
 {% endembed %}
 
+{% embed url="https://mantavyam.notion.site/17e52f7cde8880e0987fd06d33ef6019?pvs=105" %}
