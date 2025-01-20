@@ -4,7 +4,9 @@
 
 {% file src=".gitbook/assets/MAT101-Syllabus-BTECH-IT.pdf" %}
 
-View: CONCEPT-Distribution-Module-wise
+View: [CONCEPT-Distribution-Module-wise](https://drive.google.com/file/d/1J1yM1OFYvGASlZ6JvT6KxPJpzMrlGT1C/view?usp=drive_link)
+
+{% embed url="https://drive.google.com/file/d/1J1yM1OFYvGASlZ6JvT6KxPJpzMrlGT1C/view?usp=drive_link" %}
 
 ### References:
 
@@ -266,9 +268,9 @@ Official-QB-MAT101
 
 ### Assignment Questions
 
-{% embed url="https://file.notion.so/f/f/a55e0ddd-0663-44e4-aa54-2e6bc5b00199/191980e6-6c89-4d3e-99c6-c16cc7b16248/20240128_160554_0004.png?downloadName=20240128_160554_0004.png&expirationTimestamp=1736949600000&id=27e84741-b872-4ae7-87b1-084a4751977b&signature=QwIZgIWFR7oexswP4OcgxF06TS5D2G-GgIZGPe-5SKU&spaceId=a55e0ddd-0663-44e4-aa54-2e6bc5b00199&table=block" %}
-Assignment Question
-{% endembed %}
+\[⤓] [MAT101-Assignment-Qs-Dec23-Btech](https://drive.google.com/file/d/1IvvCgqiQcSFSX8BLdl_ERgWymde2UY_M/view?usp=sharing)
+
+{% embed url="https://drive.google.com/file/d/1IvvCgqiQcSFSX8BLdl_ERgWymde2UY_M/view?usp=drive_link" %}
 
 ### Previous Year Questions
 
@@ -284,28 +286,15 @@ Assignment Question
 
 ### Expected Questions
 
-{% embed url="https://file.notion.so/f/f/a55e0ddd-0663-44e4-aa54-2e6bc5b00199/8922c13e-0785-4739-854e-2f0e35a285bc/20240128_160554_0000.png?downloadName=20240128_160554_0000.png&expirationTimestamp=1736949600000&id=1255db6d-ec1b-4a05-a771-a0656e809095&signature=3gTCVE9P6sDhrMt26l2dm1cppFepUigVsKZ5PxtBcwQ&spaceId=a55e0ddd-0663-44e4-aa54-2e6bc5b00199&table=block" %}
-Expected Question Types
-{% endembed %}
+\[⤓] [MAT101-Expected-Qs-Priority-1](https://drive.google.com/file/d/1rgqc1umieyWZLDXLQ3Tyo3M6rxToCLnd/view?usp=drive_link)
 
-{% embed url="https://file.notion.so/f/f/a55e0ddd-0663-44e4-aa54-2e6bc5b00199/0827fa1f-64de-45a4-b050-b53caa2f119b/20240128_160554_0001.png?downloadName=20240128_160554_0001.png&expirationTimestamp=1736949600000&id=8d526142-80eb-4325-801a-f38d46bf4642&signature=iyXvVT3wHo2mdkmVm5viGGkCliLo7SCWdoEohZT81-Q&spaceId=a55e0ddd-0663-44e4-aa54-2e6bc5b00199&table=block" %}
-Second Priority
-{% endembed %}
+{% embed url="https://drive.google.com/file/d/1rgqc1umieyWZLDXLQ3Tyo3M6rxToCLnd/view?usp=drive_link" %}
+
+\[⤓] [MAT101-Expected-Qs-Priority-2](https://drive.google.com/file/d/1jYoOzkHcSnv1EqmTDaJrGdKc_PQiEc7L/view?usp=drive_link)
+
+{% embed url="https://drive.google.com/file/d/1jYoOzkHcSnv1EqmTDaJrGdKc_PQiEc7L/view?usp=drive_link" %}
 
 ## External Sources
-
-**Ref: IITK Notes on Mathematics includes topics:**
-
-* Linear Algebra
-* Ordinary Differential Equation
-* Laplace Transform
-* Numerical Application
-
-URL: [https://home.iitk.ac.in/\~peeyush/102A/Lecture-notes.pdf](https://home.iitk.ac.in/~peeyush/102A/Lecture-notes.pdf)
-
-{% embed url="https://home.iitk.ac.in/~peeyush/102A/Lecture-notes.pdf" %}
-IITK Notes on Mathematics
-{% endembed %}
 
 **Ref: IISC Notes on Linear Algebra: Matrices, Vectors, Determinants & Linear Systems**
 
@@ -313,6 +302,10 @@ URL: [https://iqti.iisc.ac.in/wp-content/uploads/2021/06/LinearAlgebra\_Kreyszig
 
 {% embed url="https://iqti.iisc.ac.in/wp-content/uploads/2021/06/LinearAlgebra_Kreyszig.pdf" %}
 Linear Algebra: Matrices, Vectors, Determinants & Linear Systems
+{% endembed %}
+
+{% embed url="https://mantavyam.notion.site/18152f7cde8880d699a5f2e65f87374e?pvs=105" %}
+Get Credited for sharing your Knowledge Source with your Peers
 {% endembed %}
 
 {% embed url="https://mantavyam.notion.site/17e52f7cde8880e0987fd06d33ef6019?pvs=105" %}

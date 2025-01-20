@@ -84,7 +84,7 @@
 
 \[⤓]-[L28-Hotspots](https://drive.google.com/file/d/1KCmUN3hK-fe-xatGf6z1ZJf2gcnnhiHJ/view?usp=drive_link)
 
-\[⤓]-[L29-Threats](https://app.gitbook.com/s/YDFKNytv0No4lZEY4UoK/)
+\[⤓]-[L29-Threats](https://drive.google.com/file/d/1qQBbXpcRm8odHaPZ2XnhMnfGG9t_BBUY/view?usp=sharing)
 
 \[⤓]-[L30-Conservation](https://drive.google.com/file/d/1KaqJSTy4JZrJBT5aGgJ-GYJ3OqkZOLeY/view?usp=drive_link)
 
@@ -129,5 +129,9 @@ Notes on Biodiversity by DDU.ac.in
 [https://dducollegedu.ac.in/Datafiles/cms/ecourse%20content/PK%20(AECC-EVS)%20Chapter%20-%204%20Biodiversity.pdf](https://dducollegedu.ac.in/Datafiles/cms/ecourse%20content/PK%20\(AECC-EVS\)%20Chapter%20-%204%20Biodiversity.pdf)
 
 {% embed url="https://dducollegedu.ac.in/Datafiles/cms/ecourse%20content/PK%20(AECC-EVS)%20Chapter%20-%204%20Biodiversity.pdf" %}
+
+{% embed url="https://mantavyam.notion.site/18152f7cde8880d699a5f2e65f87374e?pvs=105" %}
+Get Credited for sharing your Knowledge Source with your Peers
+{% endembed %}
 
 {% embed url="https://mantavyam.notion.site/17e52f7cde8880e0987fd06d33ef6019?pvs=105" %}

@@ -6,9 +6,7 @@
 
 ## Exam Schedule
 
-<img src=".gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
-
-
+<figure><img src=".gitbook/assets/timeline-exam-y1s1-btech-vaultscapes.png" alt=""><figcaption></figcaption></figure>
 
 ## Subject Wise Resources
 
@@ -155,5 +153,9 @@
 \[⤓] \[PDF][ Back-QPaper-Nov24-CHE101](https://drive.google.com/file/d/13_mslOhgFzRmCMahSb1E5voMK7KsWtbA/view?usp=drive_link)
 
 \[⤓] \[PDF] [Back-QPaper-Nov24-CSE104](https://drive.google.com/file/d/15PZSkr3wYiaienEZzz3NFYv4FBjldsue/view?usp=drive_link)
+
+{% embed url="https://mantavyam.notion.site/18152f7cde8880d699a5f2e65f87374e?pvs=105" %}
+Get Credited for sharing your Knowledge Source with your Peers
+{% endembed %}
 
 {% embed url="https://mantavyam.notion.site/17e52f7cde8880e0987fd06d33ef6019?pvs=105" %}

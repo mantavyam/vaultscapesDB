@@ -4,6 +4,10 @@
 
 {% file src=".gitbook/assets/FLU144-Syllabus-BTECH-IT.pdf" %}
 
+\[⤓] [FLU144-French-Syllabus-Topics-English](https://drive.google.com/file/d/1hyu3mf1dgpk_9Sl-Zi7ZfzRWUJ_L05jN/view?usp=drive_link)
+
+{% embed url="https://drive.google.com/file/d/1hyu3mf1dgpk_9Sl-Zi7ZfzRWUJ_L05jN/view?usp=drive_link" %}
+
 ## Resources
 
 <details>
@@ -132,7 +136,9 @@ Create Your Own Exam Strategy based on Current Pattern.&#x20;
 * Ask Current Faculty to provide Direction & High Probability Topics for preparation of End Sem Examination.
 {% endhint %}
 
-{% embed url="https://file.notion.so/f/f/a55e0ddd-0663-44e4-aa54-2e6bc5b00199/02f5564f-5d4e-420a-836a-a788d223e112/FRENCH_ME_PAAS-3.png?table=block&id=d2d6da68-7001-4fc3-924f-ca313c21f8af&spaceId=a55e0ddd-0663-44e4-aa54-2e6bc5b00199&expirationTimestamp=1736985600000&signature=RuBaW5O_DetRPeV9x_zzzVZkntFWtopKkCZYui0A44w&downloadName=FRENCH+ME+PAAS-3.png" %}
+\[⤓] [FLU144-Expected-Qs-Types](https://drive.google.com/file/d/1TQIDM-S8QHbKMKj0Dd-HKB0w2WaHpyLt/view?usp=drive_link) (Analysis Based on Past UG Papers)
+
+{% embed url="https://drive.google.com/file/d/1TQIDM-S8QHbKMKj0Dd-HKB0w2WaHpyLt/view?usp=drive_link" %}
 
 ***
 
@@ -145,11 +151,15 @@ DOWNLOAD-TOPIC-WISE-LINKS-YT
 {% hint style="success" %}
 NOTE: PDF Attached above contains Links to YouTube Videos for Topic Wise Preparation of French for End Semester, On Clicking the Video Player Icon under specific topic you'll be redirected to the Video.
 
-Images Below are Preview of Above PDF **(For Links to Work, Open the PDF attached above)**
+Given Below is a Preview of Above PDF **(For Links to Work, Open the PDF attached above)**
 {% endhint %}
 
-{% embed url="https://file.notion.so/f/f/a55e0ddd-0663-44e4-aa54-2e6bc5b00199/71f653db-aa94-46a6-b865-bc174a4d107d/FRENCH_ME_PAAS-1.png?table=block&id=e2445ad9-71e3-4529-940e-3e6f62395dbe&spaceId=a55e0ddd-0663-44e4-aa54-2e6bc5b00199&expirationTimestamp=1736985600000&signature=QWVzm4XfKMTDK92QKY-X20AkWxTTDcaV-SDQ3VwF9tw&downloadName=FRENCH+ME+PAAS-1.png" %}
+{% embed url="https://drive.google.com/file/d/159dtquRU8h4A9fK7P_qfYJ5_BCIQmqb9/view?usp=sharing" %}
+PDF Contains Links to YouTube Videos for French
+{% endembed %}
 
-{% embed url="https://file.notion.so/f/f/a55e0ddd-0663-44e4-aa54-2e6bc5b00199/ad22919b-672f-4370-9247-8748ddf135a4/FRENCH_ME_PAAS-2.png?table=block&id=95150b7b-0885-4e58-a103-3a1324d12aa2&spaceId=a55e0ddd-0663-44e4-aa54-2e6bc5b00199&expirationTimestamp=1736985600000&signature=AkagsNbjHu2EKOldo8jkFr33Z9rRfPL2JCvN7JGo3Q0&downloadName=FRENCH+ME+PAAS-2.png" %}
+{% embed url="https://mantavyam.notion.site/18152f7cde8880d699a5f2e65f87374e?pvs=105" %}
+Get Credited for sharing your Knowledge Source with your Peers
+{% endembed %}
 
 {% embed url="https://mantavyam.notion.site/17e52f7cde8880e0987fd06d33ef6019?pvs=105" %}
