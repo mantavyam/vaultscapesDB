@@ -118,3 +118,8 @@ Write a Program to Show how file management is done in C++.&#x20;
 
 </details>
 
+### Assignment Questions
+
+\[⤓] \[PDF] [Assignment-CSE224-Btech](https://drive.google.com/file/d/1ZMqRUzMuC0qvAWGKibVACaLMkoHgEM-1/view?usp=drive_link)
+
+{% embed url="https://mantavyam.notion.site/17e52f7cde8880e0987fd06d33ef6019" %}

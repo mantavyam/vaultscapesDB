@@ -40,10 +40,6 @@
 | <p>Les verbes du premier groupe<br>en-e_er, -é and, -eler, - eter<br></p> | <p>Verbs from the first group<br>en-e_er, -é and, -eler, - eter<br></p> |
 | Le verbe prendre                                                          | The verb take.                                                          |
 
-### References
-
-***
-
 ## Resources
 
 <details>
@@ -62,20 +58,34 @@
 
 </details>
 
+## Notes
+
+\[⤓] [FLU244-Midsem-Short-KeyNotes](https://drive.google.com/file/d/102AnZA7fhvYVHe0q-zXlXYCBNyl4QqGk/view?usp=drive_link)
+
+{% embed url="https://drive.google.com/file/d/102AnZA7fhvYVHe0q-zXlXYCBNyl4QqGk/view?usp=drive_link" %}
+
+\[⤓] [FLU244-Endsem-Grammar-KeyNotes](https://drive.google.com/file/d/1SM2P8bTw_6NT376aLI7Y1Ap6k8PAOO8t/view?usp=drive_link)
+
+{% embed url="https://drive.google.com/file/d/1SM2P8bTw_6NT376aLI7Y1Ap6k8PAOO8t/view?usp=drive_link" %}
+
+\[⤓] [FLU244-Endsem-Speech-KeyNotes](https://drive.google.com/file/d/1X3lrZxdHIHzZth07tvROOZrJfOsFNJX1/view?usp=drive_link)
+
+{% embed url="https://drive.google.com/file/d/1X3lrZxdHIHzZth07tvROOZrJfOsFNJX1/view?usp=drive_link" %}
+
 ## Questions Directory
-
-### Question Bank
-
-### Assignment Questions
 
 ### Previous Year Questions
 
-### Back Paper Assignment
+\[⤓] \[PDF] [MidSem-PYQ-FLU244-Apr24-Btech](https://drive.google.com/file/d/1_Y3I9ksX1GJY4c98xUgsL1ja3JFx2lDf/view?usp=drive_link)
 
-### Back Paper Questions
+{% embed url="https://drive.google.com/file/d/1_Y3I9ksX1GJY4c98xUgsL1ja3JFx2lDf/view?usp=drive_link" %}
 
-### Expected Questions
+\[⤓] \[PDF] [EndSem-PYQ-FLU244-Jun22-Btech](https://drive.google.com/file/d/1EeOLy0lnqpl5dKoY94ZWhYGWaFlR95Rt/view?usp=drive_link)
+
+{% embed url="https://drive.google.com/file/d/1EeOLy0lnqpl5dKoY94ZWhYGWaFlR95Rt/view?usp=drive_link" %}
 
 ***
 
 ## External Sources
+
+{% embed url="https://mantavyam.notion.site/17e52f7cde8880e0987fd06d33ef6019" %}

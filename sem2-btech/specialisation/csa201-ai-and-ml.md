@@ -50,18 +50,28 @@
 
 ## Questions Directory
 
-### Question Bank
-
-### Assignment Questions
-
 ### Previous Year Questions
 
-### Back Paper Assignment
+\[⤓] \[PDF][ MidSem-PYQ-CSA201-Apr24-Btech](https://drive.google.com/file/d/1UO5-RpJl2kkWiyrdn7zS2h7NQ2y6u-K1/view?usp=drive_link)
 
-### Back Paper Questions
+{% embed url="https://drive.google.com/file/d/1UO5-RpJl2kkWiyrdn7zS2h7NQ2y6u-K1/view?usp=drive_link" %}
 
-### Expected Questions
+\[⤓] \[PDF] [EndSem-PYQ-CSA201-Jun22-Btech](https://drive.google.com/file/d/1SVaa_8WRUxS1uXdX9O6wEeX5M1Xu520H/view?usp=drive_link)
+
+{% embed url="https://drive.google.com/file/d/1SVaa_8WRUxS1uXdX9O6wEeX5M1Xu520H/view?usp=drive_link" %}
+
+\[⤓] \[PDF] [EndSem-PYQ-CSA201-Jun23-Btech](https://drive.google.com/file/d/1Oo7wR0Ju3PEH2sGgf-t4DbAWAhGaBtDw/view?usp=drive_link)
+
+{% embed url="https://drive.google.com/file/d/1Oo7wR0Ju3PEH2sGgf-t4DbAWAhGaBtDw/view?usp=drive_link" %}
+
+\[⤓] \[PDF] [EndSem-PYQ-CSA201-Jun24-Btech](https://drive.google.com/file/d/1i-0TaP9y51NG6bbWXTWD2YxMD8GpxGwu/view?usp=drive_link)
+
+{% embed url="https://drive.google.com/file/d/1i-0TaP9y51NG6bbWXTWD2YxMD8GpxGwu/view?usp=drive_link" %}
+
+### Assignment Questions
 
 ***
 
 ## External Sources
+
+{% embed url="https://mantavyam.notion.site/17e52f7cde8880e0987fd06d33ef6019" %}

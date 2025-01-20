@@ -2,6 +2,8 @@
 
 ## Syllabus
 
+{% file src=".gitbook/assets/BSU243-Syllabus-BTECH-IT.pdf" %}
+
 ### References
 
 ***
@@ -48,20 +50,24 @@
 
 </details>
 
+## Notes
+
+\[⤓] [BSU243-Endsem-All-Modules-KeyNotes](https://drive.google.com/file/d/1lnerNgrU2z0mPvR45FRnFNaBzJolyzNC/view?usp=drive_link)
+
+{% embed url="https://drive.google.com/file/d/1lnerNgrU2z0mPvR45FRnFNaBzJolyzNC/view?usp=drive_link" %}
+
 ## Questions Directory
-
-### Question Bank
-
-### Assignment Questions
 
 ### Previous Year Questions
 
-### Back Paper Assignment
+\[⤓] \[PDF] [EndSem-PYQ-BSU243-Jun22-Btech](https://drive.google.com/file/d/1u-SWdfaNPVDiJu9Uyd9DStsyuKo4V7GR/view?usp=drive_link)
 
-### Back Paper Questions
+{% embed url="https://drive.google.com/file/d/1u-SWdfaNPVDiJu9Uyd9DStsyuKo4V7GR/view?usp=drive_link" %}
 
-### Expected Questions
+### Assignment Questions
 
 ***
 
 ## External Sources
+
+{% embed url="https://mantavyam.notion.site/17e52f7cde8880e0987fd06d33ef6019" %}
