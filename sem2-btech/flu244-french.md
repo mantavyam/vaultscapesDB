@@ -46,7 +46,7 @@
 
 <summary>Speech</summary>
 
-
+\[⤓] [FLU244-COMPLETE-Speech-KeyNotes](https://drive.google.com/file/d/1X3lrZxdHIHzZth07tvROOZrJfOsFNJX1/view?usp=drive_link)
 
 </details>
 
@@ -54,7 +54,7 @@
 
 <summary>Grammar</summary>
 
-
+\[⤓] [FLU244-COMPLETE-Grammar-KeyNotes](https://drive.google.com/file/d/1SM2P8bTw_6NT376aLI7Y1Ap6k8PAOO8t/view?usp=drive_link)
 
 </details>
 
@@ -87,5 +87,19 @@
 ***
 
 ## External Sources
+
+{% embed url="https://www.youtube.com/@learnfrenchwithalexa/videos" %}
+RECOMMENDED
+{% endembed %}
+
+{% embed url="https://www.youtube.com/@frenchpod101/videos" %}
+
+{% embed url="https://www.youtube.com/@LearnFrenchBySuchita/videos" %}
+
+***
+
+{% embed url="https://mantavyam.notion.site/18152f7cde8880d699a5f2e65f87374e?pvs=105" %}
+Get Credited for sharing your Knowledge Source with your Peers
+{% endembed %}
 
 {% embed url="https://mantavyam.notion.site/17e52f7cde8880e0987fd06d33ef6019" %}

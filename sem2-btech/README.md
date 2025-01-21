@@ -6,6 +6,10 @@
 
 ### Exam Schedule <a href="#exam-schedule" id="exam-schedule"></a>
 
+<figure><img src=".gitbook/assets/exams-timeline-btech-y1s2-vaultscapes.png" alt=""><figcaption></figcaption></figure>
+
+
+
 ## Subject Wise Resources
 
 <table data-view="cards"><thead><tr><th></th><th data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>MAT201</td><td><a href="README (1).md">README (1).md</a></td><td><a href=".gitbook/assets/icon-mat.png">icon-mat.png</a></td></tr><tr><td>PHY101</td><td><a href="phy101-physics/">phy101-physics</a></td><td><a href=".gitbook/assets/icon-phy.png">icon-phy.png</a></td></tr><tr><td>PHY121</td><td><a href="phy101-physics/phy121-physics-lab.md">phy121-physics-lab.md</a></td><td><a href=".gitbook/assets/icon-phy.png">icon-phy.png</a></td></tr><tr><td>CSE204</td><td><a href="cse204-c++/">cse204-c++</a></td><td><a href=".gitbook/assets/icon-cse.png">icon-cse.png</a></td></tr><tr><td>CSE224</td><td><a href="cse204-c++/cse224-c++-lab.md">cse224-c++-lab.md</a></td><td><a href=".gitbook/assets/icon-cse.png">icon-cse.png</a></td></tr><tr><td>ECE101</td><td><a href="ece101-electrical-engg./">ece101-electrical-engg.</a></td><td><a href=".gitbook/assets/icon-ece.png">icon-ece.png</a></td></tr><tr><td>ECE121</td><td><a href="ece101-electrical-engg./ece121-electrical-engg.-lab.md">ece121-electrical-engg.-lab.md</a></td><td><a href=".gitbook/assets/icon-ece.png">icon-ece.png</a></td></tr><tr><td>EVS242</td><td><a href="evs242-environmental-science.md">evs242-environmental-science.md</a></td><td><a href=".gitbook/assets/icon-evs.png">icon-evs.png</a></td></tr><tr><td>BSU243</td><td><a href="bsu243-behavioural-science.md">bsu243-behavioural-science.md</a></td><td><a href=".gitbook/assets/icon-bsu.png">icon-bsu.png</a></td></tr><tr><td>BCU241</td><td><a href="bcu241-communication.md">bcu241-communication.md</a></td><td><a href=".gitbook/assets/icon-bcu.png">icon-bcu.png</a></td></tr><tr><td>FLU244</td><td><a href="flu244-french.md">flu244-french.md</a></td><td><a href=".gitbook/assets/icon-flu.png">icon-flu.png</a></td></tr><tr><td>BME223</td><td><a href="bme223-engg.-graphics.md">bme223-engg.-graphics.md</a></td><td><a href=".gitbook/assets/icon-bme.png">icon-bme.png</a></td></tr><tr><td>CSC201</td><td><a href="specialisation/csc201-cyber-security.md">csc201-cyber-security.md</a></td><td><a href=".gitbook/assets/icon-csc.png">icon-csc.png</a></td></tr><tr><td>CSA201</td><td><a href="specialisation/csa201-ai-and-ml.md">csa201-ai-and-ml.md</a></td><td><a href=".gitbook/assets/icon-csa.png">icon-csa.png</a></td></tr><tr><td>CSD201</td><td><a href="specialisation/csd201-data-science.md">csd201-data-science.md</a></td><td><a href=".gitbook/assets/icon-csd.png">icon-csd.png</a></td></tr><tr><td>CSI201</td><td><a href="specialisation/csi201-iot.md">csi201-iot.md</a></td><td><a href=".gitbook/assets/icon-csi.png">icon-csi.png</a></td></tr></tbody></table>
@@ -148,5 +152,9 @@
 \[⤓] [EndSem-PYQ-CSI201-Jun22](https://drive.google.com/file/d/1E1BKEYCbkO0Fp52Renxt_Iwu9zm-hT_R/view?usp=drive_link)
 
 \[⤓][ EndSem-PYQ-CSI201-Jun23](https://drive.google.com/file/d/1dcZEF8MvjNTw0FBK5WFtoPMv9CBR1r0t/view?usp=drive_link)
+
+{% embed url="https://mantavyam.notion.site/18152f7cde8880d699a5f2e65f87374e?pvs=105" %}
+Get Credited for sharing your Knowledge Source with your Peers
+{% endembed %}
 
 {% embed url="https://mantavyam.notion.site/17e52f7cde8880e0987fd06d33ef6019" %}

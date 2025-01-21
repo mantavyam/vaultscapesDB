@@ -14,23 +14,92 @@
 
 <summary>M1: Introduction to OOP </summary>
 
+**Review of C**&#x20;
 
+* Difference between C and C++
+* Procedure-Oriented vs. Object-Oriented Approach.&#x20;
+
+**Basic Concepts**&#x20;
+
+* Objects and Classes
+* Principles of Object-Oriented Programming
+* Dynamic Binding and Message Passing.&#x20;
+
+**Characteristics of Object-Oriented Languages**&#x20;
+
+**Object-Oriented Modeling Techniques**&#x20;
+
+* Object Modeling
+* Functional Modeling
+* Dynamic Modeling.
 
 </details>
 
 <details>
 
-<summary>M2: Concepts of OOP in C++</summary>
+<summary>M2: Classes &#x26; Objects</summary>
 
+Abstract Data Types&#x20;
 
+Objects and Classes
+
+Operators and Functions
+
+Constructors and Destructors
 
 </details>
 
 <details>
 
-<summary>M3: Dynamic Memory, STL &#x26; Namespaces</summary>
+<summary>M3: Inheritance</summary>
 
+Types of Inheritance
 
+Access Modes: Public, Private, Protected
+
+Abstract Classes
+
+Overriding Inheritance Methods.
+
+Nesting of Classes
+
+</details>
+
+<details>
+
+<summary>M4: Polymorphism</summary>
+
+Compile-Time Polymorphism
+
+Run-Time Polymorphism
+
+Function Overloading
+
+Operator Overloading
+
+The 'this' Pointer
+
+Virtual Functions
+
+Pure Virtual Functions
+
+</details>
+
+<details>
+
+<summary>M5: Strings, Files and Exception Handling</summary>
+
+Manipulating Strings
+
+Files Handling
+
+Exception Handling
+
+Function Templates
+
+Class Templates
+
+Standard Template Library (STL)
 
 </details>
 
@@ -63,5 +132,15 @@
 ***
 
 ## External Sources
+
+{% embed url="https://www.tutorialspoint.com/cplusplus/index.htm" %}
+
+{% embed url="https://www.geeksforgeeks.org/cpp-tutorial/" %}
+
+{% embed url="https://www.programiz.com/cpp-programming" %}
+
+{% embed url="https://mantavyam.notion.site/18152f7cde8880d699a5f2e65f87374e?pvs=105" %}
+Get Credited for sharing your Knowledge Source with your Peers
+{% endembed %}
 
 {% embed url="https://mantavyam.notion.site/17e52f7cde8880e0987fd06d33ef6019" %}
