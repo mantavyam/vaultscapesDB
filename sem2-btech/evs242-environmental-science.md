@@ -121,9 +121,15 @@
 
 {% embed url="https://drive.google.com/file/d/11jHkCpRRtM6011sk4kUqqVXlVQ5qd0ZA/view?usp=drive_link" %}
 
-***
-
 ## External Sources
+
+**Lecture Notes on Environment Pollution | Shivaji College**
+
+[https://www.shivajicollege.ac.in/Study/Environmental%20Pollution.pdf](https://www.shivajicollege.ac.in/Study/Environmental%20Pollution.pdf)
+
+{% embed url="https://www.shivajicollege.ac.in/Study/Environmental%20Pollution.pdf" %}
+
+***
 
 {% embed url="https://mantavyam.notion.site/18152f7cde8880d699a5f2e65f87374e?pvs=105" %}
 Get Credited for sharing your Knowledge Source with your Peers

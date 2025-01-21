@@ -140,9 +140,9 @@
 
 {% embed url="https://drive.google.com/file/d/1rbU9SyHbZ0yK45H6fWmTD5LNdutGt2Lf/view?usp=drive_link" %}
 
-***
-
 ## External Sources
+
+***
 
 {% embed url="https://mantavyam.notion.site/18152f7cde8880d699a5f2e65f87374e?pvs=105" %}
 Get Credited for sharing your Knowledge Source with your Peers

@@ -4,10 +4,6 @@
 
 {% file src=".gitbook/assets/BSU243-Syllabus-BTECH-IT.pdf" %}
 
-### References
-
-***
-
 ## Resources
 
 <details>
@@ -72,9 +68,15 @@
 
 {% embed url="https://drive.google.com/file/d/1u-SWdfaNPVDiJu9Uyd9DStsyuKo4V7GR/view?usp=drive_link" %}
 
-***
-
 ## External Sources
+
+{% embed url="https://www.simplypsychology.org/the-myers-briggs-type-indicator.html" %}
+
+{% embed url="https://www.verywellmind.com/the-big-five-personality-dimensions-2795422" %}
+
+{% embed url="https://www.psychologs.com/psychology-behind-patriotism/?srsltid=AfmBOorAJBqKNo-CoyjKouZ2IyPgFK1FWli6HELuvko8XvuGvvOkIKPW" %}
+
+***
 
 {% embed url="https://mantavyam.notion.site/18152f7cde8880d699a5f2e65f87374e?pvs=105" %}
 Get Credited for sharing your Knowledge Source with your Peers

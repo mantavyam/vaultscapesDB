@@ -129,8 +129,6 @@ Standard Template Library (STL)
 
 {% embed url="https://drive.google.com/file/d/11QjKG3frYur0YQVLRPRg5LCRR3GuknCm/view?usp=drive_link" %}
 
-***
-
 ## External Sources
 
 {% embed url="https://www.tutorialspoint.com/cplusplus/index.htm" %}
@@ -138,6 +136,8 @@ Standard Template Library (STL)
 {% embed url="https://www.geeksforgeeks.org/cpp-tutorial/" %}
 
 {% embed url="https://www.programiz.com/cpp-programming" %}
+
+***
 
 {% embed url="https://mantavyam.notion.site/18152f7cde8880d699a5f2e65f87374e?pvs=105" %}
 Get Credited for sharing your Knowledge Source with your Peers

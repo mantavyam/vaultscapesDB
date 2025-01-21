@@ -72,9 +72,19 @@ M4-PROSE-WingsOfFire
 
 {% embed url="https://drive.google.com/file/d/1q1j4i8oNEZ35nODrsDNCM5ngZ198cLr0/view?usp=drive_link" %}
 
-***
-
 ## External Sources
+
+{% embed url="https://www.engati.com/glossary/communication-model" %}
+
+{% embed url="https://eklavyaparv.com/content/communication-skills/250-non-verbal-communication-knowing-koppact" %}
+KOPPACT Theory
+{% endembed %}
+
+{% embed url="http://kuvempu.ac.in/eng/studymetrial/Login/Admin/study_material/281917-04-2020Communicative%20english.pdf" %}
+LSRW
+{% endembed %}
+
+***
 
 {% embed url="https://mantavyam.notion.site/18152f7cde8880d699a5f2e65f87374e?pvs=105" %}
 Get Credited for sharing your Knowledge Source with your Peers

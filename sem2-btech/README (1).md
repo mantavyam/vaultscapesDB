@@ -139,8 +139,6 @@
 
 {% embed url="https://drive.google.com/file/d/1Xm1Xn8XMD3MKXKV85Mid4PSkCzHXqIi4/view?usp=drive_link" %}
 
-***
-
 ## External Sources
 
 **Ref: IITK Notes on Mathematics includes topics:**
@@ -153,6 +151,8 @@
 URL: [https://home.iitk.ac.in/\~peeyush/102A/Lecture-notes.pdf](https://home.iitk.ac.in/~peeyush/102A/Lecture-notes.pdf)
 
 {% embed url="https://home.iitk.ac.in/~peeyush/102A/Lecture-notes.pdf" %}
+
+***
 
 {% embed url="https://mantavyam.notion.site/18152f7cde8880d699a5f2e65f87374e?pvs=105" %}
 Get Credited for sharing your Knowledge Source with your Peers
