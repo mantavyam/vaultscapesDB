@@ -1,10 +1,19 @@
 ---
 description: >-
-  Viewing an Archived Space, you can Collaborate to update this page with the
-  latest resources.
+  For Navigation Use ☰ & select options by clicking on dropdown options
+  available by clicking on [Course Structure ⌄] or use Semester Page Links in
+  tables given below.
 ---
 
 # Course Structure
+
+<figure><img src=".gitbook/assets/Vaultscapes-banner.png" alt=""><figcaption><p>Welcome to Vaultscapes: An Open-Source Academic Resource Sharing Database</p></figcaption></figure>
+
+<table data-view="cards"><thead><tr><th data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><a href="https://app.gitbook.com/o/NkGE0lRg45bL5oWcCqAZ/s/3ZYLT7QIVGVNDP2woYe4/">Sem 1 / BTECH</a></td><td><a href=".gitbook/assets/BTECH-Y1S1-img-vaultscapes.png">BTECH-Y1S1-img-vaultscapes.png</a></td></tr><tr><td><a href="https://app.gitbook.com/o/NkGE0lRg45bL5oWcCqAZ/s/pXGn0qcI0EFL0b2TCKET/">Sem 2 / BTECH</a></td><td><a href=".gitbook/assets/BTECH-Y1S2-img-vaultscapes.png">BTECH-Y1S2-img-vaultscapes.png</a></td></tr><tr><td><a href="https://app.gitbook.com/o/NkGE0lRg45bL5oWcCqAZ/s/7uMP7Ghb8mcjzaqhpGZJ/">Sem 3 / BTECH</a></td><td><a href=".gitbook/assets/BTECH-Y2S3-img-vaultscapes.png">BTECH-Y2S3-img-vaultscapes.png</a></td></tr></tbody></table>
+
+{% embed url="https://github.com/mantavyam/vaultscapes" %}
+STAR OUR PROJECT ON GITHUB
+{% endembed %}
 
 {% tabs %}
 {% tab title="1st Year" %}
@@ -14,7 +23,7 @@ description: >-
 [Sem 1 / BTECH](https://app.gitbook.com/o/NkGE0lRg45bL5oWcCqAZ/s/3ZYLT7QIVGVNDP2woYe4/)
 {% endcontent-ref %}
 
-<table data-full-width="true"><thead><tr><th width="338">SUBJECT</th><th>CODE</th><th width="97">CREDIT</th><th>TYPE</th></tr></thead><tbody><tr><td>APPLIED MATHS–I</td><td>MAT101</td><td>4</td><td>Compulsory</td></tr><tr><td>APPLIED CHEMISTRY</td><td>CHE101</td><td>4</td><td>Compulsory</td></tr><tr><td>APPLIED CHEMISTRY LAB</td><td>CHE121</td><td>1</td><td>Compulsory</td></tr><tr><td>PROGRAMMING FOR PROBLEM SOLVING</td><td>CSE104</td><td>3</td><td>Compulsory</td></tr><tr><td>PROGRAMMING FOR PROBLEM SOLVING LAB</td><td>CSE124</td><td>1</td><td>Compulsory</td></tr><tr><td>BASIC CIVIL ENGG. &#x26; APPLIED MECHANICS</td><td>CIV101</td><td>2</td><td>Compulsory</td></tr><tr><td>WORKSHOP/ MANUFACTURING PRACTICES LAB</td><td>BME124</td><td>1</td><td>Compulsory</td></tr><tr><td>BEHAVIOURAL SCIENCE - 1</td><td>BSU143</td><td>1</td><td>Compulsory</td></tr><tr><td>ENVIRONMENTAL STUDIES - 1</td><td>EVS142</td><td>2</td><td>Compulsory</td></tr><tr><td>COMMUNICATION SKILLS - 1</td><td>BCU141</td><td>1</td><td>Compulsory</td></tr><tr><td>FRENCH–I</td><td>FLU144</td><td>2</td><td>Compulsory</td></tr></tbody></table>
+<table data-full-width="true"><thead><tr><th width="308" data-type="content-ref">CODE+SUBJECT</th><th width="92">CREDIT</th><th>TYPE</th></tr></thead><tbody><tr><td><a href="https://app.gitbook.com/s/3ZYLT7QIVGVNDP2woYe4/mat101-mathematics">MAT101 / Mathematics</a></td><td>4</td><td>Compulsory</td></tr><tr><td><a href="https://app.gitbook.com/s/3ZYLT7QIVGVNDP2woYe4/che101-chemistry">CHE101 / Chemistry</a></td><td>4</td><td>Compulsory</td></tr><tr><td><a href="https://app.gitbook.com/s/3ZYLT7QIVGVNDP2woYe4/che101-chemistry/che121-chemistry-lab">CHE121 / Chemistry Lab</a></td><td>1</td><td>Compulsory</td></tr><tr><td><a href="https://app.gitbook.com/s/3ZYLT7QIVGVNDP2woYe4/cse104-comp-science">CSE104 / Comp Science</a></td><td>3</td><td>Compulsory</td></tr><tr><td><a href="https://app.gitbook.com/s/3ZYLT7QIVGVNDP2woYe4/cse104-comp-science/cse124-comp-science-lab">CSE124 / Comp Science Lab</a></td><td>1</td><td>Compulsory</td></tr><tr><td><a href="https://app.gitbook.com/s/3ZYLT7QIVGVNDP2woYe4/civ101-civil-engg.">CIV101 / Civil Engg.</a></td><td>2</td><td>Compulsory</td></tr><tr><td><a href="https://app.gitbook.com/s/3ZYLT7QIVGVNDP2woYe4/bme124-workshop">BME124 / Workshop</a></td><td>1</td><td>Compulsory</td></tr><tr><td><a href="https://app.gitbook.com/s/3ZYLT7QIVGVNDP2woYe4/bsu143-behaviour">BSU143 / Behaviour</a></td><td>1</td><td>Compulsory</td></tr><tr><td><a href="https://app.gitbook.com/s/3ZYLT7QIVGVNDP2woYe4/evs142-environmental-sci.">EVS142 / Environmental Sci.</a></td><td>2</td><td>Compulsory</td></tr><tr><td><a href="https://app.gitbook.com/s/3ZYLT7QIVGVNDP2woYe4/bcu141-communication">BCU141 / Communication</a></td><td>1</td><td>Compulsory</td></tr><tr><td><a href="https://app.gitbook.com/s/3ZYLT7QIVGVNDP2woYe4/flu144-french">FLU144 / French</a></td><td>2</td><td>Compulsory</td></tr></tbody></table>
 
 ## Semester 2
 
@@ -22,11 +31,15 @@ description: >-
 [Sem 2 / BTECH](https://app.gitbook.com/o/NkGE0lRg45bL5oWcCqAZ/s/pXGn0qcI0EFL0b2TCKET/)
 {% endcontent-ref %}
 
-<table data-full-width="true"><thead><tr><th>SUBJECT</th><th width="115">CODE</th><th width="99">CREDIT</th><th width="123">TYPE</th></tr></thead><tbody><tr><td>APPLIED MATHS – II</td><td>MAT201</td><td>4</td><td>Compulsory</td></tr><tr><td>APPLIED PHYSICS – I</td><td>PHY101</td><td>4</td><td>Compulsory</td></tr><tr><td>APPLIED PHYSICS LAB – I</td><td>PHY121</td><td>1</td><td>Compulsory</td></tr><tr><td>OOPUSING C++</td><td>CSE204</td><td>3</td><td>Compulsory</td></tr><tr><td>OOP USING C++ LAB</td><td>CSE224</td><td>1</td><td>Compulsory</td></tr><tr><td>BASIC ELECTRICAL ENGG.</td><td>ECE101</td><td>3</td><td>Compulsory</td></tr><tr><td>BASIC ELECTRICAL ENGG. LAB</td><td>ECE121</td><td>1</td><td>Compulsory</td></tr><tr><td>ENGG. GRAPHICS &#x26; DESIGN LAB</td><td>BME223</td><td>1</td><td>Compulsory</td></tr><tr><td>BEHAVIOURAL SCIENCE – II</td><td>BSU243</td><td>1</td><td>Compulsory</td></tr><tr><td>ENVIRONMENTAL STUDIES - II</td><td>EVS242</td><td>2</td><td>Compulsory</td></tr><tr><td>COMMUNICATION SKILLS-II</td><td>BCU241</td><td>1</td><td>Compulsory</td></tr><tr><td>FRENCH - II</td><td>FLU244</td><td>2</td><td>Compulsory</td></tr></tbody></table>
+<table data-full-width="true"><thead><tr><th width="291" data-type="content-ref">CODE+SUBJECT</th><th width="99">CREDIT</th><th width="123">TYPE</th></tr></thead><tbody><tr><td><a href="https://app.gitbook.com/s/pXGn0qcI0EFL0b2TCKET/mat201-mathematics">MAT201 / Mathematics</a></td><td>4</td><td>Compulsory</td></tr><tr><td><a href="https://app.gitbook.com/s/pXGn0qcI0EFL0b2TCKET/phy101-physics">PHY101 / Physics</a></td><td>4</td><td>Compulsory</td></tr><tr><td><a href="https://app.gitbook.com/s/pXGn0qcI0EFL0b2TCKET/phy101-physics/phy121-physics-lab">PHY121 / Physics Lab</a></td><td>1</td><td>Compulsory</td></tr><tr><td><a href="https://app.gitbook.com/s/pXGn0qcI0EFL0b2TCKET/cse204-c++">CSE204 / C++</a></td><td>3</td><td>Compulsory</td></tr><tr><td><a href="https://app.gitbook.com/s/pXGn0qcI0EFL0b2TCKET/cse204-c++/cse224-c++-lab">CSE224 / C++ Lab</a></td><td>1</td><td>Compulsory</td></tr><tr><td><a href="https://app.gitbook.com/s/pXGn0qcI0EFL0b2TCKET/ece101-electrical-engg.">ECE101 / Electrical Engg.</a></td><td>3</td><td>Compulsory</td></tr><tr><td><a href="https://app.gitbook.com/s/pXGn0qcI0EFL0b2TCKET/ece101-electrical-engg./ece121-electrical-engg.-lab">ECE121 / Electrical Engg. Lab</a></td><td>1</td><td>Compulsory</td></tr><tr><td><a href="https://app.gitbook.com/s/pXGn0qcI0EFL0b2TCKET/bme223-engg.-graphics">BME223 / Engg. Graphics</a></td><td>1</td><td>Compulsory</td></tr><tr><td><a href="https://app.gitbook.com/s/pXGn0qcI0EFL0b2TCKET/bsu243-behavioural-science">BSU243 / Behavioural Science</a></td><td>1</td><td>Compulsory</td></tr><tr><td><a href="https://app.gitbook.com/s/pXGn0qcI0EFL0b2TCKET/evs242-environmental-science">EVS242 / Environmental Science</a></td><td>2</td><td>Compulsory</td></tr><tr><td><a href="https://app.gitbook.com/s/pXGn0qcI0EFL0b2TCKET/bcu241-communication">BCU241 / Communication</a></td><td>1</td><td>Compulsory</td></tr><tr><td><a href="https://app.gitbook.com/s/pXGn0qcI0EFL0b2TCKET/flu244-french">FLU244 / French</a></td><td>2</td><td>Compulsory</td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="2nd Year" %}
 ## Semester 3
+
+{% content-ref url="https://app.gitbook.com/o/NkGE0lRg45bL5oWcCqAZ/s/7uMP7Ghb8mcjzaqhpGZJ/" %}
+[Sem 3 / BTECH](https://app.gitbook.com/o/NkGE0lRg45bL5oWcCqAZ/s/7uMP7Ghb8mcjzaqhpGZJ/)
+{% endcontent-ref %}
 
 <table data-full-width="true"><thead><tr><th width="418">SUBJECT</th><th width="115">CODE</th><th width="99">CREDIT</th><th width="123">TYPE</th></tr></thead><tbody><tr><td>APPLIED MATHS-III</td><td>MAT301</td><td>3</td><td>Compulsory</td></tr><tr><td>PYTHON PROGRAMMING</td><td>CSE302</td><td>3</td><td>Compulsory</td></tr><tr><td>PYTHON PROGRAMMING LAB</td><td>CSE322</td><td>1</td><td>Compulsory</td></tr><tr><td>DBMS</td><td>CSE304</td><td>3</td><td>Compulsory</td></tr><tr><td>DBMS LAB</td><td>CSE324</td><td>1</td><td>Compulsory</td></tr><tr><td>DIGITAL ELECTRONICS AND LOGIC DESIGN</td><td>ECE306</td><td>3</td><td>Compulsory</td></tr><tr><td>DIGITAL ELECTRONICS AND LOGIC DESIGN LAB</td><td>ECE326</td><td>1</td><td>Compulsory</td></tr><tr><td>DS THROUGH C++</td><td>CSE202</td><td>3</td><td>Compulsory</td></tr><tr><td>DS THROUGH C++ LAB</td><td>CSE222</td><td>1</td><td>Compulsory</td></tr><tr><td>BEHAVIOURAL SCIENCE- III</td><td>BSU343</td><td>1</td><td>Compulsory</td></tr><tr><td>COMMUNICATION SKILLS-III</td><td>BCU341</td><td>1</td><td>Business Comm.</td></tr><tr><td>FRENCH - III</td><td>FLU344</td><td>2</td><td>FBL</td></tr></tbody></table>
 
@@ -56,7 +69,6 @@ description: >-
 {% endtab %}
 {% endtabs %}
 
-{% hint style="info" %}
+{% hint style="success" %}
 Information Updated from: [https://www.amity.edu/gwalior/btech-information-technology](https://www.amity.edu/gwalior/btech-information-technology)
 {% endhint %}
-
