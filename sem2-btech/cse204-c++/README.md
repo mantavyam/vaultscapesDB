@@ -4,9 +4,12 @@
 
 {% file src="../.gitbook/assets/CSE204-Syllabus-BTECH-IT.pdf" %}
 
-### References
+{% hint style="info" %}
+The official Syllabus of 2nd Semester BTech for CSE204/ASET aims to cover C++ but falls short in doing so as it only focusses on certain aspects of OOPS in context of C++.
 
-***
+* We recommend you cover the "Complete C++" from start to end at an intermediate level and not run behind the official syllabus.
+* For your assistance a PDF is attached at the end of this page under the section "**External Sources**" taken from IISC Bangalore.
+{% endhint %}
 
 ## Resources
 
@@ -16,22 +19,18 @@
 
 **Review of C**&#x20;
 
-* Difference between C and C++
-* Procedure-Oriented vs. Object-Oriented Approach.&#x20;
+* \[🌐] [Difference between C and C++](https://www.freecodecamp.org/news/c-vs-cpp-whats-the-difference/)
+* \[🌐] [Procedure-Oriented vs. Object-Oriented Approach. ](https://www.tutorialspoint.com/differences-between-procedural-and-object-oriented-programming)
 
 **Basic Concepts**&#x20;
 
-* Objects and Classes
-* Principles of Object-Oriented Programming
-* Dynamic Binding and Message Passing.&#x20;
+* \[🌐] [Principles of Object-Oriented Programming](https://khalilstemmler.com/articles/object-oriented/programming/4-principles/)
+* \[🌐] [Binding: Static & Dynamic](https://www.scaler.com/topics/static-binding-and-dynamic-binding/)
+* \[🌐] [Message Passing](https://www.scaler.com/topics/oops-concepts-in-cpp/)&#x20;
 
-**Characteristics of Object-Oriented Languages**&#x20;
+\[🌐] [**Characteristics of Object-Oriented Languages** ](https://www.interviewbit.com/blog/characteristics-of-object-oriented-programming/)
 
-**Object-Oriented Modeling Techniques**&#x20;
-
-* Object Modeling
-* Functional Modeling
-* Dynamic Modeling.
+\[🌐] [**Object-Oriented Modeling Techniques** ](https://ashishprajapati29.wordpress.com/wp-content/uploads/2016/07/object-oriented-modeling-in-java.pdf)
 
 </details>
 
@@ -39,13 +38,15 @@
 
 <summary>M2: Classes &#x26; Objects</summary>
 
-Abstract Data Types&#x20;
+\[🌐] [Objects and Classes](https://www.scaler.com/topics/cpp/class-and-object-in-cpp/)
 
-Objects and Classes
+\[🌐] [Operators](https://www.tutorialspoint.com/cplusplus/cpp_operators.htm)
 
-Operators and Functions
+\[🌐] [Functions](https://www.tutorialspoint.com/cplusplus/cpp_functions.htm)
 
-Constructors and Destructors
+\[🌐] [Constructors & Destructors](https://www.tutorialspoint.com/cplusplus/cpp_constructor_destructor.htm)
+
+\[🌐] [Abstract Data Types ](https://www.scholarhat.com/tutorial/datastructures/abstract-data-type)
 
 </details>
 
@@ -53,15 +54,13 @@ Constructors and Destructors
 
 <summary>M3: Inheritance</summary>
 
-Types of Inheritance
+\[🌐] [Types of Inheritance](https://msbrijuniversity.ac.in/assets/uploads/newsupdate/InheritanceinC++.pdf)
 
-Access Modes: Public, Private, Protected
+\[🌐] [Abstract Classes](https://www.scaler.com/topics/cpp/abstraction-in-cpp/)
 
-Abstract Classes
+\[🌐] [Method overriding](https://youtu.be/iJ516gI7HLY?si=l1meMCSaIr8Dzvih)
 
-Overriding Inheritance Methods.
-
-Nesting of Classes
+\[🌐] [Nesting of Classes](https://app.gitbook.com/s/7uMP7Ghb8mcjzaqhpGZJ/mat301-mathematics)
 
 </details>
 
@@ -69,19 +68,17 @@ Nesting of Classes
 
 <summary>M4: Polymorphism</summary>
 
-Compile-Time Polymorphism
+\[🌐] [Types of Polymorphism](https://www.scaler.com/topics/cpp/polymorphism-in-cpp/)
 
-Run-Time Polymorphism
+\[🌐] [Function Overloading](https://www.scaler.com/topics/function-overriding-in-cpp/)
 
-Function Overloading
+\[🌐] [Operator Overloading](https://www.scaler.com/topics/cpp/operator-overloading-in-cpp/)
 
-Operator Overloading
+\[🌐] [The 'this' Pointer](https://www.scaler.com/topics/cpp/this-pointer-in-cpp/)
 
-The 'this' Pointer
+\[🌐] [Virtual Functions](https://www.programiz.com/cpp-programming/virtual-functions)
 
-Virtual Functions
-
-Pure Virtual Functions
+\[🌐] [Abstract Class and Pure Virtual Function](https://www.programiz.com/cpp-programming/pure-virtual-funtion)
 
 </details>
 
@@ -89,17 +86,17 @@ Pure Virtual Functions
 
 <summary>M5: Strings, Files and Exception Handling</summary>
 
-Manipulating Strings
+\[🌐] [Manipulating Strings](https://www.tutorialspoint.com/cplusplus/cpp_strings.htm)
 
-Files Handling
+\[🌐] [Files Handling](https://www.scaler.com/topics/cpp/file-handling-in-cpp/)
 
-Exception Handling
+\[🌐] [Exception Handling](https://eecs280staff.github.io/notes/24_Exceptions.html)
 
-Function Templates
+\[🌐] [Function Templates](https://www.scaler.com/topics/cpp/templates-in-cpp/)
 
-Class Templates
+\[🌐] [Class Templates](https://www.programiz.com/cpp-programming/class-templates)
 
-Standard Template Library (STL)
+\[🌐] [Standard Template Library (STL)](https://www.scaler.com/topics/cpp/) _**\[Module 12 on Link]**_
 
 </details>
 
@@ -131,11 +128,25 @@ Standard Template Library (STL)
 
 ## External Sources
 
+**Indian Institute of Science (IISC) Bangalore: Complete C++**&#x20;
+
+[https://cds.iisc.ac.in/wp-content/uploads/DS286.AUG2016.Lab2\_.cpp\_tutorial.pdf](https://cds.iisc.ac.in/wp-content/uploads/DS286.AUG2016.Lab2_.cpp_tutorial.pdf)
+
+{% embed url="https://cds.iisc.ac.in/wp-content/uploads/DS286.AUG2016.Lab2_.cpp_tutorial.pdf" %}
+IISC BANGALORE- DETAILED COVERAGE OF C++
+{% endembed %}
+
+{% embed url="https://khalilstemmler.com/articles/object-oriented/programming/4-principles/" %}
+MUST READ
+{% endembed %}
+
+{% embed url="https://www.scaler.com/topics/cpp/" %}
+RECOMMENDED
+{% endembed %}
+
 {% embed url="https://www.tutorialspoint.com/cplusplus/index.htm" %}
 
 {% embed url="https://www.geeksforgeeks.org/cpp-tutorial/" %}
-
-{% embed url="https://www.programiz.com/cpp-programming" %}
 
 ***
 

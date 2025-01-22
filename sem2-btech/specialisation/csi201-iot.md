@@ -78,12 +78,6 @@ _we welcome your contribution to update this space_
 
 {% embed url="https://drive.google.com/file/d/1dcZEF8MvjNTw0FBK5WFtoPMv9CBR1r0t/view?usp=drive_link" %}
 
-### Assignment Questions
-
-***
-
-## External Sources
-
 ***
 
 {% embed url="https://mantavyam.notion.site/18152f7cde8880d699a5f2e65f87374e?pvs=105" %}

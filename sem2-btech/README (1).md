@@ -17,19 +17,19 @@
 <summary>M1: Ordinary differential equations</summary>
 
 * **Equations of First Order and First Degree**
-  * Exact equations
-  * Linear equations
-  * Bernoulli’s equations
+  * [Exact equations](https://youtu.be/WXZETpHneec?si=0sMjBqlJc6TLhqkv)
+  * [Linear equations](https://youtu.be/tfhytqk1kHk?si=WjaPIQKDGd9pGXQY)
+  * [Bernoulli’s equations](https://youtu.be/8Sn1-FpeEUQ?si=soXoBGWMR4aWdSJv)
 * **Equations of First Order and Higher Degree**
-  * Equations solvable for pp
-  * Equations solvable for yy
-  * Equations solvable for xx
-  * Clairaut’s type
+  * [Equations solvable for p](https://youtu.be/aYrsPeE7NLQ?si=h_qe0JJ-wnmkKLk5)
+  * [Equations solvable for y](https://youtu.be/-PckYOzQ8xQ?si=HKBiOA8J-7ywG81f)
+  * [Equations solvable for x](https://youtu.be/owjVBo53hUU?si=WVw2NXnkSmkO83X9)
+  * [Clairaut’s type](https://youtu.be/kcCNy-7YoHg?si=-YZh_oNUOyDrERg5)
 * **Higher Order Linear Differential Equations**
-  * Constant coefficients
-  * Second-order linear differential equations with variable coefficients
-  * Method of variation of parameters
-  * Solution by series method
+  * [Constant coefficients](https://youtube.com/playlist?list=PLT3bOBUU3L9hVIB2YDskrj6L91FgGnenU\&si=MDSG03FHK7TzwEZK)
+  * [Second-order linear differential equations with variable coefficients](https://youtube.com/playlist?list=PLU6SqdYcYsfI5CvOHMVOxxMWdAKWG67Xq\&si=HLMR5XdVnntalKWi)
+  * [Method of variation of parameters](https://youtu.be/NlLshtijSq4?si=6BTCk9onwS5qqws1)
+  * [Solution by series method](https://youtube.com/playlist?list=PLVCBPCYGv7bDv4yw-Gw8bw4YXR4YiULqh\&si=QZl0vLWzfCANl715)
 
 </details>
 
@@ -37,15 +37,15 @@
 
 <summary>M2: Partial Differential Equations</summary>
 
-* **Formation of Partial Differential Equations**
-* **First Order Partial Differential Equations**
+* [**Formation of Partial Differential Equations**](https://youtu.be/_T7rcF1mrIw?si=-c_4Pu2I-fHt_Avd)
+* [**First Order Partial Differential Equations**](https://youtube.com/playlist?list=PLT3bOBUU3L9iRoyhs8V1Io-xEsjfq4zI0\&si=d1cDg1r8gVFKJMWP) _**\[Video 1-5 in Playlist]**_
   * Solutions of first-order linear PDEs
-* **Second Order Partial Differential Equations**
+* [**Second Order Partial Differential Equations**](https://youtube.com/playlist?list=PLT3bOBUU3L9iRoyhs8V1Io-xEsjfq4zI0\&si=d1cDg1r8gVFKJMWP) _**\[Video 6 onwards in Playlist]**_
   * Homogeneous and non-homogeneous linear PDEs
   * Complementary function and particular integral method (constant coefficients)
-* **Non-linear Partial Differential Equations of First Order**
+* [**Non-linear Partial Differential Equations of First Order**](https://youtube.com/playlist?list=PLVCBPCYGv7bCYgSwsuJxfjwkYt9xepQ6u\&si=SNWFccDxjIg3vz_F)
   * Charpit’s method
-* **Separation of Variable Method**
+* [**Separation of Variable Method**](https://youtu.be/lsuCfrHJUX4?si=CeOuaWyKMyFp7qEn)
   * Solution of wave and heat equations
 
 </details>
@@ -54,7 +54,7 @@
 
 <summary>M3: Laplace Transform and Fourier series</summary>
 
-* **Laplace Transform**
+* [**Laplace Transform**](https://youtube.com/playlist?list=PLT3bOBUU3L9gLQHOIch6y-gvXrSGAnwzg\&si=x5YzkBxQMR__UyvC)
   * Introduction and Laplace transform of elementary functions
   * Propert**ies**
     * Change of scale property
@@ -63,7 +63,7 @@
   * Inverse Laplace transform and its properties
   * Convolution theorem
   * Applications of Laplace Transform to Solve ODEs
-* **Fourier Series**
+* [**Fourier Series**](https://youtube.com/playlist?list=PLT3bOBUU3L9garIMWIqgAJ6wqBUe4ckFm\&si=yYPMtUK0k28fk5PH)
   * Introduction to Fourier series
   * Fourier series for discontinuous functions
   * Fourier series for even and odd functions
@@ -73,11 +73,11 @@
 
 <details>
 
-<summary>M4: Complex Variable– Differentiation</summary>
+<summary>M4: <a href="https://youtube.com/playlist?list=PLT3bOBUU3L9hwFndLXTp0wFqwrwP4plrH&#x26;si=lCvWG95T-5XuUne5">Complex Variable– Differentiation</a></summary>
 
 * **Function of a Complex Variable**
 * **Differentiation and Analytic Functions**
-  * Cauchy-Riemann equations
+  * [Cauchy-Riemann equations](https://youtu.be/CCMnwZHcW6w?si=VZiRyct5XH7CEQJt)
   * Harmonic functions and finding harmonic conjugates
 * **Elementary Analytic Functions**
   * Exponential
@@ -90,7 +90,7 @@
 
 <details>
 
-<summary>M5: Complex Variable– Integration</summary>
+<summary>M5: <a href="https://youtube.com/playlist?list=PLT3bOBUU3L9ibhrkzWki0_tfrugS4rvnJ&#x26;si=Aj2NXLb2k_zd14nm">Complex Variable– Integration</a></summary>
 
 * **Contour Integrals**
 * **Theorems (Without Proof)**
@@ -140,6 +140,10 @@
 {% embed url="https://drive.google.com/file/d/1Xm1Xn8XMD3MKXKV85Mid4PSkCzHXqIi4/view?usp=drive_link" %}
 
 ## External Sources
+
+Differential Equation of First Order
+
+[https://youtube.com/playlist?list=PLT3bOBUU3L9g0aergP43HK9ihc\_UG7Kbx\&si=JUeJN52eWyvvobee](https://youtube.com/playlist?list=PLT3bOBUU3L9g0aergP43HK9ihc_UG7Kbx\&si=JUeJN52eWyvvobee)
 
 **Ref: IITK Notes on Mathematics includes topics:**
 
