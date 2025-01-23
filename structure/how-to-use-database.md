@@ -3,11 +3,20 @@ description: >-
   Welcome to Vaultscapes, your ultimate academic resource hub! This guide will
   walk you through the features and functionality of the database to help you
   make the most of it.
+icon: circle-exclamation
 ---
 
 # How to Use Database?
 
+{% hint style="info" %}
+Understand the Interaction on this site using this workable demo, click on blue hotspots in the screen below to continue.
+{% endhint %}
+
+{% @guideflow/guideflow-embed requestedUrl="https://app.guideflow.com/player/ok89xjdsxr" %}
+
 ## **Navigation**
+
+
 
 #### **Using the ☰ Hamburger Icon**
 

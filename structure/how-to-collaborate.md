@@ -1,3 +1,7 @@
+---
+icon: down-left-and-up-right-to-center
+---
+
 # How to Collaborate ?
 
 Vaultscapes is an academic resource-sharing platform designed to encourage collaboration and contribution from educators, students, and professionals. We provide two simple methods for contributing to our growing repository. Choose the one that suits you best!

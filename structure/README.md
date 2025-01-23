@@ -3,6 +3,7 @@ description: >-
   For Navigation Use ☰ & select options by clicking on dropdown options
   available by clicking on [Course Structure ⌄] or use Semester Page Links in
   tables given below.
+icon: folder-tree
 ---
 
 # Course Structure
