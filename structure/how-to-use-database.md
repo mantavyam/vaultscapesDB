@@ -1,22 +1,30 @@
 ---
+icon: circle-exclamation
 description: >-
   Welcome to Vaultscapes, your ultimate academic resource hub! This guide will
   walk you through the features and functionality of the database to help you
   make the most of it.
-icon: circle-exclamation
 ---
 
 # How to Use Database?
 
 {% hint style="info" %}
-Understand the Interaction on this site using this workable demo, click on blue hotspots in the screen below to continue.
+Understand the Interaction on this site using this workable demo, Select Your Device Type using the tabs and click on blue hotspots in the screen below to continue.
 {% endhint %}
 
+{% tabs %}
+{% tab title="Mobile" %}
+{% @guideflow/guideflow-embed requestedUrl="https://app.guideflow.com/player/gkyjy5nhdk" %}
+
+
+{% endtab %}
+
+{% tab title="PC / Laptop" %}
 {% @guideflow/guideflow-embed requestedUrl="https://app.guideflow.com/player/ok89xjdsxr" %}
+{% endtab %}
+{% endtabs %}
 
 ## **Navigation**
-
-
 
 #### **Using the ☰ Hamburger Icon**
 
