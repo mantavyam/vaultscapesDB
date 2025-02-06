@@ -1,6 +1,6 @@
 # CSI101 / IOT
 
-{% hint style="danger" %}
+{% hint style="warning" %}
 **Welcome to Vaultscapes!**
 
 This section for "CSI101 / IOT" is still a work in progress, and some resources are missing.
@@ -9,7 +9,7 @@ _**If you have notes, lecture slides, assignments, lab manuals, or any other aca
 
 **Here’s how you can help:**
 
-1. **Submit Content:** Use the “Contribute” button or email us at \[email/contact link] to upload your resources.
+1. **Submit Content:** Use the “Contribute” button or email us to upload your resources.
 2. **Suggest Improvements:** Let us know what’s missing or what could be better via our feedback form.
 3. **Spread the Word:** Encourage your peers to explore Vaultscapes and contribute their knowledge.
 

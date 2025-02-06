@@ -1,77 +1,54 @@
 # CSD101 / Data Science
 
-{% hint style="danger" %}
-**Welcome to Vaultscapes!**
-
-This section for "CSD101 / Data Science" is still a work in progress, and some resources are missing.
-
-_**If you have notes, lecture slides, assignments, lab manuals, or any other academic material related to this specialization that you’d like to share, we warmly invite you to contribute. Together, we can make Vaultscapes a more complete and valuable resource for everyone.**_
-
-**Here’s how you can help:**
-
-1. **Submit Content:** Use the “Contribute” button or email us at \[email/contact link] to upload your resources.
-2. **Suggest Improvements:** Let us know what’s missing or what could be better via our feedback form.
-3. **Spread the Word:** Encourage your peers to explore Vaultscapes and contribute their knowledge.
-
-Your collaboration can make a difference. Let’s build something extraordinary—together!
-
-Thank you,\
-**The Vaultscapes Team**
-{% endhint %}
-
 ## Syllabus
 
-{% hint style="info" %}
-Ask Your Current Faculty to Provide Latest Syllabus!
-{% endhint %}
+{% file src="../.gitbook/assets/CSD101_Data-Science_Syllabus-BTECH.pdf" %}
 
 ## Resources
 
 <details>
 
-<summary>M1: </summary>
+<summary>M1: Introduction to DS</summary>
 
-_**we warmly invite you to contribute**_
-
-</details>
-
-<details>
-
-<summary>M2: </summary>
-
-_**we warmly invite you to contribute**_
+\[⤓] [Module-1-Data-Science](https://drive.google.com/file/d/1ldCoqVIqsJnVun3Mhyni9F9SXjG_VPHm/view?usp=drive_link)
 
 </details>
 
 <details>
 
-<summary>M3: </summary>
+<summary>M2: DS Project Management</summary>
 
-_**we warmly invite you to contribute**_
-
-</details>
-
-<details>
-
-<summary>M4: </summary>
-
-_**we warmly invite you to contribute**_
+\[⤓] [Module-2-Data-Science](https://drive.google.com/file/d/1OWkdloecvlgnI0mQClxpOwvZfiByrWWZ/view?usp=drive_link)
 
 </details>
 
 <details>
 
-<summary>M5: </summary>
+<summary>M3: Maths behind DS</summary>
 
-_**we warmly invite you to contribute**_
+\[⤓] [Module-3-Data-Science](https://drive.google.com/file/d/1I7bDiFj77vY-EqIP7qlVLIHHCsAzV8Q-/view?usp=drive_link)
+
+</details>
+
+<details>
+
+<summary>M4: Computers in DS</summary>
+
+\[⤓] [Module-4-Data-Science](https://drive.google.com/file/d/1KWubqRlM0P-O0qLs4ZKyQ1o-3wOb929d/view?usp=drive_link)
+
+</details>
+
+<details>
+
+<summary>M5: Applications of DS</summary>
+
+\[⤓] [Module-5-Data-Science](https://drive.google.com/file/d/1go_rFMLYZtB8vkbHWFDz_ZKnwQM5Pmyw/view?usp=drive_link)
 
 </details>
 
 ***
 
 ## Questions Directory
-
-### Assignment Questions
 
 ### Previous Year Questions
 
