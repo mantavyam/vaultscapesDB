@@ -1,9 +1,9 @@
 ---
-icon: circle-exclamation
 description: >-
   Welcome to Vaultscapes, your ultimate academic resource hub! This guide will
   walk you through the features and functionality of the database to help you
   make the most of it.
+icon: circle-exclamation
 ---
 
 # How to Use Database?
@@ -187,6 +187,14 @@ https://mantavyam.gitbook.io/vaultscapes
 4. Confirm by tapping **Save**.
 {% endtab %}
 {% endtabs %}
+
+## Error (Client Side)
+
+DIRECTIONS: If you see a 'Client Side' Error while navigating to a page it is because the page link you're trying to access does not exist, this happens when you are on different page and instantly switch the context to the other poge which has a different link slang.
+
+{% hint style="success" %}
+Refresh/Reload the Page to resolve this ISSUE. (Automatically handled by Server)
+{% endhint %}
 
 ***
 
