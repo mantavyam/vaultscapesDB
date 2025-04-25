@@ -133,3 +133,11 @@ Write the SQL query to study the use of Delete and Drop command in DBMS
 Study the concept of Triggers, cursors and stored procedures in DBMS.
 
 </details>
+
+{% embed url="https://mantavyam.notion.site/18152f7cde8880d699a5f2e65f87374e" %}
+Get Credited for sharing your Knowledge Source with your Peer
+{% endembed %}
+
+{% embed url="https://mantavyam.notion.site/17e52f7cde8880e0987fd06d33ef6019" %}
+Submit Queries/Feedbacks/Suggestions/Complaints using this Form
+{% endembed %}

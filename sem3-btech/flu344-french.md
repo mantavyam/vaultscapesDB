@@ -44,13 +44,13 @@
 | Les verbes du premier groupe en « - yer »          | The first group verbs in “- yer”                         |
 | Les verbes voir et sortir                          | The verbs voir and sortir                                |
 
-## Resources
+## Resources/Notes
 
 <details>
 
 <summary>Speech Acts</summary>
 
-
+\[⤓] [FLU344 French (Speech Acts) Keynotes ](https://drive.google.com/file/d/1P2hDZhgMx99tzNLPkeI-Xijr6cKHJiY0/view?usp=drive_link)
 
 </details>
 
@@ -58,20 +58,26 @@
 
 <summary>Grammar Acts</summary>
 
-
+\[⤓] [FLU344 French (Grammar) Keynotes](https://drive.google.com/file/d/1P6OCj1zW6LRPKqHPgi0ZilEK02L61urh/view?usp=drive_link)
 
 </details>
 
 ## Question Directory
 
-### Assignment Questions
-
 ### Previous Year Questions
 
-### Back Paper Assignment
+\[⤓] [Midsem-FLU344-Y2S3-ALL-UG-OCT24](https://drive.google.com/file/d/13kX9z59Q2yIFwMIBJfdZ0Jvhy34bmJW8/view?usp=drive_link)
 
-### Back Paper Questions
+{% embed url="https://drive.google.com/file/d/13kX9z59Q2yIFwMIBJfdZ0Jvhy34bmJW8/view?usp=drive_linkhttps://drive.google.com/file/d/13kX9z59Q2yIFwMIBJfdZ0Jvhy34bmJW8/view?usp=drive_link" %}
 
-### Expected Questions
+\[⤓] [FLU344-PYQ-BTECH-CSE-IT-Sem3Jan25](https://drive.google.com/file/d/1BlJK1jmDYwU_nSUeQYewsvDvKvAIrpwG/view?usp=drive_link)
 
-## External Sources
+{% embed url="https://drive.google.com/file/d/1BlJK1jmDYwU_nSUeQYewsvDvKvAIrpwG/view?usp=drive_link" %}
+
+{% embed url="https://mantavyam.notion.site/18152f7cde8880d699a5f2e65f87374e" %}
+Get Credited for sharing your Knowledge Source with your Peer
+{% endembed %}
+
+{% embed url="https://mantavyam.notion.site/17e52f7cde8880e0987fd06d33ef6019" %}
+Submit Queries/Feedbacks/Suggestions/Complaints using this Form
+{% endembed %}
