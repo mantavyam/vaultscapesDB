@@ -122,6 +122,8 @@
 
 \[⤓] [EndSem-PYQ-CHE101-Jan24-Btech](https://drive.google.com/file/d/1KygNQF40xNW8Kaathp37X3Y0VXowXfdN/view?usp=drive_link)&#x20;
 
+\[⤓] [EndSem-PYQ-CHE101-Jun25-Btech](https://drive.google.com/file/d/1xcaY9s7hUJKVF4RtDNkIYQvM0lwwOrpg/view?usp=drive_link)
+
 \[⤓] [EndSem-PYQ-CSE104-Jan24-Btech](https://drive.google.com/file/d/1b3h-A5TyzEnviqzk_4e4_1g6ofINF-IR/view?usp=drive_link)&#x20;
 
 \[⤓] [End-Sem-PYQ-CIV101-Jan24-Btech](https://drive.google.com/file/d/1D40YAXs7mieFgRpTVoHcawRLZZq9He2o/view?usp=drive_link)

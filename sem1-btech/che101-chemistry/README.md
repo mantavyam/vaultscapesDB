@@ -88,9 +88,13 @@
 
 ### Previous Year Questions
 
+\[⤓] [Back-QPaper-Nov24-CHE101](https://drive.google.com/file/d/13_mslOhgFzRmCMahSb1E5voMK7KsWtbA/view?usp=drive_link)
+
 \[⤓] [MidSem-PYQ-CHE101-Oct23-Btech](https://drive.google.com/file/d/1K6IJw-AKF7U2BxNUBqoVT9AFZ1wgci-Q/view?usp=drive_link)
 
-\[⤓] [Back-QPaper-Nov24-CHE101](https://drive.google.com/file/d/13_mslOhgFzRmCMahSb1E5voMK7KsWtbA/view?usp=drive_link)
+\[⤓] [EndSem-PYQ-CHE101-Jun25-Btech](https://drive.google.com/file/d/1xcaY9s7hUJKVF4RtDNkIYQvM0lwwOrpg/view?usp=drive_link)
+
+{% embed url="https://drive.google.com/file/d/1xcaY9s7hUJKVF4RtDNkIYQvM0lwwOrpg/view?usp=drive_link" %}
 
 \[⤓] [EndSem-PYQ-CHE101-Jan24-Btech](https://drive.google.com/file/d/1KygNQF40xNW8Kaathp37X3Y0VXowXfdN/view?usp=drive_link) **\<See Image below>**
 
