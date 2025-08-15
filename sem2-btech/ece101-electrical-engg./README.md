@@ -155,6 +155,10 @@
 
 {% embed url="https://drive.google.com/file/d/1e5-mWT6MoVjVSkUHjl-Ee5CCX_yxfsxn/view?usp=drive_link" %}
 
+\[⤓] [EndSem-PYQ-ECE201-Jun25](https://drive.google.com/file/d/1x2_H0TJ8imf-Dram5RnJjLUD_NpZvR_h/view?usp=drive_link)
+
+{% embed url="https://drive.google.com/file/d/1x2_H0TJ8imf-Dram5RnJjLUD_NpZvR_h/view?usp=drive_link" %}
+
 ## External Sources
 
 **Circuit Analysis by Vesa Linja-aho | Lecture Notes**

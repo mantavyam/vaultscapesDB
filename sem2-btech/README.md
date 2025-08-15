@@ -107,6 +107,8 @@
 
 \[⤓] [EndSem-PYQ-MAT201-Jun24](https://drive.google.com/file/d/1Xm1Xn8XMD3MKXKV85Mid4PSkCzHXqIi4/view?usp=drive_link)
 
+\[⤓] [EndSem-PYQ-MAT201-Jun25](https://drive.google.com/file/d/1wwBON7K0MyUWg4F12WC6ZR9T0pMdq9cE/view?usp=drive_link)
+
 \[⤓][ EndSem-PYQ-PHY101-Jun22](https://drive.google.com/file/d/1J0bdkqGmvtcd_V77qML4tun1LZMvH1e_/view?usp=drive_link)
 
 \[⤓] [EndSem-PYQ-PHY101-Jun23](https://drive.google.com/file/d/1JXn0Sogki1jjja0yD_2Y0PmmezSJqmV6/view?usp=drive_link)
@@ -117,19 +119,33 @@
 
 \[⤓] [EndSem-PYQ-CSE204-Jun23](https://drive.google.com/file/d/11QjKG3frYur0YQVLRPRg5LCRR3GuknCm/view?usp=drive_link)
 
+\[⤓] [EndSem-PYQ-CSE204-Jun25](https://drive.google.com/file/d/1xSbFZIIH2h-a5Xx7QsxozCTG69LtIKNj/view?usp=drive_link)
+
 \[⤓] [EndSem-PYQ-ECE101-Jun22](https://drive.google.com/file/d/1OZJ5Dp2mf1x0qvVQGuF_2V04uTFnEbnu/view?usp=drive_link)
 
 \[⤓] [EndSem-PYQ-ECE101-Jun23](https://drive.google.com/file/d/14F2oewjl5puBbR2em2c_cysZSW7fEq6G/view?usp=drive_link)
 
 \[⤓] [EndSem-PYQ-ECE101-Jun24](https://drive.google.com/file/d/1e5-mWT6MoVjVSkUHjl-Ee5CCX_yxfsxn/view?usp=drive_link)
 
+\[⤓] [EndSem-PYQ-ECE201-Jun25](https://drive.google.com/file/d/1x2_H0TJ8imf-Dram5RnJjLUD_NpZvR_h/view?usp=drive_link)
+
 \[⤓] [EndSem-PYQ-EVS242-Jun22](https://drive.google.com/file/d/11jHkCpRRtM6011sk4kUqqVXlVQ5qd0ZA/view?usp=drive_link)
+
+\[⤓] [EndSem-PYQ-EVS242-Jun25](https://drive.google.com/file/d/1xDQH2IVpTbgLxTaiUnrOWJTuOfTXHPkl/view?usp=drive_link)
+
+\[⤓] [EndSem-PYQ-BME223-Jun25](https://drive.google.com/file/d/1wto5-5gLCYootvcasjKyf9ahrwBFsS6p/view?usp=drive_link)
 
 \[⤓] [EndSem-PYQ-BSU243-Jun22](https://drive.google.com/file/d/1u-SWdfaNPVDiJu9Uyd9DStsyuKo4V7GR/view?usp=drive_link)
 
+\[⤓] [EndSem-PYQ-BSU243-Jun25](https://drive.google.com/file/d/1x3jqSONYh0Xt8DoURziN4vutareOkUaK/view?usp=drive_link)
+
 \[⤓] [EndSem-PYQ-BCU241-Jun22](https://drive.google.com/file/d/1q1j4i8oNEZ35nODrsDNCM5ngZ198cLr0/view?usp=drive_link)
 
+\[⤓] [EndSem-PYQ-BCU241-Jun25](https://drive.google.com/file/d/1xCvmrg_cGAFjpx7h5qJc1zAvEtf0FBVH/view?usp=drive_link)
+
 \[⤓] [EndSem-PYQ-FLU244-Jun22](https://drive.google.com/file/d/1EeOLy0lnqpl5dKoY94ZWhYGWaFlR95Rt/view?usp=drive_link)
+
+\[⤓] [EndSem-PYQ-FLU244-Jun25](https://drive.google.com/file/d/1xIrYr0Go_ZOwdkq3RfzXm0DxY-pHJnzP/view?usp=drive_link)
 
 \[⤓] [EndSem-PYQ-CSC201-Jun22](https://drive.google.com/file/d/1r9uPooEgk_xJXon7Bsy_56LC-GHtF86F/view?usp=drive_link)
 
@@ -142,6 +158,8 @@
 \[⤓] [EndSem-PYQ-CSA201-Jun23](https://drive.google.com/file/d/1Oo7wR0Ju3PEH2sGgf-t4DbAWAhGaBtDw/view?usp=drive_link)
 
 \[⤓] [EndSem-PYQ-CSA201-Jun24](https://drive.google.com/file/d/1i-0TaP9y51NG6bbWXTWD2YxMD8GpxGwu/view?usp=drive_link)
+
+\[⤓] [EndSem-PYQ-CSA201-Jun25](https://drive.google.com/file/d/1xJmP_Kuv067wtEqJ8eWNIqGr1f6UfP1J/view?usp=drive_link)
 
 \[⤓] [EndSem-PYQ-CSD201-Jun22](https://drive.google.com/file/d/1Aev1XucFCBeDhrveti8-PBK5u9WCzume/view?usp=drive_link)
 

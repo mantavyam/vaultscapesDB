@@ -126,7 +126,15 @@ The official Syllabus of 2nd Semester BTech for CSE204/ASET aims to cover C++ bu
 
 {% embed url="https://drive.google.com/file/d/11QjKG3frYur0YQVLRPRg5LCRR3GuknCm/view?usp=drive_link" %}
 
+\[⤓] [EndSem-PYQ-CSE204-Jun25](https://drive.google.com/file/d/1xSbFZIIH2h-a5Xx7QsxozCTG69LtIKNj/view?usp=drive_link)
+
+{% embed url="https://drive.google.com/file/d/1xSbFZIIH2h-a5Xx7QsxozCTG69LtIKNj/view?usp=drive_link" %}
+
 ## External Sources
+
+{% embed url="https://cs50.harvard.edu/x/" %}
+
+{% embed url="https://youtu.be/LfaMVlDaQ24?si=-t8O4nvDsFRtToyz" %}
 
 **Indian Institute of Science (IISC) Bangalore: Complete C++**&#x20;
 

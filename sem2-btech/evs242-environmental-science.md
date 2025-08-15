@@ -121,6 +121,10 @@
 
 {% embed url="https://drive.google.com/file/d/11jHkCpRRtM6011sk4kUqqVXlVQ5qd0ZA/view?usp=drive_link" %}
 
+\[⤓] [EndSem-PYQ-EVS242-Jun25](https://drive.google.com/file/d/1xDQH2IVpTbgLxTaiUnrOWJTuOfTXHPkl/view?usp=drive_link)
+
+{% embed url="https://drive.google.com/file/d/1xDQH2IVpTbgLxTaiUnrOWJTuOfTXHPkl/view?usp=drive_link" %}
+
 ## External Sources
 
 **Lecture Notes on Environment Pollution | Shivaji College**

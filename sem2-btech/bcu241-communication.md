@@ -68,6 +68,10 @@ M4-PROSE-WingsOfFire
 
 ### Previous Year Questions
 
+\[⤓] [EndSem-PYQ-BCU241-Jun25](https://drive.google.com/file/d/1xCvmrg_cGAFjpx7h5qJc1zAvEtf0FBVH/view?usp=drive_link)
+
+{% embed url="https://drive.google.com/file/d/1xCvmrg_cGAFjpx7h5qJc1zAvEtf0FBVH/view?usp=drive_link" %}
+
 \[⤓] \[PDF] [EndSem-PYQ-BCU241-Jun22-Btech](https://drive.google.com/file/d/1q1j4i8oNEZ35nODrsDNCM5ngZ198cLr0/view?usp=drive_link)
 
 {% embed url="https://drive.google.com/file/d/1q1j4i8oNEZ35nODrsDNCM5ngZ198cLr0/view?usp=drive_link" %}

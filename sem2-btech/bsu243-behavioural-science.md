@@ -64,6 +64,10 @@
 
 ### Previous Year Questions
 
+\[⤓] [EndSem-PYQ-BSU243-Jun25](https://drive.google.com/file/d/1x3jqSONYh0Xt8DoURziN4vutareOkUaK/view?usp=drive_link)
+
+{% embed url="https://drive.google.com/file/d/1x3jqSONYh0Xt8DoURziN4vutareOkUaK/view?usp=drive_link" %}
+
 \[⤓] \[PDF] [EndSem-PYQ-BSU243-Jun22-Btech](https://drive.google.com/file/d/1u-SWdfaNPVDiJu9Uyd9DStsyuKo4V7GR/view?usp=drive_link)
 
 {% embed url="https://drive.google.com/file/d/1u-SWdfaNPVDiJu9Uyd9DStsyuKo4V7GR/view?usp=drive_link" %}
