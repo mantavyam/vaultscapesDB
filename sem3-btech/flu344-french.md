@@ -74,6 +74,10 @@
 
 {% embed url="https://drive.google.com/file/d/1BlJK1jmDYwU_nSUeQYewsvDvKvAIrpwG/view?usp=drive_link" %}
 
+\[⤓] [FLU344-PYQ-BackQPaper-BTECH-CSE-IT-Sem3Nov25](https://drive.google.com/file/d/1wFB0vkkOU7Ov63eD0Igjouw0CiWabku8/view?usp=sharing)
+
+{% embed url="https://drive.google.com/file/d/1wFB0vkkOU7Ov63eD0Igjouw0CiWabku8/view?usp=sharing" %}
+
 {% embed url="https://mantavyam.notion.site/18152f7cde8880d699a5f2e65f87374e" %}
 Get Credited for sharing your Knowledge Source with your Peer
 {% endembed %}

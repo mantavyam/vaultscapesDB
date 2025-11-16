@@ -71,10 +71,10 @@ You cannot directly edit this template! You'll have to "Make a Copy" in your own
 {% endhint %}
 
 {% hint style="info" %}
-TEMPLATE: [https://docs.google.com/document/d/1i0sZZKHW8LabN-47GUSU0b-R2JWIpjM\_SjM-I\_4ULmI/edit?usp=sharing](https://docs.google.com/document/d/1i0sZZKHW8LabN-47GUSU0b-R2JWIpjM_SjM-I_4ULmI/edit?usp=sharing)
+TEMPLATE: [https://docs.google.com/document/d/1ed-MpcB3jJur3Z\_rXdwlfVXGQ6sPKVK9yjsw2jEoNdE/edit?usp=sharing](https://docs.google.com/document/d/1ed-MpcB3jJur3Z_rXdwlfVXGQ6sPKVK9yjsw2jEoNdE/edit?usp=sharing)
 {% endhint %}
 
-{% embed url="https://docs.google.com/document/d/1i0sZZKHW8LabN-47GUSU0b-R2JWIpjM_SjM-I_4ULmI/edit?usp=sharing" %}
+{% embed url="https://docs.google.com/document/d/1ed-MpcB3jJur3Z_rXdwlfVXGQ6sPKVK9yjsw2jEoNdE/edit?usp=sharing" %}
 
 ### Generate The Content
 

@@ -128,6 +128,10 @@
 
 \[⤓] [MAT301-PYQ-BackQPaper-BTECH-CSE-IT-Sem3Dec24](https://drive.google.com/file/d/11_j23IL2tDvyvng8zKtTiD9XEEzHa2DL/view?usp=drive_link)
 
+\[⤓] [CSA301-PYQ-BackQPaper-BTECH-CSE-IT-Sem3Nov25](https://drive.google.com/file/d/1z_d7fIOQIf-iWjpH2BeyCgeAveFL6WbR/view?usp=sharing)
+
+\[⤓] [FLU344-PYQ-BackQPaper-BTECH-CSE-IT-Sem3Nov25](https://drive.google.com/file/d/1wFB0vkkOU7Ov63eD0Igjouw0CiWabku8/view?usp=sharing)
+
 {% embed url="https://mantavyam.notion.site/18152f7cde8880d699a5f2e65f87374e" %}
 Get Credited for sharing your Knowledge Source with your Peers
 {% endembed %}

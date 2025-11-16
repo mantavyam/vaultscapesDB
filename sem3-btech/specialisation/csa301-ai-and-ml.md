@@ -74,7 +74,9 @@ Thank you, **The Vaultscapes Team**
 
 {% embed url="https://drive.google.com/file/d/112a9Z_Z1eZan__WLesSl7TPskGlKtg5d/view?usp=drive_link" %}
 
-## External Sources
+\[⤓] [CSA301-PYQ-BackQPaper-BTECH-CSE-IT-Sem3Nov25](https://drive.google.com/file/d/1z_d7fIOQIf-iWjpH2BeyCgeAveFL6WbR/view?usp=sharing)
+
+{% embed url="https://drive.google.com/file/d/1z_d7fIOQIf-iWjpH2BeyCgeAveFL6WbR/view?usp=sharing" %}
 
 {% embed url="https://mantavyam.notion.site/18152f7cde8880d699a5f2e65f87374e" %}
 Get Credited for sharing your Knowledge Source with your Peer
