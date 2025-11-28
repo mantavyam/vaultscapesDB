@@ -4,7 +4,7 @@
 
 {% file src="../.gitbook/assets/CSD101_Data-Science_Syllabus-BTECH.pdf" %}
 
-## Resources
+## Resources\*
 
 <details>
 
@@ -45,6 +45,8 @@
 \[⤓] [Module-5-Data-Science](https://drive.google.com/file/d/1go_rFMLYZtB8vkbHWFDz_ZKnwQM5Pmyw/view?usp=drive_link)
 
 </details>
+
+> \*Credit: Mayank Sahu  (BTECH CSE \[2024-2028])
 
 ***
 

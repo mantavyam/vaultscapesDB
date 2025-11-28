@@ -284,6 +284,14 @@ Official-QB-MAT101
 
 {% embed url="https://drive.google.com/file/d/1JLjpuWPRkI1IjLDRui4b8UCk099J8rW-/view" %}
 
+### Back Papers
+
+\[⤓] [MAT101-PYQ-BackQPaper-BTECH-CSE-IT-Sem3Nov25](https://drive.google.com/file/d/17TONT7YVWWg1ZUzZK-k6hi5C8MOlUsYa/view?usp=drive_link)\*
+
+> \*Credit: Harshvardhan Singh (BTECH IT \[2023-2027])
+
+{% embed url="https://drive.google.com/file/d/17TONT7YVWWg1ZUzZK-k6hi5C8MOlUsYa/view?usp=drive_link" %}
+
 ### Expected Questions
 
 \[⤓] [MAT101-Expected-Qs-Priority-1](https://drive.google.com/file/d/1rgqc1umieyWZLDXLQ3Tyo3M6rxToCLnd/view?usp=drive_link)
