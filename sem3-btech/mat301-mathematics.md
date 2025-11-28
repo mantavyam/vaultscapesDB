@@ -72,9 +72,7 @@ Expectation of Discrete Random Variables
 Probability Distributions for Discrete and Continuous Variables
 
 * Discrete distributions:
-
-- Continuous distributions:
-
+* Continuous distributions:
 * Evaluation of Statistical Parameters
 
 </details>
@@ -170,6 +168,10 @@ Chi-Square Test
 \[⤓] [MAT301-PYQ-BackQPaper-BTECH-CSE-IT-Sem3Dec24](https://drive.google.com/file/d/11_j23IL2tDvyvng8zKtTiD9XEEzHa2DL/view?usp=drive_link)
 
 {% embed url="https://drive.google.com/file/d/11_j23IL2tDvyvng8zKtTiD9XEEzHa2DL/view?usp=drive_link" %}
+
+\[⤓] [MAT301-PYQ-BackQPaper-BTECH-CSE-IT-Sem3Nov25](https://drive.google.com/file/d/1M3HYrncvtXrmQiQJWKPcYfimlO3AgAsL/view?usp=drive_link)
+
+{% embed url="https://drive.google.com/file/d/1M3HYrncvtXrmQiQJWKPcYfimlO3AgAsL/view?usp=drive_link" %}
 
 {% embed url="https://mantavyam.notion.site/18152f7cde8880d699a5f2e65f87374e" %}
 Get Credited for sharing your Knowledge Source with your Peer

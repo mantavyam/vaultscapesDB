@@ -18,6 +18,8 @@
 
 \[⤓] [BCU341-TopicExtractFromQB](https://drive.google.com/file/d/1Op3jQ7_5KSFfR5osBR771uzS3sPCFdPg/view?usp=drive_link)
 
+\[⤓] [BCU341-Handbook-Notes-Quick-Revision\*](https://drive.google.com/file/d/1lqwYzChdyymHQbZg92oWom084tQcGxMV/view?usp=drive_link)
+
 \[⤓] [CSE202 DSA C++ Quick Prepare](https://drive.google.com/file/d/1PZYZvV0W4VVLzjKVunTj8-8EYaC_FYio/view?usp=drive_link)
 
 \[⤓] [CSE202 DSA C++ EXTRACTED TOPICS](https://drive.google.com/file/d/1P8cxwqvcMtU0sge5G7wiTgZxAoXXAZMs/view?usp=drive_link)
@@ -126,7 +128,13 @@
 
 \[⤓] [CSE302-PYQ-BackQPaper-BTECH-CSE-IT-Sem3Dec24](https://drive.google.com/file/d/10_FCAxyg2_wgd4JEaG0h_oKZRGThv4D7/view?usp=drive_link)
 
+\[⤓] [CSE302-PYQ-BackQPaper-BTECH-CSE-IT-Sem3Nov25](https://drive.google.com/file/d/15mVQiIWDO_e1V3wi7R4wPN0WqMSYkizr/view?usp=drive_link)
+
 \[⤓] [MAT301-PYQ-BackQPaper-BTECH-CSE-IT-Sem3Dec24](https://drive.google.com/file/d/11_j23IL2tDvyvng8zKtTiD9XEEzHa2DL/view?usp=drive_link)
+
+\[⤓] [MAT301-PYQ-BackQPaper-BTECH-CSE-IT-Sem3Nov25](https://drive.google.com/file/d/1M3HYrncvtXrmQiQJWKPcYfimlO3AgAsL/view?usp=drive_link)
+
+\[⤓] [ECE306-PYQ-BackQPaper-BTECH-CSE-IT-Sem3Nov25](https://drive.google.com/file/d/1mLt7iFYPccQFDnP7puq_e-XSwsNLLLCE/view?usp=drive_link)
 
 \[⤓] [CSA301-PYQ-BackQPaper-BTECH-CSE-IT-Sem3Nov25](https://drive.google.com/file/d/1z_d7fIOQIf-iWjpH2BeyCgeAveFL6WbR/view?usp=sharing)
 

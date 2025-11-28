@@ -13,12 +13,10 @@
 * Spellings
   * 100 Most Misspelled Words in English
   * Common Spelling Mistakes and Tips for Correcting Them
-
-- Web-Based Writing
+* Web-Based Writing
   * Writing for Online Audiences
   * Best Practices for Writing Blogs, Articles, and Web Content
   * Optimizing Content for Search Engines (SEO Basics)
-
 * Note Taking: Process & Techniques
   * Effective Note-Taking Strategies
   * Methods: Cornell Method, Mind Mapping, Outlining
@@ -34,18 +32,15 @@
   * Structure of a Block-Format Letter
   * Key Components: Date, Address, Salutation, Body, Closing
   * Examples and Practical Applications
-
-- Types of Letters
+* Types of Letters
   * Formal Letters: Business, Complaint, Request, Application
   * Informal Letters: Personal, Friendly
   * Letters of Recommendation, Resignation, Invitation
-
 * E-mail
   * Structure of Professional Emails (Subject, Salutation, Body, Closing)
   * Tips for Clear and Concise Email Communication
   * Common Email Etiquette
-
-- Netiquette
+* Netiquette
   * Guidelines for Proper Online Behavior
   * Respectful and Professional Communication in Emails, Forums, and Social Media
   * Avoiding Miscommunication in Digital Correspondence
@@ -75,6 +70,12 @@
 </details>
 
 ## Notes
+
+\[⤓] [BCU341-Handbook-Notes-Quick-Revision\*](https://drive.google.com/file/d/1lqwYzChdyymHQbZg92oWom084tQcGxMV/view?usp=drive_link)
+
+> \*Credit: Parikshit Singh Bais (BTECH CSE - A \[2024-2028])
+
+{% embed url="https://drive.google.com/file/d/1lqwYzChdyymHQbZg92oWom084tQcGxMV/view?usp=drive_link" %}
 
 \[⤓] [BCU341-TopicExtractFromQB](https://drive.google.com/file/d/1Op3jQ7_5KSFfR5osBR771uzS3sPCFdPg/view?usp=drive_link)
 

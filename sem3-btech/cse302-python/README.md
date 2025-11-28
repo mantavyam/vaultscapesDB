@@ -16,8 +16,7 @@
   * Applications of Python
   * Use of Python in various domains
   * Installation and running Python on Windows/Linux
-
-- Basic Syntax and Structure
+* Basic Syntax and Structure
   * Keywords and Identifiers
   * Statements and Comments
   * Python Variables
@@ -26,19 +25,16 @@
   * Python I/O and Import
   * Python Operators
   * Python Namespace
-
 * Control Flow and Looping
   * If-else Statements
   * Python for Loop
   * while Loop
   * Break and Continue Statements
-
-- Data Structures and Manipulation
+* Data Structures and Manipulation
   * String Manipulation
   * Lists, Tuples, and Dictionaries
   * Pass Statement
   * Looping Techniques (e.g., List comprehensions, etc.)
-
 * Functions in Python
   * Functions and Function Arguments
   * Recursion
@@ -54,16 +50,13 @@
 * Python Modules and Packages
   * Python Modules
   * Python Packages
-
-- File Operations and Directory Handling
+* File Operations and Directory Handling
   * File Operations (Reading, Writing, etc.)
   * Python Directory Operations
-
 * Exception Handling
   * Python Exception Handling
   * User-defined Exceptions
-
-- Object-Oriented Programming (OOP) Concepts
+* Object-Oriented Programming (OOP) Concepts
   * Classes and Objects in Python
   * Inheritance
     * Single Inheritance
@@ -82,15 +75,13 @@
   * Matching vs. Searching
   * Modifiers in Regular Expressions
   * Patterns in Regular Expressions
-
-- CGI (Common Gateway Interface) Programming
+* CGI (Common Gateway Interface) Programming
   * Introduction to CGI
   * CGI Architecture
   * CGI Environment Variables
   * GET/POST Methods in CGI
   * Working with Cookies
   * File Uploads using CGI
-
 * Database Programming in Python
   * Introduction to Databases
   * Database Connections in Python
@@ -108,10 +99,8 @@
   * Tkinter Overview
   * Tkinter Widgets (e.g., Buttons, Labels, Entry fields, etc.)
   * Standard Attributes of Widgets
-
-- CGI Programming
+* CGI Programming
   * Introduction to CGI Programming (basic concepts)
-
 * Web Frameworks: Django
   * Introduction to Django Web Framework
   * Application Lifecycle in Django
@@ -162,6 +151,10 @@
 \[⤓] [CSE302-PYQ-BackQPaper-BTECH-CSE-IT-Sem3Dec24](https://drive.google.com/file/d/10_FCAxyg2_wgd4JEaG0h_oKZRGThv4D7/view?usp=drive_link)
 
 {% embed url="https://drive.google.com/file/d/10_FCAxyg2_wgd4JEaG0h_oKZRGThv4D7/view?usp=drive_link" %}
+
+\[⤓] [CSE302-PYQ-BackQPaper-BTECH-CSE-IT-Sem3Nov25](https://drive.google.com/file/d/15mVQiIWDO_e1V3wi7R4wPN0WqMSYkizr/view?usp=drive_link)
+
+{% embed url="https://drive.google.com/file/d/15mVQiIWDO_e1V3wi7R4wPN0WqMSYkizr/view?usp=drive_link" %}
 
 ## External Sources
 
