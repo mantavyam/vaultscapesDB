@@ -12,6 +12,30 @@ icon: folder-tree
 STAR OUR PROJECT ON GITHUB
 {% endembed %}
 
+{% hint style="success" %}
+**We've All Been There—Let's Make It Easier Together.**
+
+## Inspired by a resource here? Your turn to Add!
+
+**Picture this:** Late nights, day before exam flipping through syllabus pages, piecing together notes from scattered sources. That's the course life we all know, right?&#x20;
+
+_We've hit 400+ users strong, all pulling from the same pool of notes, syllabi, and PYQs that make the course feel more manageable. It's rewarding to see how these shares bridge gaps for coursemates and juniors alike, turning individual efforts into something collective._
+
+_You've already found what you need; now, imagine adding your own bit. It takes just a minute to upload via our simple form—notes, a PYQ set, whatever you've got. Your content could be the one that helps someone else, the way others' have helped for you. It's the easy way to keep the good stuff circulating, the same way it's helped you settle into the semester. No big lifts, just us looking out for each other._
+
+_If you're up for it, lend a hand with a quick upload—maybe your take on a tricky topic or an updated resource list. The form's straightforward, and every addition helps keep things fresh and relevant._&#x20;
+
+_See the Contributor Wall? Yours could be next. Simple as that._
+
+<p align="center"><img src=".gitbook/assets/Collaborator.jpg" alt=""></p>
+
+<p align="center"><a href="https://mantavyam.notion.site/18152f7cde8880d699a5f2e65f87374e?pvs=105" class="button primary" data-icon="arrow-up-to-arc">UPLOAD NOW</a></p>
+{% endhint %}
+
+{% embed url="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3713ab205435155.66c4950916c33.gif" %}
+What's One Thing You'd Share?
+{% endembed %}
+
 {% tabs %}
 {% tab title="1st Year" %}
 ## Semester 1
@@ -42,11 +66,19 @@ STAR OUR PROJECT ON GITHUB
 
 ## Semester 4
 
+{% content-ref url="https://app.gitbook.com/o/NkGE0lRg45bL5oWcCqAZ/s/zDcX1sSP1gmIRyZJgjfU/" %}
+[Sem 4 / BTECH](https://app.gitbook.com/o/NkGE0lRg45bL5oWcCqAZ/s/zDcX1sSP1gmIRyZJgjfU/)
+{% endcontent-ref %}
+
 <table data-full-width="true"><thead><tr><th width="416.66015625">CODE+SUBJECT</th><th width="99">CREDIT</th><th width="123">TYPE</th></tr></thead><tbody><tr><td><a data-mention href="https://app.gitbook.com/s/zDcX1sSP1gmIRyZJgjfU/cse401-discrete-maths">CSE401 / Discrete Maths</a></td><td>3</td><td>Compulsory</td></tr><tr><td><a data-mention href="https://app.gitbook.com/s/zDcX1sSP1gmIRyZJgjfU/cse402-coa">CSE402 / COA</a></td><td>3</td><td>Compulsory</td></tr><tr><td><a data-mention href="https://app.gitbook.com/s/zDcX1sSP1gmIRyZJgjfU/cse403-java-programming">CSE403 / Java Programming</a></td><td>3</td><td>Compulsory</td></tr><tr><td><a data-mention href="https://app.gitbook.com/s/zDcX1sSP1gmIRyZJgjfU/cse403-java-programming/cse423-java-lab">CSE423 / Java Lab</a></td><td>1</td><td>Compulsory</td></tr><tr><td><a data-mention href="https://app.gitbook.com/s/zDcX1sSP1gmIRyZJgjfU/cse404-os">CSE404 / OS</a></td><td>3</td><td>Compulsory</td></tr><tr><td><a data-mention href="https://app.gitbook.com/s/zDcX1sSP1gmIRyZJgjfU/cse404-os/cse424-os-lab">CSE424 / OS Lab</a></td><td>1</td><td>Compulsory</td></tr><tr><td><a data-mention href="https://app.gitbook.com/s/zDcX1sSP1gmIRyZJgjfU/it401-formal-lang-and-automata">IT401 / Formal Lang &#x26; Automata</a></td><td>3</td><td>Compulsory</td></tr><tr><td><a data-mention href="https://app.gitbook.com/s/zDcX1sSP1gmIRyZJgjfU/it402-cyber-security-digital-forensics">IT402 / Cyber Security - Digital Forensics</a></td><td>3</td><td>Compulsory</td></tr><tr><td><a data-mention href="https://app.gitbook.com/s/zDcX1sSP1gmIRyZJgjfU/bsu443-behaviour">BSU443 / Behaviour</a></td><td>1</td><td>Compulsory</td></tr><tr><td><a data-mention href="https://app.gitbook.com/s/zDcX1sSP1gmIRyZJgjfU/bcu441-communication">BCU441 / Communication</a></td><td>2</td><td>Business Comm.</td></tr><tr><td><a data-mention href="https://app.gitbook.com/s/zDcX1sSP1gmIRyZJgjfU/flu444-french">FLU444 / French</a></td><td>3</td><td>FBL</td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="3rd Year" %}
 ## Semester 5
+
+{% content-ref url="https://app.gitbook.com/o/NkGE0lRg45bL5oWcCqAZ/s/oWho7cxjZIbvsuDwIAzB/" %}
+[Sem 5 / BTECH](https://app.gitbook.com/o/NkGE0lRg45bL5oWcCqAZ/s/oWho7cxjZIbvsuDwIAzB/)
+{% endcontent-ref %}
 
 <table data-full-width="true"><thead><tr><th width="399">SUBJECT</th><th width="115">CODE</th><th width="99">CREDIT</th><th width="123">TYPE</th></tr></thead><tbody><tr><td>INTRODUCTION TO ANDROID APP DEVELOPMENT</td><td>CSE503</td><td>3</td><td>Compulsory</td></tr><tr><td>INTRODUCTION TO ANDROID APP DEVELOPMENT LAB</td><td>CSE523</td><td>1</td><td>Compulsory</td></tr><tr><td>DESIGN AND ANALYSIS OF ALGO</td><td>CSE303</td><td>4</td><td>Compulsory</td></tr><tr><td>DESIGN AND ANALYSIS OF ALGO LAB</td><td>CSE323</td><td>1</td><td>Compulsory</td></tr><tr><td>INTRODUCTION TO BLOCKCHAIN TECHNOLOGY</td><td>IT501</td><td>3</td><td>Compulsory</td></tr><tr><td>ADVANCED JAVA PROGRAMMING</td><td>CSE504</td><td>3</td><td>Compulsory</td></tr><tr><td>ADVANCED JAVA PROGRAMMING LAB</td><td>CSE524</td><td>1</td><td>Compulsory</td></tr><tr><td>INTRODUCTION TO WEB TECH</td><td>CSE505</td><td>3</td><td>Compulsory</td></tr><tr><td>WEB TECH LAB</td><td>CSE525</td><td>1</td><td>Compulsory</td></tr><tr><td>BEHAVIOURAL SCIENCE- V</td><td>BSU543</td><td>1</td><td>Compulsory</td></tr><tr><td>COMMUNICATION SKILLS-V</td><td>BCU541</td><td>1</td><td>Compulsory</td></tr><tr><td>FRENCH - V</td><td>FLU544</td><td>2</td><td>Compulsory</td></tr><tr><td>INDUSTRIAL PRACTICAL TRAINING - I</td><td>NPT550</td><td>3</td><td>Compulsory</td></tr></tbody></table>
 
