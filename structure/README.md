@@ -8,11 +8,7 @@ icon: folder-tree
 
 <table data-view="cards"><thead><tr><th data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><a href="https://app.gitbook.com/o/NkGE0lRg45bL5oWcCqAZ/s/3ZYLT7QIVGVNDP2woYe4/">Sem 1 / BTECH</a></td><td><a href=".gitbook/assets/BTECH-Y1S1-img-vaultscapes.png">BTECH-Y1S1-img-vaultscapes.png</a></td></tr><tr><td><a href="https://app.gitbook.com/o/NkGE0lRg45bL5oWcCqAZ/s/pXGn0qcI0EFL0b2TCKET/">Sem 2 / BTECH</a></td><td><a href=".gitbook/assets/BTECH-Y1S2-img-vaultscapes.png">BTECH-Y1S2-img-vaultscapes.png</a></td></tr><tr><td><a href="https://app.gitbook.com/o/NkGE0lRg45bL5oWcCqAZ/s/7uMP7Ghb8mcjzaqhpGZJ/">Sem 3 / BTECH</a></td><td><a href=".gitbook/assets/BTECH-Y2S3-img-vaultscapes.png">BTECH-Y2S3-img-vaultscapes.png</a></td></tr><tr><td><a href="https://app.gitbook.com/o/NkGE0lRg45bL5oWcCqAZ/s/zDcX1sSP1gmIRyZJgjfU/">Sem 4 / BTECH</a></td><td><a href=".gitbook/assets/BTECH-Y2S4-img-vaultscapes.png">BTECH-Y2S4-img-vaultscapes.png</a></td></tr><tr><td><a href="https://app.gitbook.com/o/NkGE0lRg45bL5oWcCqAZ/s/oWho7cxjZIbvsuDwIAzB/">Sem 5 / BTECH</a></td><td><a href=".gitbook/assets/BTECH-Y3S5-img-vaultscapes.png">BTECH-Y3S5-img-vaultscapes.png</a></td></tr></tbody></table>
 
-{% embed url="https://github.com/mantavyam/vaultscapes" %}
-STAR OUR PROJECT ON GITHUB
-{% endembed %}
-
-{% hint style="success" %}
+{% hint style="info" %}
 **We've All Been There—Let's Make It Easier Together.**
 
 ## Inspired by a resource here? Your turn to Add!
@@ -28,13 +24,27 @@ _If you're up for it, lend a hand with a quick upload—maybe your take on a tri
 _See the Contributor Wall? Yours could be next. Simple as that._
 
 <p align="center"><img src=".gitbook/assets/Collaborator.jpg" alt=""></p>
+{% endhint %}
 
 <p align="center"><a href="https://mantavyam.notion.site/18152f7cde8880d699a5f2e65f87374e?pvs=105" class="button primary" data-icon="arrow-up-to-arc">UPLOAD NOW</a></p>
-{% endhint %}
 
 {% embed url="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3713ab205435155.66c4950916c33.gif" %}
 What's One Thing You'd Share?
 {% endembed %}
+
+{% hint style="info" %}
+### STAR this Project on Github
+
+If you find this project useful, please consider giving it a star on GitHub! ⭐
+
+A star is a quick way to show your support and helps the project gain visibility.
+
+[https://github.com/mantavyam/vaultscapesDB](https://github.com/mantavyam/vaultscapesDB)
+{% endhint %}
+
+{% embed url="https://github.com/mantavyam/vaultscapesDB" %}
+
+***
 
 {% tabs %}
 {% tab title="1st Year" %}
