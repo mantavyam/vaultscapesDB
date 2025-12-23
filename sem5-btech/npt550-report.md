@@ -1,0 +1,82 @@
+# NPT550 / Report
+
+## Syllabus
+
+{% file src=".gitbook/assets/Y3S5-NPT550-SYLLABUS-BTECH-CSE-IT.pdf" %}
+
+## About
+
+<details>
+
+<summary>Course Objectives</summary>
+
+This course will enable the students to explore the preferred field of specialization and develop analytical / hardware / software / experimental / observation skills. It will help them to manage the technical content and work. It will also help them to prepare and present technical report.
+
+</details>
+
+<details>
+
+<summary>Methodology</summary>
+
+Practical training is based on the theoretical subjects studied by students. It can be arranged within the college or in any related industrial unit. The students are to learn various industrial, technical and administrative processes followed in the industry. In case of on-campus training the students will be given specific task of fabrication / assembly / testing / analysis. On completion of the practical training the students are to present a report covering various aspects learnt by them and give a presentation on same.
+
+</details>
+
+<details>
+
+<summary>Course Outcomes</summary>
+
+**After successful completion of the course, the students will be able to**
+
+* Explore the preferred field of specialization and develop analytical / hardware / software / experimental / observation skills.
+* Manage the technical content and work.
+* Learn the various administrative process followed in industry.
+* Prepare and present technical report.
+
+</details>
+
+<details>
+
+<summary>Instructions and Guidelines</summary>
+
+<table><thead><tr><th width="81.0859375">[⤓]</th><th>Content Preview</th></tr></thead><tbody><tr><td><a href="https://drive.google.com/uc?export=download&#x26;id=1KaSZA9vM3bhWdYz1VeIWhIiHa6seyMqF" class="button primary" data-icon="arrow-down-to-square"></a></td><td><a href="https://docs.google.com/document/d/1KaSZA9vM3bhWdYz1VeIWhIiHa6seyMqF/edit?usp=drive_link&#x26;ouid=114560226846413789967&#x26;rtpof=true&#x26;sd=true">1-NTCC Guidelines-ASET-AUMP-NPT550</a></td></tr><tr><td><a href="https://drive.google.com/uc?export=download&#x26;id=1AhBU2Y17Uq2fFBakbmefIIyoH41nj0Bg" class="button primary" data-icon="arrow-down-to-square"></a></td><td><a href="https://docs.google.com/document/d/1AhBU2Y17Uq2fFBakbmefIIyoH41nj0Bg/edit?usp=drive_link&#x26;ouid=114560226846413789967&#x26;rtpof=true&#x26;sd=true">2-Formatting Guidelines-ASET-AUMP-NPT550</a></td></tr><tr><td><a href="https://drive.google.com/uc?export=download&#x26;id=10ptMYoTiIiITE6tI398A8THPM2vFDDYG" class="button primary" data-icon="arrow-down-to-square"></a></td><td><a href="https://docs.google.com/document/d/10ptMYoTiIiITE6tI398A8THPM2vFDDYG/edit?usp=drive_link&#x26;ouid=114560226846413789967&#x26;rtpof=true&#x26;sd=true">3-Word count, File type and plagiarism details-ASET-AUMP-NPT550</a></td></tr></tbody></table>
+
+</details>
+
+For More Details and Instructions, Visit this Page:[NTP330 / Term Paper](https://app.gitbook.com/s/7uMP7Ghb8mcjzaqhpGZJ/ntp330-term-paper "mention")
+
+{% hint style="info" %}
+TEMPLATE LINK: [https://docs.google.com/document/d/1\_dHlbba10eP85Mr7M07NR6zJW\_70tDqBNtyC\_5QO4oM/edit?usp=sharing](https://docs.google.com/document/d/1_dHlbba10eP85Mr7M07NR6zJW_70tDqBNtyC_5QO4oM/edit?usp=sharing)
+{% endhint %}
+
+<p align="center"><a href="https://docs.google.com/document/d/1_dHlbba10eP85Mr7M07NR6zJW_70tDqBNtyC_5QO4oM/edit?usp=sharing" class="button primary" data-icon="globe-pointer">OPEN TEMPLATE</a></p>
+
+{% hint style="danger" %}
+ATTENTION: You cannot directly edit this template! You'll have to "Make a Copy" in your own Google Account to be able to edit this template as per your own needs! Instructions on Copying this template is given on the first page itself!
+
+#### INSTRUCTIONS
+
+Open the Template using the any one of the following above: Button or the Direct Link
+
+See the Menu Bar on Top
+
+Go to FILE
+
+* Make a Copy
+
+Now this template has been copied into your Google Drive, you can start editing this:
+
+* Open Your Google Drive
+  * View the FILE Named: 'Copy of NPT550-SIP-Template-Vaultscapes'
+  * Open this FILE and Start Editing
+{% endhint %}
+
+{% embed url="https://docs.google.com/document/d/1_dHlbba10eP85Mr7M07NR6zJW_70tDqBNtyC_5QO4oM/edit?usp=sharing" %}
+
+***
+
+{% embed url="https://discord.gg/6ywR3zbNfg" %}
+
+{% embed url="https://mantavyam.notion.site/18152f7cde8880d699a5f2e65f87374e" %}
+
+{% embed url="https://mantavyam.notion.site/17e52f7cde8880e0987fd06d33ef6019" %}
