@@ -122,9 +122,7 @@
 
 {% embed url="https://drive.google.com/file/d/1PA3cyzRTU8Sd1Wa7qL1c-vq5__58DwLY/view?usp=drive_link" %}
 
-\[⤓] [CSE302 Python Q-Bank Solutions](https://drive.google.com/file/d/1PDzU7pZT_C8T5I27IghB-UauQL12Y2eH/view?usp=drive_link)
-
-{% embed url="https://drive.google.com/file/d/1PDzU7pZT_C8T5I27IghB-UauQL12Y2eH/view?usp=drive_link" %}
+<table><thead><tr><th width="84.51953125">[⤓] </th><th>Content Preview</th></tr></thead><tbody><tr><td><a href="https://drive.google.com/uc?export=download&#x26;id=1knoyA7YYUm1ycdw8nHxijIQUxsxOIKaD" class="button primary" data-icon="arrow-down-to-square"></a></td><td><a href="https://drive.google.com/file/d/1knoyA7YYUm1ycdw8nHxijIQUxsxOIKaD/view?usp=drive_link">CSE302-PYTHON-ALL-MODULES-KEYNOTES</a> (Contributed by: Parikshit Singh)</td></tr><tr><td><a href="https://drive.google.com/uc?export=download&#x26;id=1PDzU7pZT_C8T5I27IghB-UauQL12Y2eH" class="button primary" data-icon="arrow-down-to-square"></a></td><td><a href="https://drive.google.com/file/d/1PDzU7pZT_C8T5I27IghB-UauQL12Y2eH/view?usp=drive_link">CSE302 Python Q-Bank Solutions</a></td></tr></tbody></table>
 
 ## Question Directory
 

@@ -16,6 +16,8 @@
 
 ## Notes
 
+<table><thead><tr><th width="84.51953125">[⤓] </th><th>Preview of Content Contributed by Parikshit Singh</th></tr></thead><tbody><tr><td><a href="https://drive.google.com/uc?export=download&#x26;id=1knoyA7YYUm1ycdw8nHxijIQUxsxOIKaD" class="button primary" data-icon="arrow-down-to-square"></a></td><td><a href="https://drive.google.com/file/d/1knoyA7YYUm1ycdw8nHxijIQUxsxOIKaD/view?usp=drive_link">CSE302-PYTHON-ALL-MODULES-KEYNOTES</a></td></tr><tr><td><a href="https://drive.google.com/uc?export=download&#x26;id=10wzyWbqColKgCKv3utrsY9ukGNe_QzIa" class="button primary" data-icon="arrow-down-to-square"></a></td><td><a href="https://drive.google.com/file/d/10wzyWbqColKgCKv3utrsY9ukGNe_QzIa/view?usp=drive_link">CSC301-CYBER-SECURITY-ALL-MODULES-KEYNOTES</a> </td></tr><tr><td><a href="https://drive.google.com/uc?export=download&#x26;id=1MyAtGoEuDFit7PFQEnusF0qMgAe0cioJ" class="button primary" data-icon="arrow-down-to-square"></a></td><td><a href="https://drive.google.com/file/d/1MyAtGoEuDFit7PFQEnusF0qMgAe0cioJ/view?usp=drive_link">CSA301-AI-ML-M4+5-KEYNOTES-CONCEPT-WISE</a> </td></tr></tbody></table>
+
 \[⤓] [BCU341-TopicExtractFromQB](https://drive.google.com/file/d/1Op3jQ7_5KSFfR5osBR771uzS3sPCFdPg/view?usp=drive_link)
 
 \[⤓] [BCU341-Handbook-Notes-Quick-Revision\*](https://drive.google.com/file/d/1lqwYzChdyymHQbZg92oWom084tQcGxMV/view?usp=drive_link)

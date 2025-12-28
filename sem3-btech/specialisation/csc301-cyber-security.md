@@ -9,33 +9,26 @@
 * Overview of Cryptography
   * Introduction to Cryptography
   * Importance of Cryptography in Cybersecurity
-
-- Identifying Resources for Hunting Cyber Threats
+* Identifying Resources for Hunting Cyber Threats
   * Tools and Techniques for Threat Hunting
   * Cyber Threat Intelligence (CTI)
-
 * Security Flaws in TCP/IP Protocol
   * Vulnerabilities in TCP/IP Protocol Suite
   * Exploits and Mitigations
-
-- Cryptography and Its Types
+* Cryptography and Its Types
   * Symmetric vs. Asymmetric Cryptography
   * Key Management and Cryptographic Primitives
-
 * Cryptographic Algorithms Used in Cybersecurity
   * RSA (Rivest-Shamir-Adleman) Algorithm
   * AES (Advanced Encryption Standard) Algorithm
   * MD5 (Message Digest Algorithm 5)
-
-- Web Service Security Concepts
+* Web Service Security Concepts
   * Securing Web Services with Cryptography
   * SSL/TLS for Web Service Security
-
 * Understanding Attacks on Networks and Hosts
   * Common Attacks on Networks (e.g., Man-in-the-Middle)
   * Host-Based Attacks (e.g., Malware, Ransomware)
-
-- Common Endpoint Security Technologies
+* Common Endpoint Security Technologies
   * Antivirus and Anti-malware Solutions
   * Endpoint Detection and Response (EDR)
   * Device Control and Encryption
@@ -49,34 +42,26 @@
 * Incident Investigation Models
   * **Kill Chain Model:** Phases of a Cyber Attack (Reconnaissance, Weaponization, Delivery, Exploitation, Installation, Command and Control, Action)
   * **Diamond Model:** Framework for Threat Analysis (Adversary, Infrastructure, Capability, Target)
-
-- Exploit Kits and Threat Actors
+* Exploit Kits and Threat Actors
   * Role of Exploit Kits in Cyber Attacks
   * Common Exploit Kits Used by Threat Actors
-
 * Event Data Normalization and Correlation
   * Importance of Normalizing Event Data
   * Event Correlation to Identify Patterns and Suspicious Activities
-
-- Common Attack Vectors
+* Common Attack Vectors
   * Phishing, Malware, Social Engineering, DDoS Attacks, Insider Threats
-
 * Identifying Malicious Activities and Suspicious Behaviors
   * Behavioral Analysis to Detect Anomalies
   * Indicators of Compromise (IOCs)
-
-- Security Incident Investigations
+* Security Incident Investigations
   * Procedures for Investigating Security Incidents
   * Using Logs and Network Data for Forensic Analysis
-
 * Playbooks in Security Operations Centers (SOC)
   * Definition and Importance of Playbooks
   * Automating Incident Response with Playbooks
-
-- SOC Metrics and Effectiveness
+* SOC Metrics and Effectiveness
   * Key Performance Indicators (KPIs) for SOC
   * Measuring SOC Efficiency and Incident Response Times
-
 * Workflow Management and Automation in SOC
   * Tools and Techniques to Automate SOC Workflows
   * Integration of Automation for Incident Handling
@@ -90,40 +75,31 @@
 * Incident Response Plan (IRP)
   * Structure and Components of an Incident Response Plan
   * Roles and Responsibilities in Incident Response
-
-- Computer Security Incident Response Team (CSIRT)
+* Computer Security Incident Response Team (CSIRT)
   * Functionality and Structure of CSIRT
   * Coordination with External Agencies
-
 * Vocabulary for Event Recording and Incident Sharing (VERIS)
   * Overview of VERIS Framework
   * Use of VERIS in Incident Reporting
-
-- Security Incident Format
+* Security Incident Format
   * Common Incident Reporting Formats
   * Best Practices for Incident Documentation
-
 * Defining the Security Operations Center (SOC)
   * Role and Function of SOC in Cybersecurity
   * Organizational Structure of a SOC
-
-- Network Infrastructure and Security Monitoring Tools
+* Network Infrastructure and Security Monitoring Tools
   * Tools for Network Traffic Analysis (e.g., Wireshark, Zeek, Suricata)
   * Network Intrusion Detection Systems (NIDS)
-
 * Common TCP/IP Attacks
   * Types of Attacks: IP Spoofing, SYN Flood, DNS Spoofing
   * Mitigation and Detection Strategies
-
-- Endpoint Security Technologies
+* Endpoint Security Technologies
   * Endpoint Protection Platforms (EPP)
   * Advanced Threat Protection (ATP)
-
 * Incident Analysis in a Threat-Centric SOC
   * Threat-Centric Approach to Security Operations
   * Analysis and Prioritization of Threats
-
-- Event Correlation and Normalization
+* Event Correlation and Normalization
   * Techniques to Normalize and Correlate Security Events for Incident Response
 
 </details>
@@ -135,40 +111,31 @@
 * Identifying Common Attack Vectors
   * Social Engineering, Phishing, Malware Delivery
   * Insiders and Advanced Persistent Threats (APTs)
-
-- Malicious Activity and Suspicious Behavior Patterns
+* Malicious Activity and Suspicious Behavior Patterns
   * Identifying Anomalous Traffic Patterns
   * Behavioral Analytics and Anomaly Detection
-
 * Security Incident Investigations
   * Investigating Suspicious Activities and Indicators of Compromise (IOCs)
   * Gathering Evidence and Preserving Forensics
-
-- Using Playbook Models for Security Monitoring
+* Using Playbook Models for Security Monitoring
   * Standardizing Incident Response with Playbook Models
   * Using Playbooks to Improve SOC Efficiency
-
 * Network Security Monitoring (NSM) Tools
   * Use of NSM Tools for Analyzing Data Categories (Suricata, Zeek, etc.)
   * Detecting and Analyzing Network Traffic
-
-- Endpoint Security Analysis
+* Endpoint Security Analysis
   * Investigating Endpoints for Malware and Threats
   * Detecting Suspicious Processes and Files on Endpoints
-
 * Hacker Methodology
   * Steps Involved in a Cyber Attack (Reconnaissance, Exploitation, etc.)
   * Understanding Attack Methods to Improve Detection
-
-- Malicious Traffic Hunting
+* Malicious Traffic Hunting
   * Techniques for Hunting Malicious Traffic in Networks
   * Tools for Traffic Analysis and Threat Detection
-
 * Event Log Correlation and Packet Captures (PCAPs)
   * Correlating Event Logs from Different Sources
   * Analyzing Packet Captures for Security Analysis
-
-- Security Onion Tools Overview
+* Security Onion Tools Overview
   * Elasticsearch, Logstash, Kibana (ELK): Log Management and Visualization
   * Suricata and Zeek: Network Traffic Analysis
   * Wazuh: Host-based IDS and SIEM Integration
@@ -185,30 +152,23 @@
 * SOC Metrics and Performance Measurement
   * Key Metrics for SOC Effectiveness (Mean Time to Detect (MTTD), Mean Time to Respond (MTTR))
   * Continuous Improvement of SOC Performance
-
-- SOC Workflow and Automation
+* SOC Workflow and Automation
   * Defining SOC Workflow Processes
   * Using Automation to Improve SOC Response Time
-
 * Incident Response in the SOC
   * Response Procedures in the SOC
   * Integrating Automation for Faster Incident Handling
-
-- Using VERIS for Incident Reporting
+* Using VERIS for Incident Reporting
   * Applying VERIS to Document and Share Security Events
-
 * Alerts and Investigation of Browser-Based Attacks
   * Identifying and Investigating Browser Exploits
   * Tools for Detecting and Mitigating Browser-Based Attacks
-
-- Suspicious DNS Activity
+* Suspicious DNS Activity
   * Investigating Anomalous DNS Queries and Responses
   * Tools and Techniques for DNS Traffic Analysis
-
 * Exploring Security Data for Analysis
   * Gathering and Analyzing Security Data from Various Sources (SIEM, IDS, Firewall Logs)
-
-- Investigating Advanced Persistent Threats (APTs)
+* Investigating Advanced Persistent Threats (APTs)
   * Characteristics of APTs
   * Techniques for Detecting and Mitigating APTs
 
@@ -216,7 +176,7 @@
 
 ## Notes
 
-\[⤓] [CSC301 CYBER SEC TOPICS](https://drive.google.com/file/d/1P6xN7hAY5rPplq_U2jG4hCPCK3dEWa2V/view?usp=drive_link)
+<table><thead><tr><th width="81.69140625">[⤓] </th><th width="695.29296875">Content Preview</th></tr></thead><tbody><tr><td><a href="https://drive.google.com/uc?export=download&#x26;id=10wzyWbqColKgCKv3utrsY9ukGNe_QzIa" class="button primary" data-icon="arrow-down-to-square"></a></td><td><a href="https://drive.google.com/file/d/10wzyWbqColKgCKv3utrsY9ukGNe_QzIa/view?usp=drive_link">CSC301-CYBER-SECURITY-ALL-MODULES-KEYNOTES</a> (Contributed by: Parikshit Singh)</td></tr><tr><td><a href="https://drive.google.com/uc?export=download&#x26;id=1P6xN7hAY5rPplq_U2jG4hCPCK3dEWa2V" class="button primary" data-icon="arrow-down-to-square"></a></td><td><a href="https://drive.google.com/file/d/1P6xN7hAY5rPplq_U2jG4hCPCK3dEWa2V/view?usp=drive_link">CSC301 CYBER SEC TOPICS</a></td></tr></tbody></table>
 
 {% embed url="https://drive.google.com/file/d/1P6xN7hAY5rPplq_U2jG4hCPCK3dEWa2V/view?usp=drive_link" %}
 

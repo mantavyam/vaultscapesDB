@@ -62,6 +62,12 @@ Thank you, **The Vaultscapes Team**
 
 </details>
 
+## Notes
+
+<table><thead><tr><th width="84.51953125">[⤓] </th><th>Content Preview</th></tr></thead><tbody><tr><td><a href="https://drive.google.com/uc?export=download&#x26;id=1MyAtGoEuDFit7PFQEnusF0qMgAe0cioJ" class="button primary" data-icon="arrow-down-to-square"></a></td><td><a href="https://drive.google.com/file/d/1MyAtGoEuDFit7PFQEnusF0qMgAe0cioJ/view?usp=drive_link">CSA301-AI-ML-M4+5-KEYNOTES-CONCEPT-WISE</a> (Contributed by: Parikshit Singh)</td></tr></tbody></table>
+
+{% embed url="https://drive.google.com/file/d/1MyAtGoEuDFit7PFQEnusF0qMgAe0cioJ/view?usp=drive_link" %}
+
 ## Question Directory
 
 ### Previous Year Questions
