@@ -1,19 +1,19 @@
 # Table of contents
 
-* [Overview - Semester 5](README.md)
-* [CSE303 / Algo Design/Analysis](cse303-algo-design-analysis/README.md)
-  * [CSE323 / Algo Design/Analysis Lab](cse303-algo-design-analysis/cse323-algo-design-analysis-lab.md)
+* [Overview](README.md)
+* [CSE303 / DAA](cse303-daa/README.md)
+  * [CSE323 / DAA Lab](cse303-daa/cse323-daa-lab.md)
 * [CSE501 / TOC](cse501-toc.md)
-* [CSE503 / Android App Dev](cse503-android-app-dev/README.md)
-  * [CSE523 / Android App Dev Lab](cse503-android-app-dev/cse523-android-app-dev-lab.md)
-* [CSE504 / Adv Java](cse504-adv-java/README.md)
-  * [CSE524 / Adv Java Lab](cse504-adv-java/cse524-adv-java-lab.md)
+* [CSE503 / Android](cse503-android/README.md)
+  * [CSE523 / Android Lab](cse503-android/cse523-android-lab.md)
+* [CSE504 / Advanced Java](cse504-advanced-java/README.md)
+  * [CSE524 / Advanced Java Lab](cse504-advanced-java/cse524-advanced-java-lab.md)
 * [CSE505 / IWT](cse505-iwt/README.md)
   * [CSE525 / IWT Lab](cse505-iwt/cse525-iwt-lab.md)
 * [IT501 / Blockchain](it501-blockchain.md)
 * [BCU541 / Communication](bcu541-communication.md)
 * [BSU543 / Behaviour](bsu543-behaviour.md)
-* [NPT550 / Report](npt550-report.md)
+* [NPT550 / IPT-1](npt550-ipt-1.md)
 
 ## SPECIALISATION
 
