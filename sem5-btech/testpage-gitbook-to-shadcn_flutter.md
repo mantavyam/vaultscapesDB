@@ -1,4 +1,4 @@
-# TESTPAGE / Gitbook to Shadcn\_flutter
+# TESTPAGE / Gitbook to Shadcn_flutter
 
 # Recommendations on Gitbook to shadcn_flutter Component Mapping
 
@@ -110,9 +110,7 @@ greeting.("Anna")
 
 ### Files
 
-{% file src="<https://1050631731-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FNkEGS7hzeqa35sMXQZ4X%2Fuploads%2Fgit-blob-9ff1c1eef1d9ee1744295e274d3ee01fae848a20%2Fexample.pdf?alt=media>" %}
-This is a caption on a file.
-{% endfile %}
+{% file src="<https://3148391480-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FoWho7cxjZIbvsuDwIAzB%2Fuploads%2FxyDcTdV5EpAOqIt4bQ6Y%2FY3S5-SYLLABUS-BTECH-CSE-IT-Compilation_removed.pdf?alt=media&token=8172d94a-73d3-4c58-a0f9-2bda339f8633>" %}
 
 ### Images
 
@@ -120,7 +118,18 @@ This is a caption on a file.
 
 ### Embedded URLs
 
-{% embed url="URL_HERE" %}
+#### Videos
+
+{% embed url="<https://www.youtube.com/watch?v=D_uLM5i0Z4c>" %}
+
+#### Codepen
+
+{% embed url="<https://codepen.io/davidkpiano/pen/wMqXea>" %}
+
+#### Spotify
+
+{% embed url="<https://open.spotify.com/track/4FmiciU3ZmfgABlbCSXcWw?si=65zMAhStT2ivTit-kZISWg>" %}
+
 
 ### Tables
 
@@ -166,13 +175,26 @@ Once you’ve inserted an expandable block, you can add content to it — includ
 
 ### Stepper
 
+{% stepper %}
 {% step %}
-### Step 1 title
-Step 1 text
+
+### Add a stepper block
+
+To add a stepper block, hit `/` on an empty line or click the `+` on the left of the editor and select **Stepper** from the insert menu.
 {% endstep %}
+
 {% step %}
-### Step 2 title
-Step 2 text
+
+### Add some content
+
+Once you’ve inserted your stepper block, you can start adding content to it — including code blocks, drawings, images and much more.
+{% endstep %}
+
+{% step %}
+
+### Add more steps
+
+Click the `+` below the step numbers or hit `Enter` twice to add another step to your stepper block. You can remove or change the style of the step header or step body if you wish.
 {% endstep %}
 {% endstepper %}
 
