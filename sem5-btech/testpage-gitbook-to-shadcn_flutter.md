@@ -1,20 +1,26 @@
-# TESTPAGE / Gitbook to Shadcn_flutter
+# TESTPAGE / Gitbook to Shadcn\_flutter
 
-# Recommendations on Gitbook to shadcn_flutter Component Mapping
+## TESTPAGE / Gitbook to Shadcn\_flutter
 
-## Blocks
+## Recommendations on Gitbook to shadcn\_flutter Component Mapping
 
-### Paragraphs
+### Blocks
+
+#### Paragraphs
+
 A Block is just text, that’s how it’s represented in Markdown.
 
-### Headings
+#### Headings
 
-# I'm a page title
-## My heading 1
-### My heading 2
-#### My heading 3
+## I'm a page title
 
-### Unordered lists
+### My heading 1
+
+#### My heading 2
+
+**My heading 3**
+
+#### Unordered lists
 
 * Item
   * Nested item
@@ -23,7 +29,7 @@ A Block is just text, that’s how it’s represented in Markdown.
 * Another item
 * Yet another item
 
-### Ordered lists
+#### Ordered lists
 
 1. Item 1
    1. Nested item 1.1
@@ -32,14 +38,14 @@ A Block is just text, that’s how it’s represented in Markdown.
 2. Item 2
 3. Item 3
 
-### Task lists
+#### Task lists
 
 * [ ] Here’s a task that hasn’t been done
   * [x] Here’s a subtask that has been done, indented using `Tab`.
   * [ ] Here’s a subtask that hasn’t been done.
 * [ ] Finally, an item, unindented using `shift` + `tab`.
 
-### Hints
+#### Hints
 
 {% hint style="info" %}
 **Info hints** are great for showing general information, or providing tips and tricks.
@@ -65,81 +71,75 @@ This is a line
 This is an inline <img src="https://1050631731-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FNkEGS7hzeqa35sMXQZ4X%2Fuploads%2F0FzoF68PAY3Rv297meNB%2Fcommand.svg?alt=media&#x26;token=b07ff261-6e28-4879-8ab1-039a49f6ab41" alt="The Apple computer command icon" data-size="line"> image
 
 * This is a second <mark style="color:orange;background-color:purple;">line using an unordered list and color</mark>
-  {% endhint %}
+{% endhint %}
 
-### Quotes
+#### Quotes
 
-> "No human ever steps in the same river twice, for it’s not the same river and they are not the same human." — *Heraclitus*
+> "No human ever steps in the same river twice, for it’s not the same river and they are not the same human." — _Heraclitus_
 
-### Code blocks
+#### Code blocks
 
-{% code title="index.js" overflow="wrap" lineNumbers="true" %}
+{% code title="main.dart" overflow="wrap" lineNumbers="true" %}
 ```dart
 flutter pub get
 ```
 {% endcode %}
 
----
+***
 
 You can also combine code blocks with a 'tabs block' to offer the same code example in multiple different languages:
 
 {% tabs %}
 {% tab title="JavaScript" %}
-javascript
-let greeting = function (name) {
-  console.log(`Hello, ${name}!`);
-};
-greeting("Anna");
-
+javascript let greeting = function (name) { console.log(`Hello, ${name}!`); }; greeting("Anna");
 {% endtab %}
 
 {% tab title="Ruby" %}
-ruby
-greeting = lambda {|name| puts "Hello, #{name}!"}
-greeting.("Anna")
-
+ruby greeting = lambda {|name| puts "Hello, #{name}!"} greeting.("Anna")
 {% endtab %}
 
 {% tab title="Elixir" %}
-elixir
-greeting = fn name -> IO.puts("Hello, #{name}!") end
-greeting.("Anna")
-
+elixir greeting = fn name -> IO.puts("Hello, #{name}!") end greeting.("Anna")
 {% endtab %}
 {% endtabs %}
 
-### Files
+#### Files
 
-{% file src="<https://3148391480-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FoWho7cxjZIbvsuDwIAzB%2Fuploads%2FxyDcTdV5EpAOqIt4bQ6Y%2FY3S5-SYLLABUS-BTECH-CSE-IT-Compilation_removed.pdf?alt=media&token=8172d94a-73d3-4c58-a0f9-2bda339f8633>" %}
-
-### Images
+#### Images
 
 <div align="center"><figure><img src="https://images.unsplash.com/photo-1446776709462-d6b525c57bd3?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHxzcGFjZXxlbnwwfHx8fDE3MzMxOTY5NTR8MA&#x26;ixlib=rb-4.0.3&#x26;q=85" alt="A photograph taken from space looking back towards Earth. A satellite is in the foreground, and in the background is an ocean-covered part of our planet with patchy clouds."><figcaption><p>Example of an image block with a caption</p></figcaption></figure></div>
 
-### Embedded URLs
+#### Embedded URLs
 
-#### Videos
+**Videos**
 
-{% embed url="<https://www.youtube.com/watch?v=D_uLM5i0Z4c>" %}
+{% embed url="https://www.youtube.com/watch?v=D_uLM5i0Z4c" %}
 
-#### Codepen
+**Codepen**
 
-{% embed url="<https://codepen.io/davidkpiano/pen/wMqXea>" %}
+{% embed url="https://codepen.io/davidkpiano/pen/wMqXea" %}
 
-#### Spotify
+**Spotify**
 
-{% embed url="<https://open.spotify.com/track/4FmiciU3ZmfgABlbCSXcWw?si=65zMAhStT2ivTit-kZISWg>" %}
+{% embed url="https://open.spotify.com/track/4FmiciU3ZmfgABlbCSXcWw?si=65zMAhStT2ivTit-kZISWg" %}
 
+**Google Drive**
 
-### Tables
+{% embed url="https://drive.google.com/file/d/1mPnX5ah05wcfw5-239vF78tDjUi4DKXI/view?usp=drive_link" %}
 
-<table data-full-width="false"><thead><tr><th>Company</th><th>Status<select><option value="36bef47f343d4588bc43db3e5c701796" label="In progress" color="blue"></option></select></th><th>Contact</th><th>MRR</th><th data-hidden>Contact</th><th data-hidden>MRR</th><th data-hidden>Status<select><option value="3e7a52c673ec4a01992566d18271f7a5" label="In progress" color="blue"></option><option value="2362fd3eafc7476fb8646ac754f34b72" label="Done" color="blue"></option></select></th></tr></thead><tbody><tr><td><strong>Ace AI</strong> – Design</td><td><span data-option="36bef47f343d4588bc43db3e5c701796">In progress</span></td><td><a href="mailto:noreply@gitbook.com">rena@ace.ai</a></td><td>$450</td><td><a href="mailto:noreply@gitbook.com">rena@ace.ai</a></td><td>$420</td><td><span data-option="3e7a52c673ec4a01992566d18271f7a5">In progress</span></td></tr><tr><td><strong>Discrete Data</strong> – API</td><td></td><td><a href="mailto:noreply@gitbook.com">dave@dd.inc</a></td><td>$100</td><td><a href="mailto:noreply@gitbook.com">dave@dd.inc</a></td><td>$69</td><td></td></tr></tbody></table>
+**Google Docs**
 
-### Cards
+{% embed url="https://docs.google.com/document/d/1ed-MpcB3jJur3Z_rXdwlfVXGQ6sPKVK9yjsw2jEoNdE/edit?usp=sharing" %}
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-type="image">Cover image (dark)</th><th data-hidden data-type="image">Cover image (dark)</th><th data-hidden data-card-cover-dark data-type="image">Cover image (dark)</th></tr></thead><tbody><tr><td><strong>GitBook homepage</strong></td><td>Visit our website and find out more about GitBook.</td><td><a href="https://www.gitbook.com/">https://www.gitbook.com/</a></td><td><a href="https://1050631731-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FNkEGS7hzeqa35sMXQZ4X%2Fuploads%2FHAbAKXyi5SHXH1rDhg4E%2FGitBook%20homepage.png?alt=media&#x26;token=b2ced317-e488-408b-94a2-03bf72cce821">25_12_10_cards_3.png</a></td><td><a href="https://1050631731-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FNkEGS7hzeqa35sMXQZ4X%2Fuploads%2FYYaAqhyC3yLcBknZdlmW%2FGitBook%20homepage.png?alt=media&#x26;token=8478251c-456e-4f30-8b32-39cbcc5640ef">25_12_10_cards_2.png</a></td><td></td><td><a href="https://1050631731-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FNkEGS7hzeqa35sMXQZ4X%2Fuploads%2FYYaAqhyC3yLcBknZdlmW%2FGitBook%20homepage.png?alt=media&#x26;token=8478251c-456e-4f30-8b32-39cbcc5640ef">25_12_10_cards_2.png</a></td></tr><tr><td><strong>Developer docs</strong></td><td>Build you own GitBook integration!</td><td><a href="https://developer.gitbook.com/">https://developer.gitbook.com/</a></td><td><a href="https://1050631731-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FNkEGS7hzeqa35sMXQZ4X%2Fuploads%2F1wL4yuiP0Pi9Oeu0wnmm%2FDeveloper%20docs.png?alt=media&#x26;token=95e0440c-530d-4ce8-8910-607902fc563c">25_12_10_cards_1.png</a></td><td></td><td><a href="https://1050631731-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FNkEGS7hzeqa35sMXQZ4X%2Fuploads%2FLpBdK9z1nnfqwZiJxOuD%2FDeveloper%20docs.png?alt=media&#x26;token=32bed668-de47-427b-9371-0cb4ae6976f0">25_12_10_cards.png</a></td><td><a href="https://1050631731-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FNkEGS7hzeqa35sMXQZ4X%2Fuploads%2FLpBdK9z1nnfqwZiJxOuD%2FDeveloper%20docs.png?alt=media&#x26;token=32bed668-de47-427b-9371-0cb4ae6976f0">25_12_10_cards.png</a></td></tr><tr><td><strong>Sign up to GitBook</strong></td><td>Click here to get started for free.</td><td><a href="https://app.gitbook.com/join">https://app.gitbook.com/join</a></td><td><a href="https://1050631731-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FNkEGS7hzeqa35sMXQZ4X%2Fuploads%2Fg2kgdfMsxOpWQx1Meq8s%2FSign%20up.png?alt=media&#x26;token=e7ef635a-1864-4944-b5a9-2ba7893f6cc0">25_12_10_cards_5.png</a></td><td></td><td></td><td><a href="https://1050631731-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FNkEGS7hzeqa35sMXQZ4X%2Fuploads%2Fp4zjlQyIPTIdwuCeremo%2FSign%20up.png?alt=media&#x26;token=2b8904a8-917f-4eb1-b5fe-5a5575757376">25_12_10_cards_4.png</a></td></tr></tbody></table>
+#### Tables
 
-### Tabs
+<table data-full-width="false"><thead><tr><th>Company</th><th>Status<select><option value="36bef47f343d4588bc43db3e5c701796" label="In progress" color="blue"></option></select></th><th>Contact</th><th>MRR</th><th data-hidden>Contact</th><th data-hidden>MRR</th><th data-hidden>Status<select><option value="3e7a52c673ec4a01992566d18271f7a5" label="In progress" color="blue"></option><option value="2362fd3eafc7476fb8646ac754f34b72" label="Done" color="blue"></option></select></th></tr></thead><tbody><tr><td><strong>Ace AI</strong> – Design</td><td><span data-option="36bef47f343d4588bc43db3e5c701796">In progress</span></td><td><a href="mailto:noreply@gitbook.com">rena@ace.ai</a></td><td>$450</td><td><a href="mailto:noreply@gitbook.com">rena@ace.ai</a></td><td>$420</td><td><span data-option="3e7a52c673ec4a01992566d18271f7a5">In progress</span></td></tr><tr><td><strong>Discrete Data</strong> – API</td><td><span data-option="36bef47f343d4588bc43db3e5c701796">In progress</span></td><td><a href="mailto:noreply@gitbook.com">dave@dd.inc</a></td><td>$100</td><td><a href="mailto:noreply@gitbook.com">dave@dd.inc</a></td><td>$69</td><td></td></tr></tbody></table>
+
+#### Cards
+
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-type="image">Cover image (dark)</th><th data-hidden data-type="image">Cover image (dark)</th><th data-hidden data-card-cover-dark data-type="image">Cover image (dark)</th></tr></thead><tbody><tr><td><strong>GitBook homepage</strong></td><td>Visit our website and find out more about GitBook.</td><td><a href="https://www.gitbook.com/">https://www.gitbook.com/</a></td><td><a href="https://1050631731-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FNkEGS7hzeqa35sMXQZ4X%2Fuploads%2FHAbAKXyi5SHXH1rDhg4E%2FGitBook%20homepage.png?alt=media&#x26;token=b2ced317-e488-408b-94a2-03bf72cce821">https://1050631731-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FNkEGS7hzeqa35sMXQZ4X%2Fuploads%2FHAbAKXyi5SHXH1rDhg4E%2FGitBook%20homepage.png?alt=media&#x26;token=b2ced317-e488-408b-94a2-03bf72cce821</a></td><td><a href="https://1050631731-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FNkEGS7hzeqa35sMXQZ4X%2Fuploads%2FYYaAqhyC3yLcBknZdlmW%2FGitBook%20homepage.png?alt=media&#x26;token=8478251c-456e-4f30-8b32-39cbcc5640ef">https://1050631731-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FNkEGS7hzeqa35sMXQZ4X%2Fuploads%2FYYaAqhyC3yLcBknZdlmW%2FGitBook%20homepage.png?alt=media&#x26;token=8478251c-456e-4f30-8b32-39cbcc5640ef</a></td><td></td><td><a href="https://1050631731-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FNkEGS7hzeqa35sMXQZ4X%2Fuploads%2FYYaAqhyC3yLcBknZdlmW%2FGitBook%20homepage.png?alt=media&#x26;token=8478251c-456e-4f30-8b32-39cbcc5640ef">https://1050631731-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FNkEGS7hzeqa35sMXQZ4X%2Fuploads%2FYYaAqhyC3yLcBknZdlmW%2FGitBook%20homepage.png?alt=media&#x26;token=8478251c-456e-4f30-8b32-39cbcc5640ef</a></td></tr><tr><td><strong>Developer docs</strong></td><td>Build you own GitBook integration!</td><td><a href="https://developer.gitbook.com/">https://developer.gitbook.com/</a></td><td><a href="https://1050631731-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FNkEGS7hzeqa35sMXQZ4X%2Fuploads%2F1wL4yuiP0Pi9Oeu0wnmm%2FDeveloper%20docs.png?alt=media&#x26;token=95e0440c-530d-4ce8-8910-607902fc563c">https://1050631731-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FNkEGS7hzeqa35sMXQZ4X%2Fuploads%2F1wL4yuiP0Pi9Oeu0wnmm%2FDeveloper%20docs.png?alt=media&#x26;token=95e0440c-530d-4ce8-8910-607902fc563c</a></td><td></td><td><a href="https://1050631731-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FNkEGS7hzeqa35sMXQZ4X%2Fuploads%2FLpBdK9z1nnfqwZiJxOuD%2FDeveloper%20docs.png?alt=media&#x26;token=32bed668-de47-427b-9371-0cb4ae6976f0">https://1050631731-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FNkEGS7hzeqa35sMXQZ4X%2Fuploads%2FLpBdK9z1nnfqwZiJxOuD%2FDeveloper%20docs.png?alt=media&#x26;token=32bed668-de47-427b-9371-0cb4ae6976f0</a></td><td><a href="https://1050631731-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FNkEGS7hzeqa35sMXQZ4X%2Fuploads%2FLpBdK9z1nnfqwZiJxOuD%2FDeveloper%20docs.png?alt=media&#x26;token=32bed668-de47-427b-9371-0cb4ae6976f0">https://1050631731-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FNkEGS7hzeqa35sMXQZ4X%2Fuploads%2FLpBdK9z1nnfqwZiJxOuD%2FDeveloper%20docs.png?alt=media&#x26;token=32bed668-de47-427b-9371-0cb4ae6976f0</a></td></tr><tr><td><strong>Sign up to GitBook</strong></td><td>Click here to get started for free.</td><td><a href="https://app.gitbook.com/join">https://app.gitbook.com/join</a></td><td><a href="https://1050631731-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FNkEGS7hzeqa35sMXQZ4X%2Fuploads%2Fg2kgdfMsxOpWQx1Meq8s%2FSign%20up.png?alt=media&#x26;token=e7ef635a-1864-4944-b5a9-2ba7893f6cc0">https://1050631731-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FNkEGS7hzeqa35sMXQZ4X%2Fuploads%2Fg2kgdfMsxOpWQx1Meq8s%2FSign%20up.png?alt=media&#x26;token=e7ef635a-1864-4944-b5a9-2ba7893f6cc0</a></td><td></td><td></td><td><a href="https://1050631731-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FNkEGS7hzeqa35sMXQZ4X%2Fuploads%2Fp4zjlQyIPTIdwuCeremo%2FSign%20up.png?alt=media&#x26;token=2b8904a8-917f-4eb1-b5fe-5a5575757376">https://1050631731-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FNkEGS7hzeqa35sMXQZ4X%2Fuploads%2Fp4zjlQyIPTIdwuCeremo%2FSign%20up.png?alt=media&#x26;token=2b8904a8-917f-4eb1-b5fe-5a5575757376</a></td></tr></tbody></table>
+
+#### Tabs
 
 {% tabs %}
 {% tab title="Windows" %}
@@ -155,7 +155,7 @@ Here are the instructions for Linux
 {% endtab %}
 {% endtabs %}
 
-### Expandable
+#### Expandable
 
 <details>
 
@@ -173,88 +173,80 @@ Once you’ve inserted an expandable block, you can add content to it — includ
 
 </details>
 
-### Stepper
+#### Stepper
 
 {% stepper %}
 {% step %}
-
-### Add a stepper block
+#### Add a stepper block
 
 To add a stepper block, hit `/` on an empty line or click the `+` on the left of the editor and select **Stepper** from the insert menu.
 {% endstep %}
 
 {% step %}
-
-### Add some content
+#### Add some content
 
 Once you’ve inserted your stepper block, you can start adding content to it — including code blocks, drawings, images and much more.
 {% endstep %}
 
 {% step %}
-
-### Add more steps
+#### Add more steps
 
 Click the `+` below the step numbers or hit `Enter` twice to add another step to your stepper block. You can remove or change the style of the step header or step body if you wish.
 {% endstep %}
 {% endstepper %}
 
-### Math & TeX
+#### Math & TeX
 
 $$
 s = \sqrt{\frac{1}{N-1} \sum\_{i=1}^N (x\_i - \overline{x})^2}
 $$
 
-### Page links
+#### Page links
 
-{% content-ref url="" %}
-[](https://gitbook.com/docs/creating-content/blocks)
+{% content-ref url="testpage-gitbook-to-shadcn_flutter.md" %}
+[testpage-gitbook-to-shadcn\_flutter.md](testpage-gitbook-to-shadcn_flutter.md)
 {% endcontent-ref %}
 
-{% content-ref url="../formatting/inline" %}
-[inline](https://gitbook.com/docs/creating-content/formatting/inline)
+{% content-ref url="../formatting/inline/" %}
+[inline](../formatting/inline/)
 {% endcontent-ref %}
 
-### Buttons
+#### Buttons
 
-<a href="https://app.gitbook.com/join" class="button primary">Sign up to GitBook</a>
-<a href="#annotations" class="button secondary">Go to top</a>
+<a href="https://app.gitbook.com/join" class="button primary">Sign up to GitBook</a> <a href="testpage-gitbook-to-shadcn_flutter.md#annotations" class="button secondary">Go to top</a>
 
-### Icons
+#### Icons
 
-<i class="fa-facebook">:facebook:</i>
-<i class="fa-github">:github:</i>
-<i class="fa-x-twitter">:x-twitter:</i>
-<i class="fa-instagram">:instagram:</i>
+<i class="fa-facebook">:facebook:</i> <i class="fa-github">:github:</i> <i class="fa-x-twitter">:x-twitter:</i> <i class="fa-instagram">:instagram:</i>
 
-## Markdown editing
+### Markdown editing
 
-### Italic
+#### Italic
 
-*Italic*
-_Italic_
+_Italic_ _Italic_
 
-### Bold
+#### Bold
 
-**Bold**
-__Bold__
+**Bold** **Bold**
 
-### Links
+#### Links
 
 [Link](http://a.com)
 
-### Images
+#### Images
 
 ![Image](http://url/a.png)
 
-### Blockquotes
+#### Blockquotes
 
 > Blockquote
 
-### Horizontal rules
+#### Horizontal rules
 
----
+***
 
-### Code blocks
+#### Code blocks
+
 ```dart
 const CodeSnippet(
   code: Text('flutter pub get'),
