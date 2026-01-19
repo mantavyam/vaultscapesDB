@@ -74,9 +74,9 @@ This is an inline <img src="https://1050631731-files.gitbook.io/~/files/v0/b/git
 ### Code blocks
 
 {% code title="index.js" overflow="wrap" lineNumbers="true" %}
-dart
+```dart
 flutter pub get
-
+```
 {% endcode %}
 
 ---
