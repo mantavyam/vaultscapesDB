@@ -6,6 +6,8 @@
 
 {% file src="../.gitbook/assets/Y3S5-CSC521-SYLLABUS-BTECH-CSE-IT.pdf" %}
 
+***
+
 ## Resources
 
 <details>
