@@ -1,3 +1,7 @@
+---
+description: 'IGNORE THIS PAGE: IT IS FOR TESTING PURPOSE OF OUR ANDROID APP'
+---
+
 # TESTPAGE / Gitbook to Shadcn\_flutter
 
 ## TESTPAGE / Gitbook to Shadcn\_flutter
@@ -203,8 +207,8 @@ $$
 
 #### Page links
 
-{% content-ref url="testpage-gitbook-to-shadcn_flutter.md" %}
-[testpage-gitbook-to-shadcn\_flutter.md](testpage-gitbook-to-shadcn_flutter.md)
+{% content-ref url="testpage.md" %}
+[testpage.md](testpage.md)
 {% endcontent-ref %}
 
 {% content-ref url="../formatting/inline/" %}
@@ -213,7 +217,7 @@ $$
 
 #### Buttons
 
-<a href="https://app.gitbook.com/join" class="button primary">Sign up to GitBook</a> <a href="testpage-gitbook-to-shadcn_flutter.md#annotations" class="button secondary">Go to top</a>
+<a href="https://app.gitbook.com/join" class="button primary">Sign up to GitBook</a> <a href="testpage.md#annotations" class="button secondary">Go to top</a>
 
 #### Icons
 
