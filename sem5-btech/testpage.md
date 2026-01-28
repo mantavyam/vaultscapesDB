@@ -107,7 +107,7 @@ elixir greeting = fn name -> IO.puts("Hello, #{name}!") end greeting.("Anna")
 {% endtab %}
 {% endtabs %}
 
-#### Files
+## Files
 
 #### Images
 
@@ -126,6 +126,14 @@ elixir greeting = fn name -> IO.puts("Hello, #{name}!") end greeting.("Anna")
 **Spotify**
 
 {% embed url="https://open.spotify.com/track/4FmiciU3ZmfgABlbCSXcWw?si=65zMAhStT2ivTit-kZISWg" %}
+
+**PDF from Internet Archive**
+
+{% embed url="https://dn790007.ca.archive.org/0/items/TheONEThing_201809/The-ONE-Thing.pdf" %}
+
+**PDF from Gitbook URL**
+
+{% embed url="https://4284216567-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FpXGn0qcI0EFL0b2TCKET%2Fuploads%2F1jHLmHmt7Ec116cnRL4E%2FMAT201-Syllabus-BTECH-IT.pdf?alt=media&token=920c9278-25f4-44db-b8d4-0e7a2a3f083e" %}
 
 **Google Drive**
 
