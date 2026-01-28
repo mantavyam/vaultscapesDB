@@ -10,6 +10,7 @@
         "gitbookUrl": "https://mantavyam.gitbook.io/vaultscapes/sem-1/overview"
       },
       "core": [
+        { "id": "y1s1-testpg", "name": "Test Page", "code": "TESTPG", "gitbookUrl": "https://mantavyam.gitbook.io/vaultscapes/sem-5/testpage" },
         { "id": "y1s1-mat101", "name": "Mathematics", "code": "MAT101", "gitbookUrl": "https://mantavyam.gitbook.io/vaultscapes/sem-1/mat101" },
         { "id": "y1s1-che101", "name": "Chemistry", "code": "CHE101", "gitbookUrl": "https://mantavyam.gitbook.io/vaultscapes/sem-1/che101" },
         { "id": "y1s1-che121", "name": "Chemistry Lab", "code": "CHE121", "gitbookUrl": "https://mantavyam.gitbook.io/vaultscapes/sem-1/che101/che121" },
