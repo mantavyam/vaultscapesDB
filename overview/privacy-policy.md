@@ -6,7 +6,7 @@ icon: lock-keyhole-open
 
 **Effective Date:** January 16, 2026
 
-This Privacy Policy applies to the Vaultscapes app (hereinafter referred to as the "Application"), accessible via web link or mobile devices, created by Shivam Singh (hereinafter referred to as the "Service Provider") as an Open Source service. This service is provided "AS IS".
+This Privacy Policy applies to the Vaultscapes app (hereinafter referred to as the "Application"), accessible via web link or mobile devices, created by Shivam Singh at Mantavyam Studios India LTD. (hereinafter referred to as the "Service Provider") as an Open Source service. This service is provided "AS IS".
 
 **Access Without Account**\
 The Application does not require account creation or registration to use its core features.

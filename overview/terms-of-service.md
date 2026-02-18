@@ -6,7 +6,7 @@ icon: asterisk
 
 **Effective Date:** January 16, 2026
 
-These Terms of Service (“Terms”) govern your use of the Vaultscapes app (hereinafter the “Application”), accessible via web link or mobile devices, created by Shivam Singh (hereinafter the “Service Provider”) as an Open Source service. The Application is provided “AS IS”.
+These Terms of Service (“Terms”) govern your use of the Vaultscapes app (hereinafter the “Application”), accessible via web link or mobile devices, created by Shivam Singh at Mantavyam Studios India LTD. (hereinafter the “Service Provider”) as an Open Source service. The Application is provided “AS IS”.
 
 #### 1. Acceptance of Terms
 
