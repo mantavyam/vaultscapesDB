@@ -14,7 +14,6 @@
 * [BCU541 / Communication](bcu541.md)
 * [BSU543 / Behaviour](bsu543.md)
 * [NPT550 / IPT-1](npt550.md)
-* [TESTPAGE / Gitbook to Shadcn\_flutter](testpage.md)
 
 ## SPECIALISATION
 
