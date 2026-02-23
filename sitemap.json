@@ -151,6 +151,37 @@
         { "id": "y3s5-csd501", "name": "Data Science", "code": "CSD501", "gitbookUrl": "https://mantavyam.gitbook.io/vaultscapes/sem-5/specialisation/csd501" },
         { "id": "y3s5-csi501", "name": "IOT", "code": "CSI501", "gitbookUrl": "https://mantavyam.gitbook.io/vaultscapes/sem-5/specialisation/csi501" }
       ]
+    },
+    {
+      "id": "y3s6",
+      "name": "Semester 6",
+      "description": "Y3S6 of UG BTECH CSE & IT",
+      "order": 5,
+      "overview": {
+        "name": "Overview - Semester 6",
+        "gitbookUrl": "https://mantavyam.gitbook.io/vaultscapes/sem-6/overview"
+      },
+      "core": [
+        { "id": "y3s6-cse601", "name": "Data Communication & Computer Networks", "code": "CSE601", "gitbookUrl": "https://mantavyam.gitbook.io/vaultscapes/sem-6/cse601" },
+        { "id": "y3s6-cse621", "name": "Data Communication & Computer Networks Lab", "code": "CSE621", "gitbookUrl": "https://mantavyam.gitbook.io/vaultscapes/sem-6/cse601/cse621" },
+        { "id": "y3s6-cse602", "name": "Quantitative Aptitude", "code": "CSE602", "gitbookUrl": "https://mantavyam.gitbook.io/vaultscapes/sem-6/cse602" },
+        { "id": "y3s6-cse603", "name": "IOT", "code": "CSE603", "gitbookUrl": "https://mantavyam.gitbook.io/vaultscapes/sem-6/cse603" },
+        { "id": "y3s6-cse623", "name": "IOT Lab", "code": "CSE623", "gitbookUrl": "https://mantavyam.gitbook.io/vaultscapes/sem-6/cse603/cse623" },
+        { "id": "y3s6-cse604", "name": "Problem Solving Techniques", "code": "CSE604", "gitbookUrl": "https://mantavyam.gitbook.io/vaultscapes/sem-6/cse604" },
+        { "id": "y3s6-cse624", "name": "Problem Solving Techniques Lab", "code": "CSE624", "gitbookUrl": "https://mantavyam.gitbook.io/vaultscapes/sem-6/cse604/cse624" },
+        { "id": "y3s6-cse605", "name": "Software Engineering", "code": "CSE605", "gitbookUrl": "https://mantavyam.gitbook.io/vaultscapes/sem-6/cse605" },
+        { "id": "y3s6-it601", "name": "Computer Networks", "code": "IT601", "gitbookUrl": "https://mantavyam.gitbook.io/vaultscapes/sem-6/it601" },
+        { "id": "y3s6-it621", "name": "Computer Networks Lab", "code": "IT621", "gitbookUrl": "https://mantavyam.gitbook.io/vaultscapes/sem-6/it601/it621" },
+        { "id": "y3s6-bcu641", "name": "Communication", "code": "BCU641", "gitbookUrl": "https://mantavyam.gitbook.io/vaultscapes/sem-6/bcu641" },
+        { "id": "y3s6-bsu643", "name": "Behaviour", "code": "BSU643", "gitbookUrl": "https://mantavyam.gitbook.io/vaultscapes/sem-6/bsu643" },
+        { "id": "y3s6-nmp660", "name": "Minor Project", "code": "NMP660", "gitbookUrl": "https://mantavyam.gitbook.io/vaultscapes/sem-6/nmp660" }
+      ],
+      "specialisation": [
+        { "id": "y3s6-csc601", "name": "Cyber Security", "code": "CSC601", "gitbookUrl": "https://mantavyam.gitbook.io/vaultscapes/sem-6/specialisation/csc601" },
+        { "id": "y3s6-csa601", "name": "AI and ML", "code": "CSA601", "gitbookUrl": "https://mantavyam.gitbook.io/vaultscapes/sem-6/specialisation/csa601" },
+        { "id": "y3s6-csd601", "name": "Data Science", "code": "CSD601", "gitbookUrl": "https://mantavyam.gitbook.io/vaultscapes/sem-6/specialisation/csd601" },
+        { "id": "y3s6-csi601", "name": "IOT", "code": "CSI601", "gitbookUrl": "https://mantavyam.gitbook.io/vaultscapes/sem-6/specialisation/csi601" }
+      ]
     }
   ]
 }
