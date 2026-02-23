@@ -1,4 +1,8 @@
-# CSE604
+---
+description: Problem Solving Techniques
+---
+
+# CSE604 / Problem Solving
 
 {% hint style="danger" %}
 Content Yet to be Updated for this Page, Submit Resources If you want to collaborate, find form attached on this page below.
