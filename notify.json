@@ -6,14 +6,12 @@
       "id": "welcome-v2",
       "duration": {
         "type": "range",
-        "startDate": "2026-02-20T00:00:00Z",
-        "endDate": "2026-03-01T23:59:59Z"
+        "startDate": "2026-02-22T00:00:00Z",
+        "endDate": "2026-03-22T23:59:59Z"
       },
       "content": {
         "title": "🎉 Welcome to Vaultscapes v2!",
-        "description": "Check out the new features we've added including Breakthrough notifications and improved navigation.",
-        "actionUrl": "/main/breakthrough",
-        "actionLabel": "Explore"
+        "description": "Check out the new features we've added including Breakthrough AI News notifications, improved navigation and support for Sign In via providers"
       },
       "display": {
         "banner": {
@@ -26,50 +24,6 @@
           "enabled": true,
           "dismissable": true,
           "durationSeconds": 8
-        }
-      },
-      "priority": 10,
-      "targetAudience": "all"
-    },
-    {
-      "id": "exam-reminder",
-      "duration": {
-        "type": "frequency",
-        "initialDate": "2026-02-20T00:00:00Z",
-        "repeatDays": 7,
-        "endDate": "2026-05-31T23:59:59Z"
-      },
-      "content": {
-        "title": "📚 Weekly Study Reminder",
-        "description": "Don't forget to review this week's materials!"
-      },
-      "display": {
-        "toast": {
-          "enabled": true,
-          "dismissable": true,
-          "durationSeconds": 5
-        }
-      },
-      "priority": 5,
-      "targetAudience": "authenticated"
-    },
-    {
-      "id": "maintenance-notice",
-      "duration": {
-        "type": "range",
-        "startDate": "2026-02-20T00:00:00Z",
-        "endDate": "2026-02-25T06:00:00Z"
-      },
-      "content": {
-        "title": "🔧 Scheduled Maintenance",
-        "description": "We'll be performing maintenance from 2:00 AM to 6:00 AM IST. Some features may be unavailable."
-      },
-      "display": {
-        "banner": {
-          "enabled": true,
-          "backgroundColor": "#F59E0B",
-          "textColor": "#000000",
-          "pushNotification": true
         }
       },
       "priority": 100,
