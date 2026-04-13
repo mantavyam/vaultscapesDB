@@ -1,16 +1,8 @@
-# CSE603
-
-{% hint style="danger" %}
-Content Yet to be Updated for this Page, Submit Resources If you want to collaborate, find form attached on this page below.
-{% endhint %}
+# CSE603 / IOT
 
 ## Syllabus
 
-
-
-### References
-
-
+{% file src="../.gitbook/assets/CSE603-Sylllabus-BTECH-CSE+IT.pdf" %}
 
 ## Resources
 

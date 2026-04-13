@@ -4,17 +4,9 @@ description: Data Communication & Computer Networks
 
 # CSE601 / DCCN
 
-{% hint style="danger" %}
-Content Yet to be Updated for this Page, Submit Resources If you want to collaborate, find form attached on this page below.
-{% endhint %}
-
 ## Syllabus
 
-
-
-### References
-
-
+{% file src="../.gitbook/assets/CSE601-DCCN-Syllabus.pdf" %}
 
 ## Resources
 
