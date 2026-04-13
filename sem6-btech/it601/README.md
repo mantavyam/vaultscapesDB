@@ -10,7 +10,7 @@
 
 <summary>M1: Introduction to Data Communications</summary>
 
-\[⤓]
+\[⤓] [IT601 — Module I\_Intro to data comm](https://drive.google.com/uc?export=download\&id=1FWkfThKm9VE4HjknYpx7MtiYBBjCLOer)
 
 ***
 
@@ -48,7 +48,7 @@
 
 <summary>M2: Data Link Layer</summary>
 
-\[⤓]
+\[⤓] [IT601 — Module II\_ Data Link Layer](https://drive.google.com/uc?export=download\&id=1h0uZaiXdBxuObbD71lZbSEUZw2dGikFJ)
 
 ***
 
@@ -174,7 +174,9 @@
 
 ### MidTerm
 
-\[⤓]
+\[⤓] [IT601 — Module I\_Intro to data comm](https://drive.google.com/uc?export=download\&id=1FWkfThKm9VE4HjknYpx7MtiYBBjCLOer)
+
+\[⤓] [IT601 — Module II\_ Data Link Layer](https://drive.google.com/uc?export=download\&id=1h0uZaiXdBxuObbD71lZbSEUZw2dGikFJ)
 
 ### EndSem
 
