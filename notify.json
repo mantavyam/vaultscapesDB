@@ -26,6 +26,168 @@
           "durationSeconds": 8
         }
       },
+      "priority": 10,
+      "targetAudience": "all"
+    },
+    {
+      "id": "midterm-collab-APR2026",
+      "duration": {
+        "type": "range",
+        "startDate": "2026-04-14T00:00:00Z",
+        "endDate": "2026-04-25T23:59:59Z"
+      },
+      "content": {
+        "title": "📸 Share Your Midterm Papers!",
+        "description": "Midterms are live! 📸 Snap your exam papers and contribute via the Collaborate form. Build a legacy for your juniors — just like someone did for you :)"
+      },
+      "display": {
+        "banner": {
+          "enabled": true,
+          "backgroundColor": "#f4a261",
+          "textColor": "#FFFFFF",
+          "pushNotification": true
+        },
+        "toast": {
+          "enabled": true,
+          "dismissable": true,
+          "durationSeconds": 10
+        }
+      },
+      "priority": 100,
+      "targetAudience": "all"
+    },
+    {
+      "id": "endsem-collab-JUN2026",
+      "duration": {
+        "type": "range",
+        "startDate": "2026-06-15T00:00:00Z",
+        "endDate": "2026-07-10T23:59:59Z"
+      },
+      "content": {
+        "title": "📸 Share Your EndSem Papers!",
+        "description": "Endsem is live! 📸 Snap your exam papers and contribute via the Collaborate form. Build a legacy for your juniors — just like someone did for you :)"
+      },
+      "display": {
+        "banner": {
+          "enabled": true,
+          "backgroundColor": "#f4a261",
+          "textColor": "#FFFFFF",
+          "pushNotification": true
+        },
+        "toast": {
+          "enabled": true,
+          "dismissable": true,
+          "durationSeconds": 10
+        }
+      },
+      "priority": 100,
+      "targetAudience": "all"
+    },
+    {
+      "id": "midterm-collab-OCT2026",
+      "duration": {
+        "type": "range",
+        "startDate": "2026-10-01T00:00:00Z",
+        "endDate": "2026-10-31T23:59:59Z"
+      },
+      "content": {
+        "title": "📸 Share Your Midterm Papers!",
+        "description": "Midterms are live! 📸 Snap your exam papers and contribute via the Collaborate form. Build a legacy for your juniors — just like someone did for you :)"
+      },
+      "display": {
+        "banner": {
+          "enabled": true,
+          "backgroundColor": "#f4a261",
+          "textColor": "#FFFFFF",
+          "pushNotification": true
+        },
+        "toast": {
+          "enabled": true,
+          "dismissable": true,
+          "durationSeconds": 10
+        }
+      },
+      "priority": 100,
+      "targetAudience": "all"
+    },
+    {
+      "id": "endsem-collab-JAN2027",
+      "duration": {
+        "type": "range",
+        "startDate": "2027-01-01T00:00:00Z",
+        "endDate": "2027-01-31T23:59:59Z"
+      },
+      "content": {
+        "title": "📸 Share Your EndSem Papers!",
+        "description": "Endsem is live! 📸 Snap your exam papers and contribute via the Collaborate form. Build a legacy for your juniors — just like someone did for you :)"
+      },
+      "display": {
+        "banner": {
+          "enabled": true,
+          "backgroundColor": "#f4a261",
+          "textColor": "#FFFFFF",
+          "pushNotification": true
+        },
+        "toast": {
+          "enabled": true,
+          "dismissable": true,
+          "durationSeconds": 10
+        }
+      },
+      "priority": 100,
+      "targetAudience": "all"
+    },
+    {
+      "id": "midterm-collab-APR2027",
+      "duration": {
+        "type": "range",
+        "startDate": "2027-04-14T00:00:00Z",
+        "endDate": "2027-04-25T23:59:59Z"
+      },
+      "content": {
+        "title": "📸 Share Your Midterm Papers!",
+        "description": "Midterms are live! 📸 Snap your exam papers and contribute via the Collaborate form. Build a legacy for your juniors — just like someone did for you :)"
+      },
+      "display": {
+        "banner": {
+          "enabled": true,
+          "backgroundColor": "#f4a261",
+          "textColor": "#FFFFFF",
+          "pushNotification": true
+        },
+        "toast": {
+          "enabled": true,
+          "dismissable": true,
+          "durationSeconds": 10
+        }
+      },
+      "priority": 100,
+      "targetAudience": "all"
+    },
+    {
+      "id": "endsem-collab-JUL2027",
+      "duration": {
+        "type": "range",
+        "startDate": "2027-06-15T00:00:00Z",
+        "endDate": "2027-07-10T23:59:59Z"
+      },
+      "content": {
+        "title": "📸 Share Your EndSem Papers!",
+        "description": "Endsem is live! 📸 Snap your exam papers and contribute via the Collaborate form. Build a legacy for your juniors — just like someone did for you :)"
+      },
+      "display": {
+        "banner": {
+          "enabled": true,
+          "backgroundColor": "#f4a261",
+          "textColor": "#FFFFFF",
+          "pushNotification": true
+        },
+        "toast": {
+          "enabled": true,
+          "dismissable": true,
+          "durationSeconds": 10
+        }
+      },
       "priority": 100,
       "targetAudience": "all"
     }
