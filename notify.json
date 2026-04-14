@@ -43,7 +43,7 @@
       "display": {
         "banner": {
           "enabled": true,
-          "backgroundColor": "#f4a261",
+          "backgroundColor": "#63b1f1",
           "textColor": "#FFFFFF",
           "pushNotification": true
         },
@@ -70,7 +70,7 @@
       "display": {
         "banner": {
           "enabled": true,
-          "backgroundColor": "#f4a261",
+          "backgroundColor": "#63b1f1",
           "textColor": "#FFFFFF",
           "pushNotification": true
         },
@@ -97,7 +97,7 @@
       "display": {
         "banner": {
           "enabled": true,
-          "backgroundColor": "#f4a261",
+          "backgroundColor": "#63b1f1",
           "textColor": "#FFFFFF",
           "pushNotification": true
         },
@@ -124,7 +124,7 @@
       "display": {
         "banner": {
           "enabled": true,
-          "backgroundColor": "#f4a261",
+          "backgroundColor": "#63b1f1",
           "textColor": "#FFFFFF",
           "pushNotification": true
         },
@@ -151,7 +151,7 @@
       "display": {
         "banner": {
           "enabled": true,
-          "backgroundColor": "#f4a261",
+          "backgroundColor": "#63b1f1",
           "textColor": "#FFFFFF",
           "pushNotification": true
         },
@@ -178,7 +178,7 @@
       "display": {
         "banner": {
           "enabled": true,
-          "backgroundColor": "#f4a261",
+          "backgroundColor": "#63b1f1",
           "textColor": "#FFFFFF",
           "pushNotification": true
         },
