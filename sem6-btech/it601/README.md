@@ -192,13 +192,17 @@
 
 ### Previous Year Questions
 
-\[⤓]
+\[⤓] [IT601-Endsem-PYQ-JUN24](https://drive.google.com/file/d/1XQIh1waLMOoqQa-qjLHeMMeMVbgWTXlC/view?usp=drive_link)
 
 ## External Sources
 
 \[⤓]
 
 ***
+
+{% embed url="https://play.google.com/store/apps/details?id=com.mantavyam.vaultscapes&pcampaignid=web_share" %}
+
+{% embed url="https://discord.com/invite/AQ7PNzdCnC" %}
 
 {% embed url="https://mantavyam.notion.site/18152f7cde8880d699a5f2e65f87374e" %}
 

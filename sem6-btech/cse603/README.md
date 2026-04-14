@@ -143,13 +143,17 @@
 
 ### Previous Year Questions
 
-\[⤓]
+\[⤓] [CSE603-Endsem-PYQ-JUN24](https://drive.google.com/file/d/1v3qzRd-pLtSTrbo12bexIZIECszwgia-/view?usp=drive_link)
 
 ## External Sources
 
 \[⤓]
 
 ***
+
+{% embed url="https://play.google.com/store/apps/details?id=com.mantavyam.vaultscapes&pcampaignid=web_share" %}
+
+{% embed url="https://discord.com/invite/AQ7PNzdCnC" %}
 
 {% embed url="https://mantavyam.notion.site/18152f7cde8880d699a5f2e65f87374e" %}
 

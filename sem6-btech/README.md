@@ -18,7 +18,7 @@ description: Year-3-Semester-6
 
 ## Notes
 
-\[⤓] [IT601 — Module I\_Intro to data comm](https://drive.google.com/uc?export=download\&id=1FWkfThKm9VE4HjknYpx7MtiYBBjCLOer)
+\[⤓] [IT601+CSE601 — Module I\_Intro to data comm](https://drive.google.com/uc?export=download\&id=1FWkfThKm9VE4HjknYpx7MtiYBBjCLOer)
 
 \[⤓] [IT601 — Module II\_ Data Link Layer](https://drive.google.com/uc?export=download\&id=1h0uZaiXdBxuObbD71lZbSEUZw2dGikFJ)
 
@@ -29,6 +29,32 @@ description: Year-3-Semester-6
 ### Mid-Sem-PYQ
 
 ### End-Sem-PYQ
+
+\[⤓] [CSA601-Endsem-PYQ-JUN23](https://drive.google.com/file/d/1WZ7YeAHrV1rXkiYTX4GRkgsIqHCBsqQT/view?usp=drive_link)
+
+\[⤓] [CSD601-Endsem-PYQ-JUN23](https://drive.google.com/file/d/1uQcM76WOsOnyu4-st2LucuH2zhfnoudQ/view?usp=drive_link)
+
+\[⤓] [CSE601-Endsem-PYQ-JUN23](https://drive.google.com/file/d/1msqheZvAeG-Rq_rVglRIRebYIFNC_sJ3/view?usp=drive_link)
+
+\[⤓] [CSE601-Endsem-PYQ-JUN24](https://drive.google.com/file/d/1z4yuajC-Y2HphW3Lj_Toz266Wz0QDgeq/view?usp=drive_link)
+
+\[⤓] [CSE602-Endsem-PYQ-JUN23](https://drive.google.com/file/d/1QIqJ6MAuy9PcHE6JKcAYkbQJhMDxGFnM/view?usp=drive_link)
+
+\[⤓] [CSE602-Endsem-PYQ-JUN24](https://drive.google.com/file/d/1XagLZ6n5jEA6N03825HC0UtudYCw87Bk/view?usp=drive_link)
+
+\[⤓] [CSE603-Endsem-PYQ-JUN24](https://drive.google.com/file/d/1v3qzRd-pLtSTrbo12bexIZIECszwgia-/view?usp=drive_link)
+
+\[⤓] [CSE604-Endsem-PYQ-JUN24](https://drive.google.com/file/d/1P2edDeWP8gz8bx7hKerZEogkTlTLSHd2/view?usp=drive_link)
+
+\[⤓] [CSE605-Endsem-PYQ-JUN23](https://drive.google.com/file/d/19KTrTx1mTzY_DjkVmM2O2y1KVjvSpD6J/view?usp=drive_link)
+
+\[⤓] [CSE605-Endsem-PYQ-JUN24](https://drive.google.com/file/d/1dQpWBB_ETTD4q0z034euNDB3RMKUds6s/view?usp=drive_link)
+
+\[⤓] [CSI601-Endsem-PYQ-JUN23](https://drive.google.com/file/d/1PQRFKaxw3Nw3BkxfJ31piOC9L8KqsPPn/view?usp=drive_link)
+
+\[⤓] [IT601-Endsem-PYQ-JUN24](https://drive.google.com/file/d/1XQIh1waLMOoqQa-qjLHeMMeMVbgWTXlC/view?usp=drive_link)
+
+{% embed url="https://play.google.com/store/apps/details?id=com.mantavyam.vaultscapes&pcampaignid=web_share" %}
 
 {% embed url="https://discord.com/invite/AQ7PNzdCnC" %}
 
