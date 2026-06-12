@@ -125,23 +125,23 @@
 
 ## Notes
 
-### MidTerm
-
-\[⤓]
-
-### EndSem
-
-\[⤓]
-
 ## Question Directory
-
-\[⤓]
 
 ### Assignment Questions
 
 \[⤓]
 
 ### Previous Year Questions
+
+### MidTerm
+
+\[⤓] [CSE603-IOT-Midsem-Set-A-PYQ-APR26](https://drive.google.com/file/d/1vduS3NMh1sK7j0xXWzb5da8aL8hTL2gf/view?usp=drive_link)
+
+\[⤓] [CSE603-IOT-Midsem-Set-B-PYQ-APR26](https://drive.google.com/file/d/1reI_f7XlVke7O6r7iRHVm7QyQEQyF97_/view?usp=drive_link)
+
+### EndSem
+
+\[⤓]
 
 \[⤓] [CSE603-Endsem-PYQ-JUN24](https://drive.google.com/file/d/1v3qzRd-pLtSTrbo12bexIZIECszwgia-/view?usp=drive_link)
 

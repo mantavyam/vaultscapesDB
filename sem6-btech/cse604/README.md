@@ -226,23 +226,23 @@ description: Problem Solving Techniques
 
 ## Notes
 
-### MidTerm
-
-\[⤓]
-
-### EndSem
-
-\[⤓]
-
 ## Question Directory
-
-\[⤓]
 
 ### Assignment Questions
 
 \[⤓]
 
 ### Previous Year Questions
+
+### MidTerm
+
+\[⤓] [CSE604-PST-Midsem-Set-A-PYQ-APR26](https://drive.google.com/file/d/1CUOECylKgwxXRxZYcl4QzjxE3ZKNfAcK/view?usp=drive_link)
+
+\[⤓] [CSE604-PST-Midsem-Set-B-PYQ-APR26](https://drive.google.com/file/d/1OnTaL8_2sgXYefa2x2YW9TJ5EdPqfDZU/view?usp=drive_link)
+
+### EndSem
+
+\[⤓]
 
 \[⤓] [CSE604-Endsem-PYQ-JUN24](https://drive.google.com/file/d/1P2edDeWP8gz8bx7hKerZEogkTlTLSHd2/view?usp=drive_link)
 

@@ -172,25 +172,27 @@
 
 ## Notes
 
-### MidTerm
-
 \[⤓] [IT601 — Module I\_Intro to data comm](https://drive.google.com/uc?export=download\&id=1FWkfThKm9VE4HjknYpx7MtiYBBjCLOer)
 
 \[⤓] [IT601 — Module II\_ Data Link Layer](https://drive.google.com/uc?export=download\&id=1h0uZaiXdBxuObbD71lZbSEUZw2dGikFJ)
 
-### EndSem
-
-\[⤓]
-
 ## Question Directory
-
-\[⤓]
 
 ### Assignment Questions
 
 \[⤓]
 
 ### Previous Year Questions
+
+### MidTerm
+
+\[⤓] [IT601-CN-Midsem-Set-A-PYQ-APR26](https://drive.google.com/file/d/1w29KPLgmvF8oPK8R7A4XqFWyNVPd8yVx/view?usp=drive_link)
+
+\[⤓] [IT601-CN-Midsem-Set-B-PYQ-APR26](https://drive.google.com/file/d/1Uz-QntVwjhqlet2_5KDLNikzGaFhSKaa/view?usp=drive_link)
+
+### EndSem
+
+\[⤓]
 
 \[⤓] [IT601-Endsem-PYQ-JUN24](https://drive.google.com/file/d/1XQIh1waLMOoqQa-qjLHeMMeMVbgWTXlC/view?usp=drive_link)
 

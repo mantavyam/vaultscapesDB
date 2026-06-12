@@ -14,7 +14,7 @@ description: Data Communication & Computer Networks
 
 <summary>M1: Introduction</summary>
 
-\[⤓]
+\[⤓] [CSE601 — Module I\_Intro to data comm](https://drive.google.com/uc?export=download\&id=1FWkfThKm9VE4HjknYpx7MtiYBBjCLOer)
 
 ***
 
@@ -178,14 +178,6 @@ description: Data Communication & Computer Networks
 
 ## Notes
 
-### MidTerm
-
-\[⤓] [CSE601 — Module I\_Intro to data comm](https://drive.google.com/uc?export=download\&id=1FWkfThKm9VE4HjknYpx7MtiYBBjCLOer)
-
-### EndSem
-
-\[⤓]
-
 ## Question Directory
 
 \[⤓]
@@ -195,6 +187,12 @@ description: Data Communication & Computer Networks
 \[⤓]
 
 ### Previous Year Questions
+
+### MidTerm
+
+### EndSem
+
+\[⤓]
 
 \[⤓] [CSE601-Endsem-PYQ-JUN24](https://drive.google.com/file/d/1z4yuajC-Y2HphW3Lj_Toz266Wz0QDgeq/view?usp=drive_link)
 

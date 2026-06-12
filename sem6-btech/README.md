@@ -28,6 +28,34 @@ description: Year-3-Semester-6
 
 ### Mid-Sem-PYQ
 
+\[⤓] [CSA601-AI+ML-Midsem-Set-A-PYQ-APR26](https://drive.google.com/file/d/1scPY3LZD6p5E7xOaVI6ENr3U-zSnjImZ/view?usp=drive_link)
+
+\[⤓] [CSA601-AI+ML-Midsem-Set-B-PYQ-APR26](https://drive.google.com/file/d/1k-D261dMK1CsDMf9cS0a79_QEh7LUz4g/view?usp=drive_link)
+
+\[⤓] [CSC601-CYBER-Midsem-Set-B-PYQ-APR26](https://drive.google.com/file/d/1Y6hZ7whaWdg0ykLj3XfzLS4Holay5BkA/view?usp=drive_link)
+
+\[⤓] [CSD601-DS-Midsem-Set-A-PYQ-APR26](https://drive.google.com/file/d/17ATezivx2JhXEbj9Q3Z9gA7u-P3yu1BD/view?usp=drive_link)
+
+\[⤓] [CSD601-DS-Midsem-Set-B-PYQ-APR26](https://drive.google.com/file/d/1b7fk1zsjlw0HPwzzVbqaAdrSg-PKwUUX/view?usp=drive_link)
+
+\[⤓] [CSE602-QA-Midsem-Set-A-PYQ-APR26](https://drive.google.com/file/d/1LuO3W-Q_a_rdsdAeFH9O7RlW9HPISB9f/view?usp=drive_link)
+
+\[⤓] [CSE603-IOT-Midsem-Set-A-PYQ-APR26](https://drive.google.com/file/d/1vduS3NMh1sK7j0xXWzb5da8aL8hTL2gf/view?usp=drive_link)
+
+\[⤓] [CSE603-IOT-Midsem-Set-B-PYQ-APR26](https://drive.google.com/file/d/1reI_f7XlVke7O6r7iRHVm7QyQEQyF97_/view?usp=drive_link)
+
+\[⤓] [CSE604-PST-Midsem-Set-A-PYQ-APR26](https://drive.google.com/file/d/1CUOECylKgwxXRxZYcl4QzjxE3ZKNfAcK/view?usp=drive_link)
+
+\[⤓] [CSE604-PST-Midsem-Set-B-PYQ-APR26](https://drive.google.com/file/d/1OnTaL8_2sgXYefa2x2YW9TJ5EdPqfDZU/view?usp=drive_link)
+
+\[⤓] [CSE605-SE-Midsem-Set-A-PYQ-APR26](https://drive.google.com/file/d/1cWcKZhXyR8gzj4H-Bvnt1EcEbFKzg7zX/view?usp=drive_link)
+
+\[⤓] [CSE605-SE-Midsem-Set-B-PYQ-APR26](https://drive.google.com/file/d/1xe32AkrT4uNDuVb1K3lICzNDr6_r7oRC/view?usp=drive_link)
+
+\[⤓] [IT601-CN-Midsem-Set-A-PYQ-APR26](https://drive.google.com/file/d/1w29KPLgmvF8oPK8R7A4XqFWyNVPd8yVx/view?usp=drive_link)
+
+\[⤓] [IT601-CN-Midsem-Set-B-PYQ-APR26](https://drive.google.com/file/d/1Uz-QntVwjhqlet2_5KDLNikzGaFhSKaa/view?usp=drive_link)
+
 ### End-Sem-PYQ
 
 \[⤓] [CSA601-Endsem-PYQ-JUN23](https://drive.google.com/file/d/1WZ7YeAHrV1rXkiYTX4GRkgsIqHCBsqQT/view?usp=drive_link)
