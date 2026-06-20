@@ -4,11 +4,17 @@ icon: folder-tree
 
 # Course Structure
 
+{% hint style="warning" icon="briefcase-blank" %}
+_**We're HIRING, Apply Now:**_ [hiring.md](hiring.md "mention")
+{% endhint %}
+
 {% hint style="success" %}
-- Resources Updated for: [SEMESTER-6/BTECH-CSE+IT](https://mantavyam.gitbook.io/vaultscapes/sem-6)
-- Perform a HARD REFRESH in your Browser, Press Combination Keys to clear cached content and load the latest data.
-    - Windows & Linux: Press Ctrl + Shift + R
-    - Mac: Press Cmd + Shift + R.
+**Resources Updated for**: [SEMESTER-6/BTECH-CSE+IT](https://mantavyam.gitbook.io/vaultscapes/sem-6)
+
+* Perform a HARD REFRESH in your Browser.
+* Press Combination Keys to clear cached content and load the latest data.
+  * _**Windows & Linux**_: `Ctrl + Shift + R`
+  * _**Mac**_: `Cmd + Shift + R`
 {% endhint %}
 
 [**Download Vaultscapes on Google Play →**](https://play.google.com/store/apps/details?id=com.mantavyam.vaultscapes)
@@ -44,17 +50,17 @@ Vaultscapes is now live on Google Play — the Academic Infrastructure that orga
 
 ## Inspired by a resource here? Your turn to Add!
 
-**Picture this:** Late nights, day before exam flipping through syllabus pages, piecing together notes from scattered sources. That's the course life we all know, right?&#x20;
+**Picture this:** Late nights, day before exam flipping through syllabus pages, piecing together notes from scattered sources. That's the course life we all know, right?
 
 _We've hit 400+ users strong, all pulling from the same pool of notes, syllabi, and PYQs that make the course feel more manageable. It's rewarding to see how these shares bridge gaps for coursemates and juniors alike, turning individual efforts into something collective._
 
 _You've already found what you need; now, imagine adding your own bit. It takes just a minute to upload via our simple form—notes, a PYQ set, whatever you've got. Your content could be the one that helps someone else, the way others' have helped for you. It's the easy way to keep the good stuff circulating, the same way it's helped you settle into the semester. No big lifts, just us looking out for each other._
 
-_If you're up for it, lend a hand with a quick upload—maybe your take on a tricky topic or an updated resource list. The form's straightforward, and every addition helps keep things fresh and relevant._&#x20;
+_If you're up for it, lend a hand with a quick upload—maybe your take on a tricky topic or an updated resource list. The form's straightforward, and every addition helps keep things fresh and relevant._
 
 _See the Contributor Wall? Yours could be next. Simple as that._
 
-<p align="center"><img src=".gitbook/assets/Collaborator.jpg" alt=""></p>
+<p align="center"><img src=".gitbook/assets/Collaborator.jpg" alt="" data-size="original"></p>
 
 <p align="center"><a href="https://mantavyam.notion.site/18152f7cde8880d699a5f2e65f87374e?pvs=105" class="button primary" data-icon="arrow-up-to-arc">UPLOAD NOW</a></p>
 {% endhint %}
@@ -85,7 +91,7 @@ A star is a quick way to show your support and helps the project gain visibility
 [Sem 1 / BTECH](https://app.gitbook.com/o/NkGE0lRg45bL5oWcCqAZ/s/3ZYLT7QIVGVNDP2woYe4/)
 {% endcontent-ref %}
 
-<table data-full-width="true"><thead><tr><th width="418">CODE+SUBJECT</th><th width="99">CREDIT</th><th width="123">TYPE</th></tr></thead><tbody><tr><td><a data-mention href="/broken/spaces/3ZYLT7QIVGVNDP2woYe4/pages/ov7ze3Q3RUdawlye3vln">Broken link</a></td><td>4</td><td>Compulsory</td></tr><tr><td><a data-mention href="/broken/spaces/3ZYLT7QIVGVNDP2woYe4/pages/1wfnfs1fLLdKupkdOz7p">Broken link</a></td><td>4</td><td>Compulsory</td></tr><tr><td><a data-mention href="/broken/spaces/3ZYLT7QIVGVNDP2woYe4/pages/iU2ZdRIBhUTfmmntFCNn">Broken link</a></td><td>1</td><td>Compulsory</td></tr><tr><td><a data-mention href="/broken/spaces/3ZYLT7QIVGVNDP2woYe4/pages/N9LhF4ejHLIqcImftcGR">Broken link</a></td><td>3</td><td>Compulsory</td></tr><tr><td><a data-mention href="/broken/spaces/3ZYLT7QIVGVNDP2woYe4/pages/teCj7IQYHCV9HFnR1Rtz">Broken link</a></td><td>1</td><td>Compulsory</td></tr><tr><td><a data-mention href="/broken/spaces/3ZYLT7QIVGVNDP2woYe4/pages/LcFibZRpylOb8JJYGpAA">Broken link</a></td><td>2</td><td>Compulsory</td></tr><tr><td><a data-mention href="/broken/spaces/3ZYLT7QIVGVNDP2woYe4/pages/dA9EPGMRZpdUdZHzLH3c">Broken link</a></td><td>1</td><td>Compulsory</td></tr><tr><td><a data-mention href="/broken/spaces/3ZYLT7QIVGVNDP2woYe4/pages/MVsoDhfgfiuGtfgp6e5C">Broken link</a></td><td>1</td><td>Compulsory</td></tr><tr><td><a data-mention href="/broken/spaces/3ZYLT7QIVGVNDP2woYe4/pages/wreP5Ta86DJeO0L7jt7J">Broken link</a></td><td>2</td><td>Compulsory</td></tr><tr><td><a data-mention href="/broken/spaces/3ZYLT7QIVGVNDP2woYe4/pages/Cwec93HHuee9eNfu0ooJ">Broken link</a></td><td>1</td><td>Compulsory</td></tr><tr><td><a data-mention href="/broken/spaces/3ZYLT7QIVGVNDP2woYe4/pages/t6Q6X3TlWsQ3P5D4xjuS">Broken link</a></td><td>2</td><td>Compulsory</td></tr></tbody></table>
+<table data-full-width="true"><thead><tr><th width="418">CODE+SUBJECT</th><th width="99">CREDIT</th><th width="123">TYPE</th></tr></thead><tbody><tr><td></td><td>4</td><td>Compulsory</td></tr><tr><td></td><td>4</td><td>Compulsory</td></tr><tr><td></td><td>1</td><td>Compulsory</td></tr><tr><td></td><td>3</td><td>Compulsory</td></tr><tr><td></td><td>1</td><td>Compulsory</td></tr><tr><td></td><td>2</td><td>Compulsory</td></tr><tr><td></td><td>1</td><td>Compulsory</td></tr><tr><td></td><td>1</td><td>Compulsory</td></tr><tr><td></td><td>2</td><td>Compulsory</td></tr><tr><td></td><td>1</td><td>Compulsory</td></tr><tr><td></td><td>2</td><td>Compulsory</td></tr></tbody></table>
 
 ## Semester 2
 
@@ -93,7 +99,7 @@ A star is a quick way to show your support and helps the project gain visibility
 [Sem 2 / BTECH](https://app.gitbook.com/o/NkGE0lRg45bL5oWcCqAZ/s/pXGn0qcI0EFL0b2TCKET/)
 {% endcontent-ref %}
 
-<table data-full-width="true"><thead><tr><th width="418">CODE+SUBJECT</th><th width="99">CREDIT</th><th width="123">TYPE</th></tr></thead><tbody><tr><td><a data-mention href="/broken/spaces/pXGn0qcI0EFL0b2TCKET/pages/B7PlVd9gL1lk3m8u3wY7">Broken link</a></td><td>4</td><td>Compulsory</td></tr><tr><td><a data-mention href="/broken/spaces/pXGn0qcI0EFL0b2TCKET/pages/PzqZ1nFghZ5CSbyFzCpk">Broken link</a></td><td>4</td><td>Compulsory</td></tr><tr><td><a data-mention href="/broken/spaces/pXGn0qcI0EFL0b2TCKET/pages/4teFBmks0QJS6REYoKSh">Broken link</a></td><td>1</td><td>Compulsory</td></tr><tr><td><a data-mention href="/broken/spaces/pXGn0qcI0EFL0b2TCKET/pages/pKFkAIV4qhRHXvZ02gS3">Broken link</a></td><td>3</td><td>Compulsory</td></tr><tr><td><a data-mention href="/broken/spaces/pXGn0qcI0EFL0b2TCKET/pages/6PwGpF6TLYe5aqvPUwOS">Broken link</a></td><td>1</td><td>Compulsory</td></tr><tr><td><a data-mention href="/broken/spaces/pXGn0qcI0EFL0b2TCKET/pages/NZOOOOw3wHyw1VFBDoPp">Broken link</a></td><td>3</td><td>Compulsory</td></tr><tr><td><a data-mention href="/broken/spaces/pXGn0qcI0EFL0b2TCKET/pages/SZ76gWnh81SADhv0STIH">Broken link</a></td><td>1</td><td>Compulsory</td></tr><tr><td><a data-mention href="/broken/spaces/pXGn0qcI0EFL0b2TCKET/pages/3nJiXCSlJyoMwWBWkQaZ">Broken link</a></td><td>1</td><td>Compulsory</td></tr><tr><td><a data-mention href="/broken/spaces/pXGn0qcI0EFL0b2TCKET/pages/757X4ToENjjEwq0LGGl9">Broken link</a></td><td>1</td><td>Compulsory</td></tr><tr><td><a data-mention href="/broken/spaces/pXGn0qcI0EFL0b2TCKET/pages/th1NHy2AaobFYP7fyE3g">Broken link</a></td><td>2</td><td>Compulsory</td></tr><tr><td><a data-mention href="/broken/spaces/pXGn0qcI0EFL0b2TCKET/pages/g2rbwaP5NQiKqiN9AX7f">Broken link</a></td><td>1</td><td>Compulsory</td></tr><tr><td><a data-mention href="/broken/spaces/pXGn0qcI0EFL0b2TCKET/pages/90mHmgv9rhXIpR0URH8U">Broken link</a></td><td>2</td><td>Compulsory</td></tr></tbody></table>
+<table data-full-width="true"><thead><tr><th width="418">CODE+SUBJECT</th><th width="99">CREDIT</th><th width="123">TYPE</th></tr></thead><tbody><tr><td></td><td>4</td><td>Compulsory</td></tr><tr><td></td><td>4</td><td>Compulsory</td></tr><tr><td></td><td>1</td><td>Compulsory</td></tr><tr><td></td><td>3</td><td>Compulsory</td></tr><tr><td></td><td>1</td><td>Compulsory</td></tr><tr><td></td><td>3</td><td>Compulsory</td></tr><tr><td></td><td>1</td><td>Compulsory</td></tr><tr><td></td><td>1</td><td>Compulsory</td></tr><tr><td></td><td>1</td><td>Compulsory</td></tr><tr><td></td><td>2</td><td>Compulsory</td></tr><tr><td></td><td>1</td><td>Compulsory</td></tr><tr><td></td><td>2</td><td>Compulsory</td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="2nd Year" %}
@@ -103,7 +109,7 @@ A star is a quick way to show your support and helps the project gain visibility
 [Sem 3 / BTECH](https://app.gitbook.com/o/NkGE0lRg45bL5oWcCqAZ/s/7uMP7Ghb8mcjzaqhpGZJ/)
 {% endcontent-ref %}
 
-<table data-full-width="true"><thead><tr><th width="418">CODE+SUBJECT</th><th width="99">CREDIT</th><th width="123">TYPE</th></tr></thead><tbody><tr><td><a data-mention href="/broken/spaces/7uMP7Ghb8mcjzaqhpGZJ/pages/ZhzW1lLXk8PSK6pM5Bnb">Broken link</a></td><td>3</td><td>Compulsory</td></tr><tr><td><a data-mention href="/broken/spaces/7uMP7Ghb8mcjzaqhpGZJ/pages/Vxmk7d5DdFsxHcj6hWmg">Broken link</a></td><td>3</td><td>Compulsory</td></tr><tr><td><a data-mention href="/broken/spaces/7uMP7Ghb8mcjzaqhpGZJ/pages/AbaqRlgV8SZS7gC7oWuj">Broken link</a></td><td>1</td><td>Compulsory</td></tr><tr><td><a data-mention href="/broken/spaces/7uMP7Ghb8mcjzaqhpGZJ/pages/7iZB0HJ0uKwq6qnYwe6E">Broken link</a></td><td>3</td><td>Compulsory</td></tr><tr><td><a data-mention href="/broken/spaces/7uMP7Ghb8mcjzaqhpGZJ/pages/olimVf6CheVqo0oOPhfb">Broken link</a></td><td>1</td><td>Compulsory</td></tr><tr><td><a data-mention href="/broken/spaces/7uMP7Ghb8mcjzaqhpGZJ/pages/AayQ0GNDNptD8FfvO44U">Broken link</a></td><td>3</td><td>Compulsory</td></tr><tr><td><a data-mention href="/broken/spaces/7uMP7Ghb8mcjzaqhpGZJ/pages/7IgewrUlOQLYkxqRzidd">Broken link</a></td><td>1</td><td>Compulsory</td></tr><tr><td><a data-mention href="/broken/spaces/7uMP7Ghb8mcjzaqhpGZJ/pages/3hevYAzWe96zmlqtRf5J">Broken link</a></td><td>3</td><td>Compulsory</td></tr><tr><td><a data-mention href="/broken/spaces/7uMP7Ghb8mcjzaqhpGZJ/pages/zreiY4ycTBibfAMA7Pxg">Broken link</a></td><td>1</td><td>Compulsory</td></tr><tr><td><a data-mention href="/broken/spaces/7uMP7Ghb8mcjzaqhpGZJ/pages/PKkFv89seMV2GbBVEL7d">Broken link</a></td><td>1</td><td>Compulsory</td></tr><tr><td><a data-mention href="/broken/spaces/7uMP7Ghb8mcjzaqhpGZJ/pages/yL8nqYM9P2Y0Cy4vWmey">Broken link</a></td><td>1</td><td>Business Comm.</td></tr><tr><td><a data-mention href="/broken/spaces/7uMP7Ghb8mcjzaqhpGZJ/pages/chqEDYWQFL7cLoZoHGsv">Broken link</a></td><td>2</td><td>FBL</td></tr></tbody></table>
+<table data-full-width="true"><thead><tr><th width="418">CODE+SUBJECT</th><th width="99">CREDIT</th><th width="123">TYPE</th></tr></thead><tbody><tr><td></td><td>3</td><td>Compulsory</td></tr><tr><td></td><td>3</td><td>Compulsory</td></tr><tr><td></td><td>1</td><td>Compulsory</td></tr><tr><td></td><td>3</td><td>Compulsory</td></tr><tr><td></td><td>1</td><td>Compulsory</td></tr><tr><td></td><td>3</td><td>Compulsory</td></tr><tr><td></td><td>1</td><td>Compulsory</td></tr><tr><td></td><td>3</td><td>Compulsory</td></tr><tr><td></td><td>1</td><td>Compulsory</td></tr><tr><td></td><td>1</td><td>Compulsory</td></tr><tr><td></td><td>1</td><td>Business Comm.</td></tr><tr><td></td><td>2</td><td>FBL</td></tr></tbody></table>
 
 ## Semester 4
 
