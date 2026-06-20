@@ -14,6 +14,7 @@
 * [BCU641 / Communication](bcu641.md)
 * [BSU643 / Behavioural Science](bsu643.md)
 * [NMP660 / Minor Project](nmp660.md)
+* [SEC001 / ARA](sec001.md)
 
 ## SPECIALISATION
 
