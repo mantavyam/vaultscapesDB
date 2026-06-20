@@ -5,7 +5,10 @@ icon: folder-tree
 # Course Structure
 
 {% hint style="success" %}
-Resources Updated for: [SEMESTER-6/BTECH-CSE+IT](https://mantavyam.gitbook.io/vaultscapes/sem-6)
+- Resources Updated for: [SEMESTER-6/BTECH-CSE+IT](https://mantavyam.gitbook.io/vaultscapes/sem-6)
+- Perform a HARD REFRESH in your Browser, Press Combination Keys to clear cached content and load the latest data.
+    - Windows & Linux: Press Ctrl + Shift + R
+    - Mac: Press Cmd + Shift + R.
 {% endhint %}
 
 [**Download Vaultscapes on Google Play →**](https://play.google.com/store/apps/details?id=com.mantavyam.vaultscapes)
