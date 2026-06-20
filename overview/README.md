@@ -4,6 +4,10 @@ icon: folder-tree
 
 # Course Structure
 
+{% hint style="success" %}
+Resources Updated for: [SEMESTER-6/BTECH-CSE+IT](https://mantavyam.gitbook.io/vaultscapes/sem-6)
+{% endhint %}
+
 [**Download Vaultscapes on Google Play →**](https://play.google.com/store/apps/details?id=com.mantavyam.vaultscapes)
 
 <figure><img src=".gitbook/assets/Vaultscapes-banner.png" alt=""><figcaption><p>Welcome to Vaultscapes: An Open-Source Academic Resource Sharing Database</p></figcaption></figure>
