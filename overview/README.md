@@ -5,7 +5,7 @@ icon: folder-tree
 # Course Structure
 
 {% hint style="warning" icon="briefcase-blank" %}
-_**We're HIRING, Apply Now:**_ [hiring.md](hiring.md "mention")
+_**We are HIRING:**_ [_**Apply Now**_](https://mantavyam.gitbook.io/vaultscapes/hiring)
 {% endhint %}
 
 {% hint style="success" %}
