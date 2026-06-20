@@ -18,30 +18,64 @@ description: Year-3-Semester-6
 
 ## Notes
 
-\[⤓] [CSE602-M1_Quantitative_Aptitude_Notes](https://drive.google.com/file/d/1WwaqMcIOJKy8dgKff5qET-HQs4r87fm9/view?usp=drivesdk)
-\[⤓] [CSE602-QA-Class-Notes-By-Kanishka](https://drive.google.com/file/d/1IhwIZcMXcsgdMpNTPZPQC-IyYF5Xhi5O/view?usp=drivesdk)
-\[⤓] [CSE602-QA-M1_ Arithmetic Fundamentals — Quantitative Aptitude Notes](https://drive.google.com/file/d/1JWPrmqFT5eGM6RHlyswr4GIxWy0Gnh9G/view?usp=drivesdk)
-\[⤓] [CSE603-IOT_Module1_Notes](https://drive.google.com/file/d/1dEwWBM_OxtxJUq5zs0TA5y15Ox8XZzxN/view?usp=drivesdk)
-\[⤓] [CSE603-IOT_Module2_Notes](https://drive.google.com/file/d/1USKam--u7ZPLOptgJ26mZHhMpqriYhcN/view?usp=drivesdk)
-\[⤓] [CSE603-M1-IOT-Notes](https://drive.google.com/file/d/1VXAGtzEYndqXwXmEZ8h4bppziOcBvrqb/view?usp=drivesdk)
-\[⤓] [CSE603-M2-IOT-Notes](https://drive.google.com/file/d/16Rsr3uDGo2m73iYX2qn912tZXkUvVwW_/view?usp=drivesdk)
-\[⤓] [CSE604-M1-PST-Notes-BTECH-CSE+IT](https://drive.google.com/file/d/14ixF3JmS2WwTlQw-DP-NjZmM3Q5nEmyT/view?usp=drivesdk)
-\[⤓] [CSE604-M2-PST-Notes-BTECH-CSE+IT](https://drive.google.com/file/d/1jrDMBVk2Z3klqQCjjig_92QYxXo5l62d/view?usp=drivesdk)
-\[⤓] [CSE604-M3-PST-Notes-BTECH-CSE+IT](https://drive.google.com/file/d/1bN2JVWt1vBR-4UDGbnGaukuEFLXvg5a_/view?usp=drivesdk)
-\[⤓] [CSE604-PST_Module1_Notes](https://drive.google.com/file/d/1lPxMVWnlaNITPpzK6uBruuz74a5K7pdV/view?usp=drivesdk)
-\[⤓] [CSE604-PST_Module2_Notes](https://drive.google.com/file/d/1_jVfePm-6dPROshwwQykyH1-AurZB1zh/view?usp=drivesdk)
-\[⤓] [CSE604-PST_Module3_Notes](https://drive.google.com/file/d/1nWFGZRBxz7-8RF6QYhrSzs4AMjSUaOBh/view?usp=drivesdk)
-\[⤓] [CSE605-M1-SOFT-ENGG-notes](https://drive.google.com/file/d/1UO2wpGe7CLkSmcVndcvauNhKKbqBNSjI/view?usp=drivesdk)
-\[⤓] [CSE605-M2-SOFT-ENGG-notes](https://drive.google.com/file/d/1S_Emn1_l4hCjwLGAQs1smS1Zr_z2AYHT/view?usp=drivesdk)
-\[⤓] [CSE605-M2-Software Engineering-NOTES](https://drive.google.com/file/d/1BHf2p41BxB-wZgQurWyp07aMiehq0hQ8/view?usp=drivesdk)
-\[⤓] [CSE605-SE_Module1_Notes](https://drive.google.com/file/d/1-Lf_zBgesebXux8-yIx4luNdLuYM1N1J/view?usp=drivesdk)
-\[⤓] [CSE605-SE_Module2_Notes](https://drive.google.com/file/d/1S1ToCtbOeT2wlvRRZAMEGc46I7bjGT4H/view?usp=drivesdk)
-\[⤓] [IT601 - NOTES](https://docs.google.com/document/d/19RIOE_4P6bDmhuPdTV9wcCuNRgTsK4xSGCRrpb7O6uw/edit?usp=drivesdk)
-\[⤓] [IT601 — Module I_Intro to data comm](https://drive.google.com/file/d/1FWkfThKm9VE4HjknYpx7MtiYBBjCLOer/view?usp=drivesdk)
-\[⤓] [IT601 — Module II_ Data Link Layer](https://drive.google.com/file/d/1h0uZaiXdBxuObbD71lZbSEUZw2dGikFJ/view?usp=drivesdk)
-\[⤓] [IT601-CN_Module1_Notes](https://drive.google.com/file/d/1hNOigRPuY2g-l-xbCnp_kdohouQk3RwP/view?usp=drivesdk)
-\[⤓] [IT601-CN_Module2_Notes](https://drive.google.com/file/d/18a6GY5yShctMhxHqKet0AvLSokjVLc6C/view?usp=drivesdk)
-
+<table>
+    <thead>
+        <tr>
+            <th width="80">[⤓]</th>
+            <th>Content Preview</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href="https://drive.google.com/uc?export=download&id=1IhwIZcMXcsgdMpNTPZPQC-IyYF5Xhi5O" class="button primary" data-icon="arrow-down-to-square"></a></td>
+            <td><a href="https://drive.google.com/file/d/1IhwIZcMXcsgdMpNTPZPQC-IyYF5Xhi5O/view?usp=drivesdk">CSE602-QA-Class-Notes-By-Kanishka</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://drive.google.com/uc?export=download&id=1JWPrmqFT5eGM6RHlyswr4GIxWy0Gnh9G" class="button primary" data-icon="arrow-down-to-square"></a></td>
+            <td><a href="https://drive.google.com/file/d/1JWPrmqFT5eGM6RHlyswr4GIxWy0Gnh9G/view?usp=drivesdk">CSE602-QA-M1_ Arithmetic Fundamentals — Quantitative Aptitude Notes</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://drive.google.com/uc?export=download&id=1VXAGtzEYndqXwXmEZ8h4bppziOcBvrqb" class="button primary" data-icon="arrow-down-to-square"></a></td>
+            <td><a href="https://drive.google.com/file/d/1VXAGtzEYndqXwXmEZ8h4bppziOcBvrqb/view?usp=drivesdk">CSE603-M1-IOT-Notes</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://drive.google.com/uc?export=download&id=16Rsr3uDGo2m73iYX2qn912tZXkUvVwW_" class="button primary" data-icon="arrow-down-to-square"></a></td>
+            <td><a href="https://drive.google.com/file/d/16Rsr3uDGo2m73iYX2qn912tZXkUvVwW_/view?usp=drivesdk">CSE603-M2-IOT-Notes</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://drive.google.com/uc?export=download&id=14ixF3JmS2WwTlQw-DP-NjZmM3Q5nEmyT" class="button primary" data-icon="arrow-down-to-square"></a></td>
+            <td><a href="https://drive.google.com/file/d/14ixF3JmS2WwTlQw-DP-NjZmM3Q5nEmyT/view?usp=drivesdk">CSE604-M1-PST-Notes-BTECH-CSE+IT</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://drive.google.com/uc?export=download&id=1jrDMBVk2Z3klqQCjjig_92QYxXo5l62d" class="button primary" data-icon="arrow-down-to-square"></a></td>
+            <td><a href="https://drive.google.com/file/d/1jrDMBVk2Z3klqQCjjig_92QYxXo5l62d/view?usp=drivesdk">CSE604-M2-PST-Notes-BTECH-CSE+IT</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://drive.google.com/uc?export=download&id=1bN2JVWt1vBR-4UDGbnGaukuEFLXvg5a_" class="button primary" data-icon="arrow-down-to-square"></a></td>
+            <td><a href="https://drive.google.com/file/d/1bN2JVWt1vBR-4UDGbnGaukuEFLXvg5a_/view?usp=drivesdk">CSE604-M3-PST-Notes-BTECH-CSE+IT</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://drive.google.com/uc?export=download&id=1UO2wpGe7CLkSmcVndcvauNhKKbqBNSjI" class="button primary" data-icon="arrow-down-to-square"></a></td>
+            <td><a href="https://drive.google.com/file/d/1UO2wpGe7CLkSmcVndcvauNhKKbqBNSjI/view?usp=drivesdk">CSE605-M1-SOFT-ENGG-notes</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://drive.google.com/uc?export=download&id=1S_Emn1_l4hCjwLGAQs1smS1Zr_z2AYHT" class="button primary" data-icon="arrow-down-to-square"></a></td>
+            <td><a href="https://drive.google.com/file/d/1S_Emn1_l4hCjwLGAQs1smS1Zr_z2AYHT/view?usp=drivesdk">CSE605-M2-SOFT-ENGG-notes-1</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://drive.google.com/uc?export=download&id=1BHf2p41BxB-wZgQurWyp07aMiehq0hQ8" class="button primary" data-icon="arrow-down-to-square"></a></td>
+            <td><a href="https://drive.google.com/file/d/1BHf2p41BxB-wZgQurWyp07aMiehq0hQ8/view?usp=drivesdk">CSE605-M2-SOFT-ENGG-notes-2</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://drive.google.com/uc?export=download&id=1FWkfThKm9VE4HjknYpx7MtiYBBjCLOer" class="button primary" data-icon="arrow-down-to-square"></a></td>
+            <td><a href="https://drive.google.com/file/d/1FWkfThKm9VE4HjknYpx7MtiYBBjCLOer/view?usp=drivesdk">IT601 — Module I_Intro to data comm</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://drive.google.com/uc?export=download&id=1h0uZaiXdBxuObbD71lZbSEUZw2dGikFJ" class="button primary" data-icon="arrow-down-to-square"></a></td>
+            <td><a href="https://drive.google.com/file/d/1h0uZaiXdBxuObbD71lZbSEUZw2dGikFJ/view?usp=drivesdk">IT601 — Module II_ Data Link Layer</a></td>
+        </tr>
+    </tbody>
+</table>
 
 ## Assignments
 
@@ -49,20 +83,72 @@ description: Year-3-Semester-6
 
 ### Mid-Sem-PYQ
 
-\[⤓] [CSA601-AI+ML-Midsem-Set-A-PYQ-APR26](https://drive.google.com/file/d/1scPY3LZD6p5E7xOaVI6ENr3U-zSnjImZ/view?usp=drivesdk)
-\[⤓] [CSA601-AI+ML-Midsem-Set-B-PYQ-APR26](https://drive.google.com/file/d/1k-D261dMK1CsDMf9cS0a79_QEh7LUz4g/view?usp=drivesdk)
-\[⤓] [CSC601-CYBER-Midsem-Set-B-PYQ-APR26.pdf](https://drive.google.com/file/d/1Y6hZ7whaWdg0ykLj3XfzLS4Holay5BkA/view?usp=drivesdk)
-\[⤓] [CSD601-DS-Midsem-Set-A-PYQ-APR26](https://drive.google.com/file/d/17ATezivx2JhXEbj9Q3Z9gA7u-P3yu1BD/view?usp=drivesdk)
-\[⤓] [CSD601-DS-Midsem-Set-B-PYQ-APR26.pdf](https://drive.google.com/file/d/1b7fk1zsjlw0HPwzzVbqaAdrSg-PKwUUX/view?usp=drivesdk)
-\[⤓] [CSE602-QA-Midsem-Set-A-PYQ-APR26](https://drive.google.com/file/d/1LuO3W-Q_a_rdsdAeFH9O7RlW9HPISB9f/view?usp=drivesdk)
-\[⤓] [CSE603-IOT-Midsem-Set-A-PYQ-APR26](https://drive.google.com/file/d/1vduS3NMh1sK7j0xXWzb5da8aL8hTL2gf/view?usp=drivesdk)
-\[⤓] [CSE603-IOT-Midsem-Set-B-PYQ-APR26](https://drive.google.com/file/d/1reI_f7XlVke7O6r7iRHVm7QyQEQyF97_/view?usp=drivesdk)
-\[⤓] [CSE604-PST-Midsem-Set-A-PYQ-APR26](https://drive.google.com/file/d/1CUOECylKgwxXRxZYcl4QzjxE3ZKNfAcK/view?usp=drivesdk)
-\[⤓] [CSE604-PST-Midsem-Set-B-PYQ-APR26](https://drive.google.com/file/d/1OnTaL8_2sgXYefa2x2YW9TJ5EdPqfDZU/view?usp=drivesdk)
-\[⤓] [CSE605-SE-Midsem-Set-A-PYQ-APR26](https://drive.google.com/file/d/1cWcKZhXyR8gzj4H-Bvnt1EcEbFKzg7zX/view?usp=drivesdk)
-\[⤓] [CSE605-SE-Midsem-Set-B-PYQ-APR26](https://drive.google.com/file/d/1xe32AkrT4uNDuVb1K3lICzNDr6_r7oRC/view?usp=drivesdk)
-\[⤓] [IT601-CN-Midsem-Set-A-PYQ-APR26](https://drive.google.com/file/d/1w29KPLgmvF8oPK8R7A4XqFWyNVPd8yVx/view?usp=drivesdk)
-\[⤓] [IT601-CN-Midsem-Set-B-PYQ-APR26](https://drive.google.com/file/d/1Uz-QntVwjhqlet2_5KDLNikzGaFhSKaa/view?usp=drivesdk)
+<table>
+    <thead>
+        <tr>
+            <th width="80">[⤓]</th>
+            <th>Content Preview</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href="https://drive.google.com/uc?export=download&id=1scPY3LZD6p5E7xOaVI6ENr3U-zSnjImZ" class="button primary" data-icon="arrow-down-to-square"></a></td>
+            <td><a href="https://drive.google.com/file/d/1scPY3LZD6p5E7xOaVI6ENr3U-zSnjImZ/view?usp=drivesdk">CSA601-AI+ML-Midsem-Set-A-PYQ-APR26</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://drive.google.com/uc?export=download&id=1k-D261dMK1CsDMf9cS0a79_QEh7LUz4g" class="button primary" data-icon="arrow-down-to-square"></a></td>
+            <td><a href="https://drive.google.com/file/d/1k-D261dMK1CsDMf9cS0a79_QEh7LUz4g/view?usp=drivesdk">CSA601-AI+ML-Midsem-Set-B-PYQ-APR26</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://drive.google.com/uc?export=download&id=1Y6hZ7whaWdg0ykLj3XfzLS4Holay5BkA" class="button primary" data-icon="arrow-down-to-square"></a></td>
+            <td><a href="https://drive.google.com/file/d/1Y6hZ7whaWdg0ykLj3XfzLS4Holay5BkA/view?usp=drivesdk">CSC601-CYBER-Midsem-Set-B-PYQ-APR26.pdf</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://drive.google.com/uc?export=download&id=17ATezivx2JhXEbj9Q3Z9gA7u-P3yu1BD" class="button primary" data-icon="arrow-down-to-square"></a></td>
+            <td><a href="https://drive.google.com/file/d/17ATezivx2JhXEbj9Q3Z9gA7u-P3yu1BD/view?usp=drivesdk">CSD601-DS-Midsem-Set-A-PYQ-APR26</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://drive.google.com/uc?export=download&id=1b7fk1zsjlw0HPwzzVbqaAdrSg-PKwUUX" class="button primary" data-icon="arrow-down-to-square"></a></td>
+            <td><a href="https://drive.google.com/file/d/1b7fk1zsjlw0HPwzzVbqaAdrSg-PKwUUX/view?usp=drivesdk">CSD601-DS-Midsem-Set-B-PYQ-APR26.pdf</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://drive.google.com/uc?export=download&id=1LuO3W-Q_a_rdsdAeFH9O7RlW9HPISB9f" class="button primary" data-icon="arrow-down-to-square"></a></td>
+            <td><a href="https://drive.google.com/file/d/1LuO3W-Q_a_rdsdAeFH9O7RlW9HPISB9f/view?usp=drivesdk">CSE602-QA-Midsem-Set-A-PYQ-APR26</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://drive.google.com/uc?export=download&id=1vduS3NMh1sK7j0xXWzb5da8aL8hTL2gf" class="button primary" data-icon="arrow-down-to-square"></a></td>
+            <td><a href="https://drive.google.com/file/d/1vduS3NMh1sK7j0xXWzb5da8aL8hTL2gf/view?usp=drivesdk">CSE603-IOT-Midsem-Set-A-PYQ-APR26</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://drive.google.com/uc?export=download&id=1reI_f7XlVke7O6r7iRHVm7QyQEQyF97_" class="button primary" data-icon="arrow-down-to-square"></a></td>
+            <td><a href="https://drive.google.com/file/d/1reI_f7XlVke7O6r7iRHVm7QyQEQyF97_/view?usp=drivesdk">CSE603-IOT-Midsem-Set-B-PYQ-APR26</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://drive.google.com/uc?export=download&id=1CUOECylKgwxXRxZYcl4QzjxE3ZKNfAcK" class="button primary" data-icon="arrow-down-to-square"></a></td>
+            <td><a href="https://drive.google.com/file/d/1CUOECylKgwxXRxZYcl4QzjxE3ZKNfAcK/view?usp=drivesdk">CSE604-PST-Midsem-Set-A-PYQ-APR26</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://drive.google.com/uc?export=download&id=1OnTaL8_2sgXYefa2x2YW9TJ5EdPqfDZU" class="button primary" data-icon="arrow-down-to-square"></a></td>
+            <td><a href="https://drive.google.com/file/d/1OnTaL8_2sgXYefa2x2YW9TJ5EdPqfDZU/view?usp=drivesdk">CSE604-PST-Midsem-Set-B-PYQ-APR26</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://drive.google.com/uc?export=download&id=1cWcKZhXyR8gzj4H-Bvnt1EcEbFKzg7zX" class="button primary" data-icon="arrow-down-to-square"></a></td>
+            <td><a href="https://drive.google.com/file/d/1cWcKZhXyR8gzj4H-Bvnt1EcEbFKzg7zX/view?usp=drivesdk">CSE605-SE-Midsem-Set-A-PYQ-APR26</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://drive.google.com/uc?export=download&id=1xe32AkrT4uNDuVb1K3lICzNDr6_r7oRC" class="button primary" data-icon="arrow-down-to-square"></a></td>
+            <td><a href="https://drive.google.com/file/d/1xe32AkrT4uNDuVb1K3lICzNDr6_r7oRC/view?usp=drivesdk">CSE605-SE-Midsem-Set-B-PYQ-APR26</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://drive.google.com/uc?export=download&id=1w29KPLgmvF8oPK8R7A4XqFWyNVPd8yVx" class="button primary" data-icon="arrow-down-to-square"></a></td>
+            <td><a href="https://drive.google.com/file/d/1w29KPLgmvF8oPK8R7A4XqFWyNVPd8yVx/view?usp=drivesdk">IT601-CN-Midsem-Set-A-PYQ-APR26</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://drive.google.com/uc?export=download&id=1Uz-QntVwjhqlet2_5KDLNikzGaFhSKaa" class="button primary" data-icon="arrow-down-to-square"></a></td>
+            <td><a href="https://drive.google.com/file/d/1Uz-QntVwjhqlet2_5KDLNikzGaFhSKaa/view?usp=drivesdk">IT601-CN-Midsem-Set-B-PYQ-APR26</a></td>
+        </tr>
+    </tbody>
+</table>
 
 ### End-Sem-PYQ
 
