@@ -8,7 +8,7 @@ icon: upwork
 
 <figure><img src=".gitbook/assets/student-developer.png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="success" icon="briefcase-blank" %}
+{% hint style="info" icon="briefcase-blank" %}
 **Join as a Paid Maintainer**
 
 _While navigating your college years, gaining hands-on industry experience and earning financial compensation can significantly build your professional foundation._&#x20;
