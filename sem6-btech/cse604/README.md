@@ -657,10 +657,15 @@ description: Problem Solving Techniques
 
 **From Scaler Engineers**
 \[⤓] [C1-What is Data Structures_ Definition, Types & Classification _ Scaler Topics](https://drive.google.com/file/d/1c0-5fvVGv0khe7BLgropLhRq_xjXBtF7/view?usp=drivesdk)
+
 \[⤓] [C2-What Are Data Structures and Algorithms_-www.vaultscapes.in](https://drive.google.com/file/d/1hOJ_gsWpCpiFC-_HesSD7uhc9mThLhS0/view?usp=drivesdk)
+
 \[⤓] [C3-Abstract Data Type in Data Structure-www.vaultscapes.in](https://drive.google.com/file/d/1_cT-0vKaka3WTC-fTSny61GvL6PrL7MU/view?usp=drivesdk)
+
 \[⤓] [C4-Time Complexity in Data Structure-www.vaultscapes.in](https://drive.google.com/file/d/1QaA084K8cs5CFdteprYtNpaaEMjLNgVg/view?usp=drivesdk)
+
 \[⤓] [C5-Space Complexity in Data Structure-www.vaultscapes.in](https://drive.google.com/file/d/1RQdMn6vo2rZj8es7BSDJq_OevGyY3uLu/view?usp=drivesdk)
+
 \[⤓] [C6-Master Theorem in Data Structures _ Master Algorithm-www.vaultscapes.in](https://drive.google.com/file/d/1R25GcLjH_tFzhXR0WZlKGU6dVgBCyg0D/view?usp=drivesdk)
 
 <table>
