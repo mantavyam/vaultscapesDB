@@ -49,7 +49,7 @@ Please be advised that Course IT601, offered within the B.Tech IT program, and C
 
 ***
 
-<table><thead><tr><th width="80">[⤓]</th><th>Content Preview</th></tr></thead><tbody><tr><td></td><td><a href="https://drive.google.com/file/d/1Ypy-C0x3iaAnG50YqvNodUXyOHpwmVDo/view?usp=drivesdk">CSE601-DCCN-M1-L1</a></td></tr><tr><td></td><td><a href="https://drive.google.com/file/d/1F4IGLEszhKN5TxUtr6woxVb7zGOeSjj9/view?usp=drivesdk">CSE601-DCCN-M1-L2</a></td></tr><tr><td></td><td><a href="https://drive.google.com/file/d/1kMZPVhyVTCZX7BoW88TlNgvKiTgEOUT_/view?usp=drivesdk">CSE601-DCCN-M1-L3</a></td></tr><tr><td></td><td><a href="https://drive.google.com/file/d/1u3CtdHrJWh3HvWU1Oc6MDpmLjjWOr4w_/view?usp=drivesdk">CSE601-DCCN-Networking-Terminologies</a></td></tr></tbody></table>
+<table><thead><tr><th width="80">[⤓]</th><th>Content Preview</th></tr></thead><tbody><tr><td><a href="https://drive.google.com/uc?export=download&#x26;id=1Ypy-C0x3iaAnG50YqvNodUXyOHpwmVDo" class="button primary" data-icon="arrow-down-to-bracket"></a></td><td><a href="https://drive.google.com/file/d/1Ypy-C0x3iaAnG50YqvNodUXyOHpwmVDo/view?usp=drivesdk">CSE601-DCCN-M1-L1</a></td></tr><tr><td><a href="https://drive.google.com/uc?export=download&#x26;id=1F4IGLEszhKN5TxUtr6woxVb7zGOeSjj9" class="button primary" data-icon="arrow-down-to-bracket"></a></td><td><a href="https://drive.google.com/file/d/1F4IGLEszhKN5TxUtr6woxVb7zGOeSjj9/view?usp=drivesdk">CSE601-DCCN-M1-L2</a></td></tr><tr><td><a href="https://drive.google.com/uc?export=download&#x26;id=1kMZPVhyVTCZX7BoW88TlNgvKiTgEOUT_" class="button primary" data-icon="arrow-down-to-bracket"></a></td><td><a href="https://drive.google.com/file/d/1kMZPVhyVTCZX7BoW88TlNgvKiTgEOUT_/view?usp=drivesdk">CSE601-DCCN-M1-L3</a></td></tr><tr><td><a href="https://drive.google.com/uc?export=download&#x26;id=1u3CtdHrJWh3HvWU1Oc6MDpmLjjWOr4w_" class="button primary" data-icon="arrow-down-to-bracket"></a></td><td><a href="https://drive.google.com/file/d/1u3CtdHrJWh3HvWU1Oc6MDpmLjjWOr4w_/view?usp=drivesdk">CSE601-DCCN-Networking-Terminologies</a></td></tr></tbody></table>
 
 </details>
 
@@ -79,7 +79,7 @@ Please be advised that Course IT601, offered within the B.Tech IT program, and C
 
 ***
 
-<table><thead><tr><th width="80">[⤓]</th><th>Content Preview</th></tr></thead><tbody><tr><td></td><td><a href="https://drive.google.com/file/d/1KvonEboPTwN0vMrvfMz1F_1Ssr_r8Ges/view?usp=drivesdk">CSE601-DCCN-M2-L-Complete</a></td></tr></tbody></table>
+<table><thead><tr><th width="80">[⤓]</th><th>Content Preview</th></tr></thead><tbody><tr><td><a href="https://drive.google.com/uc?export=download&#x26;id=1KvonEboPTwN0vMrvfMz1F_1Ssr_r8Ges" class="button primary" data-icon="arrow-down-to-bracket"></a></td><td><a href="https://drive.google.com/file/d/1KvonEboPTwN0vMrvfMz1F_1Ssr_r8Ges/view?usp=drivesdk">CSE601-DCCN-M2-L-Complete</a></td></tr></tbody></table>
 
 </details>
 
@@ -107,7 +107,7 @@ Please be advised that Course IT601, offered within the B.Tech IT program, and C
 
 ***
 
-<table><thead><tr><th width="80">[⤓]</th><th>Content Preview</th></tr></thead><tbody><tr><td></td><td><a href="https://drive.google.com/file/d/1ClOYP8QlHyeUylwqep3hOPjmiQcs7sHL/view?usp=drivesdk">CSE601-DCCN-M3-L-Complete</a></td></tr></tbody></table>
+<table><thead><tr><th width="80">[⤓]</th><th>Content Preview</th></tr></thead><tbody><tr><td><a href="https://drive.google.com/uc?export=download&#x26;id=1ClOYP8QlHyeUylwqep3hOPjmiQcs7sHL" class="button primary" data-icon="arrow-down-to-bracket"></a></td><td><a href="https://drive.google.com/file/d/1ClOYP8QlHyeUylwqep3hOPjmiQcs7sHL/view?usp=drivesdk">CSE601-DCCN-M3-L-Complete</a></td></tr></tbody></table>
 
 </details>
 
@@ -137,7 +137,7 @@ Please be advised that Course IT601, offered within the B.Tech IT program, and C
 
 ***
 
-<table><thead><tr><th width="80">[⤓]</th><th>Content Preview</th></tr></thead><tbody><tr><td></td><td><a href="https://drive.google.com/file/d/1ZG9Mt46DITQSwaOFQ05c0NHKdOVm2ruo/view?usp=drivesdk">CSE601-DCCN-M4-L-Complete</a></td></tr></tbody></table>
+<table><thead><tr><th width="80">[⤓]</th><th>Content Preview</th></tr></thead><tbody><tr><td><a href="https://drive.google.com/uc?export=download&#x26;id=1ZG9Mt46DITQSwaOFQ05c0NHKdOVm2ruo" class="button primary" data-icon="arrow-down-to-bracket"></a></td><td><a href="https://drive.google.com/file/d/1ZG9Mt46DITQSwaOFQ05c0NHKdOVm2ruo/view?usp=drivesdk">CSE601-DCCN-M4-L-Complete</a></td></tr></tbody></table>
 
 </details>
 
@@ -158,7 +158,7 @@ Please be advised that Course IT601, offered within the B.Tech IT program, and C
 
 ***
 
-<table><thead><tr><th width="80">[⤓]</th><th>Content Preview</th></tr></thead><tbody><tr><td></td><td><a href="https://drive.google.com/file/d/1bKOnf9UeF5uGPHsafINLRoZyf8ya7JmY/view?usp=drivesdk">CSE601-DCCN-M5-L-Complete</a></td></tr></tbody></table>
+<table><thead><tr><th width="80">[⤓]</th><th>Content Preview</th></tr></thead><tbody><tr><td><a href="https://drive.google.com/uc?export=download&#x26;id=1bKOnf9UeF5uGPHsafINLRoZyf8ya7JmY" class="button primary" data-icon="arrow-down-to-bracket"></a></td><td><a href="https://drive.google.com/file/d/1bKOnf9UeF5uGPHsafINLRoZyf8ya7JmY/view?usp=drivesdk">CSE601-DCCN-M5-L-Complete</a></td></tr></tbody></table>
 
 </details>
 
@@ -180,31 +180,28 @@ Please be advised that Course IT601, offered within the B.Tech IT program, and C
 
 ***
 
-<table><thead><tr><th width="80">[⤓]</th><th>Content Preview</th></tr></thead><tbody><tr><td></td><td><a href="https://drive.google.com/file/d/1zpm7JWf5lGiMoQSpFiLYnIpbj8MdOkRV/view?usp=drivesdk">CSE601-DCCN-M6-L-Complete</a></td></tr></tbody></table>
+<table><thead><tr><th width="80">[⤓]</th><th>Content Preview</th></tr></thead><tbody><tr><td><a href="https://drive.google.com/uc?export=download&#x26;id=1zpm7JWf5lGiMoQSpFiLYnIpbj8MdOkRV" class="button primary" data-icon="arrow-down-to-bracket"></a></td><td><a href="https://drive.google.com/file/d/1zpm7JWf5lGiMoQSpFiLYnIpbj8MdOkRV/view?usp=drivesdk">CSE601-DCCN-M6-L-Complete</a></td></tr></tbody></table>
 
 </details>
 
-## Notes
-
 ## Question Directory
 
-<table><thead><tr><th width="80">[⤓]</th><th>Content Preview</th></tr></thead><tbody><tr><td></td><td><a href="https://drive.google.com/file/d/1T6-rGAIsSMPZLBIVPXwl4gaCvYpTqVfP/view?usp=drivesdk">Y3S6-CSE601+IT601-DCCN+CN-Practise-Qs-1</a></td></tr><tr><td></td><td><a href="https://drive.google.com/file/d/10gya_6Nj_aX0L9LXsPhSIFh4HnGc4UkT/view?usp=drivesdk">Y3S6-CSE601+IT601-DCCN+CN-Practise-Qs-2</a></td></tr></tbody></table>
+<table><thead><tr><th width="80">[⤓]</th><th>Content Preview</th></tr></thead><tbody><tr><td><a href="https://drive.google.com/uc?export=download&#x26;id=1T6-rGAIsSMPZLBIVPXwl4gaCvYpTqVfP" class="button primary" data-icon="arrow-down-to-bracket"></a></td><td><a href="https://drive.google.com/file/d/1T6-rGAIsSMPZLBIVPXwl4gaCvYpTqVfP/view?usp=drivesdk">Y3S6-CSE601+IT601-DCCN+CN-Practise-Qs-1</a></td></tr><tr><td><a href="https://drive.google.com/uc?export=download&#x26;id=10gya_6Nj_aX0L9LXsPhSIFh4HnGc4UkT" class="button primary" data-icon="arrow-down-to-bracket"></a></td><td><a href="https://drive.google.com/file/d/10gya_6Nj_aX0L9LXsPhSIFh4HnGc4UkT/view?usp=drivesdk">Y3S6-CSE601+IT601-DCCN+CN-Practise-Qs-2</a></td></tr></tbody></table>
 
 ### Assignment Questions
 
-<table><thead><tr><th width="80">[⤓]</th><th>Content Preview</th></tr></thead><tbody><tr><td></td><td><a href="https://drive.google.com/file/d/17e9ejgnmAp0jt9jZgiwzRxndIthFrJpO/view?usp=drivesdk">Y3S6-CSE601-DCCN-Assignment-1</a></td></tr><tr><td></td><td><a href="https://drive.google.com/file/d/1o6_Ueo_2V1udWglTiJRIHhxt3ctuzwRy/view?usp=drivesdk">Y3S6-CSE601-DCCN-Assignment-2</a></td></tr></tbody></table>
+<table><thead><tr><th width="80">[⤓]</th><th>Content Preview</th></tr></thead><tbody><tr><td><a href="https://drive.google.com/uc?export=download&#x26;id=17e9ejgnmAp0jt9jZgiwzRxndIthFrJpO" class="button primary" data-icon="arrow-down-to-bracket"></a></td><td><a href="https://drive.google.com/file/d/17e9ejgnmAp0jt9jZgiwzRxndIthFrJpO/view?usp=drivesdk">Y3S6-CSE601-DCCN-Assignment-1</a></td></tr><tr><td><a href="https://drive.google.com/uc?export=download&#x26;id=1o6_Ueo_2V1udWglTiJRIHhxt3ctuzwRy" class="button primary" data-icon="arrow-down-to-bracket"></a></td><td><a href="https://drive.google.com/file/d/1o6_Ueo_2V1udWglTiJRIHhxt3ctuzwRy/view?usp=drivesdk">Y3S6-CSE601-DCCN-Assignment-2</a></td></tr></tbody></table>
 
 ### Previous Year Questions
 
-### MidTerm
-
 ### EndSem
 
-<table><thead><tr><th width="80">[⤓]</th><th>Content Preview</th></tr></thead><tbody><tr><td></td><td><a href="https://drive.google.com/file/d/1r8VXyKlLNpIJICqIZTTjikYv_wbRgkxd/view?usp=drivesdk">Y3S6-CSE601-DCCN-EndSem-PYQ-Jun22-vaultscapes</a></td></tr><tr><td></td><td><a href="https://drive.google.com/file/d/1G3oT7GlK4_2bi8HmC6q4rC_7GOvDAtvQ/view?usp=drivesdk">Y3S6-CSE601-DCCN-EndSem-PYQ-Jun23-vaultscapes</a></td></tr><tr><td></td><td><a href="https://drive.google.com/file/d/18w9cj6NZ6in3ho9B1zOPwY5TIIy1tF_v/view?usp=drivesdk">Y3S6-CSE601-DCCN-EndSem-PYQ-Jun24-vaultscapes</a></td></tr><tr><td></td><td><a href="https://drive.google.com/file/d/1LydE_DEyjRj2QTjReAZkZUTgJJTBq06_/view?usp=drivesdk">Y3S6-CSE601-DCCN-EndSem-PYQ-Jun25-vaultscapes</a></td></tr></tbody></table>
-
-## External Sources
-
-\[⤓]
+| Content Preview                                                                                                                      |
+| ------------------------------------------------------------------------------------------------------------------------------------ |
+| [Y3S6-CSE601-DCCN-EndSem-PYQ-Jun22-vaultscapes](https://drive.google.com/file/d/1r8VXyKlLNpIJICqIZTTjikYv_wbRgkxd/view?usp=drivesdk) |
+| [Y3S6-CSE601-DCCN-EndSem-PYQ-Jun23-vaultscapes](https://drive.google.com/file/d/1G3oT7GlK4_2bi8HmC6q4rC_7GOvDAtvQ/view?usp=drivesdk) |
+| [Y3S6-CSE601-DCCN-EndSem-PYQ-Jun24-vaultscapes](https://drive.google.com/file/d/18w9cj6NZ6in3ho9B1zOPwY5TIIy1tF_v/view?usp=drivesdk) |
+| [Y3S6-CSE601-DCCN-EndSem-PYQ-Jun25-vaultscapes](https://drive.google.com/file/d/1LydE_DEyjRj2QTjReAZkZUTgJJTBq06_/view?usp=drivesdk) |
 
 ***
 
