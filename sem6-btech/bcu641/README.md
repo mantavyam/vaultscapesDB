@@ -2,7 +2,7 @@
 
 ## Syllabus
 
-{% file src=".gitbook/assets/BCU641-Syllabus-BTECH-CSE+IT.pdf" %}
+{% file src="../.gitbook/assets/BCU641-Syllabus-BTECH-CSE+IT.pdf" %}
 
 ## Resources
 
