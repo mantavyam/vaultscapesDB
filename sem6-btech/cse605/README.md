@@ -2,7 +2,7 @@
 
 ## Syllabus
 
-{% file src=".gitbook/assets/CSE605-Syllabus-Software-Engineering-BTECH-CSE+IT.pdf" %}
+{% file src="../.gitbook/assets/CSE605-Syllabus-Software-Engineering-BTECH-CSE+IT.pdf" %}
 
 ## Resources
 
