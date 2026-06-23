@@ -1,5 +1,19 @@
 # PHY101 / Physics
 
+{% hint style="info" icon="arrow-up-from-bracket" %}
+## "You once looked up searching for help. Now, look back and offer it. "
+
+### "Become the Senior you needed, when you were a Junior"
+
+#### _"This archive survives on student collaboration, not algorithms. Don't let it freeze in time — contribute your Endsem Exam Papers."_
+
+* "You found what you needed here because someone took the time to share. Pass the help forward."
+* "The best way to thank the seniors who helped you is to **be that senior for someone else**."
+* "We are caught in an inescapable network of mutuality; what affects one directly, affects all indirectly. Uplift those Juniors who will follow you next by contributing to the collective store of Resources."
+
+<p align="center"><a href="https://play.google.com/store/apps/details?id=com.mantavyam.vaultscapes" class="button primary">Share via App</a><a href="https://mantavyam.notion.site/18152f7cde8880d699a5f2e65f87374e?pvs=105" class="button secondary">Share via Form</a></p>
+{% endhint %}
+
 ## Syllabus
 
 {% file src="../.gitbook/assets/PHY101-Syllabus-BTECH-IT.pdf" %}
@@ -85,7 +99,7 @@
 <summary>M4: Semiconductor &#x26; Electronics Materials</summary>
 
 * [**Band Theory of Solids**](https://kdkce.edu.in/writereaddata/fckimagefile/Unit%201-AEM-Band%20Theory%20of%20Solids%20\(1\).pdf)
-  * [Intrinsic and extrinsic semiconductors ](https://methodist.edu.in/web/uploads/files/4.UNIT-2.pdf)
+  * [Intrinsic and extrinsic semiconductors](https://methodist.edu.in/web/uploads/files/4.UNIT-2.pdf)
   * [Carrier concentration](https://methodist.edu.in/web/uploads/files/4.UNIT-2.pdf)
   * [Direct and indirect band gaps](https://methodist.edu.in/web/uploads/files/4.UNIT-2.pdf)
 * **Types of Electronic Materials**

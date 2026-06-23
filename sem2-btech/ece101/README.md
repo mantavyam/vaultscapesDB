@@ -1,5 +1,19 @@
 # ECE101 / Electrical Engg.
 
+{% hint style="info" icon="arrow-up-from-bracket" %}
+## "You once looked up searching for help. Now, look back and offer it. "
+
+### "Become the Senior you needed, when you were a Junior"
+
+#### _"This archive survives on student collaboration, not algorithms. Don't let it freeze in time — contribute your Endsem Exam Papers."_
+
+* "You found what you needed here because someone took the time to share. Pass the help forward."
+* "The best way to thank the seniors who helped you is to **be that senior for someone else**."
+* "We are caught in an inescapable network of mutuality; what affects one directly, affects all indirectly. Uplift those Juniors who will follow you next by contributing to the collective store of Resources."
+
+<p align="center"><a href="https://play.google.com/store/apps/details?id=com.mantavyam.vaultscapes" class="button primary">Share via App</a><a href="https://mantavyam.notion.site/18152f7cde8880d699a5f2e65f87374e?pvs=105" class="button secondary">Share via Form</a></p>
+{% endhint %}
+
 ## Syllabus
 
 {% file src="../.gitbook/assets/ECE101-Syllabus-BTECH-IT.pdf" %}
@@ -10,7 +24,7 @@
 
 <summary>M1: DC Circuits</summary>
 
-**Electrical Circuit Elements:**&#x20;
+**Electrical Circuit Elements:**
 
 * \[🌐] [Resistors (R)](https://www.tutorialspoint.com/basic-circuit-elements-resistor-inductor-and-capacitor)
 * \[🌐] [Inductors (L)](https://www.tutorialspoint.com/basic-circuit-elements-resistor-inductor-and-capacitor)
@@ -18,23 +32,23 @@
 * \[🌐] [Voltage Divider Rule (VDR)](https://www.electricaltechnology.org/2021/06/voltage-divider-rule.html)
 * \[🌐] [Current Divider Rule (CDR)](https://www.electricaltechnology.org/2021/06/current-divider-rule.html)
 
-**Sources:**&#x20;
+**Sources:**
 
-* \[🌐] [Voltage and current sources ](https://www.tutorialspoint.com/independent-and-dependent-voltage-and-current-sources)
+* \[🌐] [Voltage and current sources](https://www.tutorialspoint.com/independent-and-dependent-voltage-and-current-sources)
 
-**Fundamental Laws:**&#x20;
+**Fundamental Laws:**
 
-* \[🌐] [Kirchhoff’s Current Law (KCL) ](https://www.electronics-tutorials.ws/dccircuits/kirchhoffs-current-law.html)
-* \[🌐] [Kirchhoff’s Voltage Law (KVL) ](https://www.electronics-tutorials.ws/dccircuits/kirchhoffs-voltage-law.html)
+* \[🌐] [Kirchhoff’s Current Law (KCL)](https://www.electronics-tutorials.ws/dccircuits/kirchhoffs-current-law.html)
+* \[🌐] [Kirchhoff’s Voltage Law (KVL)](https://www.electronics-tutorials.ws/dccircuits/kirchhoffs-voltage-law.html)
 
 **Circuit Analysis:**
 
-* \[🌐] [Analysis of simple circuits with DC excitation ](https://youtu.be/e7tPAB3CtIo?si=lBaeTnij_bUZIgb0)
-* \[🌐] [Superposition theorem ](https://web.iitd.ac.in/~vivekv/ELL100/L8_VV.pdf)
-* \[🌐] [Thevenin’s theorem ](https://www.electricaltechnology.org/2014/01/thevenins-theorem.html)
-* \[🌐] [Norton’s theorem ](https://www.electricaltechnology.org/2014/01/norton-theorem.html)
+* \[🌐] [Analysis of simple circuits with DC excitation](https://youtu.be/e7tPAB3CtIo?si=lBaeTnij_bUZIgb0)
+* \[🌐] [Superposition theorem](https://web.iitd.ac.in/~vivekv/ELL100/L8_VV.pdf)
+* \[🌐] [Thevenin’s theorem](https://www.electricaltechnology.org/2014/01/thevenins-theorem.html)
+* \[🌐] [Norton’s theorem](https://www.electricaltechnology.org/2014/01/norton-theorem.html)
 
-**Time-Domain Analysis:**&#x20;
+**Time-Domain Analysis:**
 
 * \[🌐] [First-order RL and RC circuits](https://ocw.mit.edu/courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/4b6a5fe626d65de20ceb97d8d23f38a4_transient1_rl_rc.pdf)
 
@@ -50,7 +64,7 @@
 * \[🌐] [Peak and RMS values](https://circuitglobe.com/what-is-peak-value-average-value-and-rms-value.html)
 * \[🌐] [Phasor representation](https://www.electronics-tutorials.ws/accircuits/phasors.html)
 
-\[🌐] [**Power factor:** Real / Reactive / Apparent ](https://unacademy.com/content/neet-ug/study-material/physics/types-of-power-used-in-ac-circuit/)
+\[🌐] [**Power factor:** Real / Reactive / Apparent](https://unacademy.com/content/neet-ug/study-material/physics/types-of-power-used-in-ac-circuit/)
 
 \[🌐] [**AC Circuit Analysis:**](https://www.cecmohali.org/public/documents/applied/material/notes/Module%202\(AC%20circuits\).pdf)
 
@@ -72,10 +86,10 @@
 
 **Magnetic Materials:**
 
-* \[🌐] [B-H characteristics ](https://jcboseust.ac.in/assets/electrical/images/notes/bee3_magnetic_materials.pdf)
+* \[🌐] [B-H characteristics](https://jcboseust.ac.in/assets/electrical/images/notes/bee3_magnetic_materials.pdf)
 * \[🌐] [Magnetic Materials](https://ocw.mit.edu/courses/6-007-electromagnetic-energy-from-motors-to-lasers-spring-2011/6f69bf2c5e5f71fca37cc0f2c2637cbe_MIT6_007S11_lec10.pdf)
 
-\[🌐] [**Transformer:**](https://app.gitbook.com/o/NkGE0lRg45bL5oWcCqAZ/s/wyr7XkhiJoMd59jgwesC/)&#x20;
+\[🌐] [**Transformer:**](https://app.gitbook.com/o/NkGE0lRg45bL5oWcCqAZ/s/wyr7XkhiJoMd59jgwesC/)
 
 * \[🌐] [Ideal and practical transformers:](https://www.scribd.com/document/434432671/ideal-and-practical-transformer-docx)
 * \[🌐] [Equivalent circuit](https://www.electricaleasy.com/2014/04/equivalent-circuit-of-transformer.html)
@@ -108,17 +122,17 @@
 
 <summary>M5: Power Converters</summary>
 
-\[🌐] [**DC-DC Converters:** ](https://vikramuniv.ac.in/files/wp-content/uploads/BE_6th_sem__PE_Garima_solanki.pdf)
+\[🌐] [**DC-DC Converters:**](https://vikramuniv.ac.in/files/wp-content/uploads/BE_6th_sem__PE_Garima_solanki.pdf)
 
-* Buck converter&#x20;
-* Boost converter&#x20;
-* Duty ratio control&#x20;
+* Buck converter
+* Boost converter
+* Duty ratio control
 
 \[🌐] [**DC-AC Converters:**](https://www.idc-online.com/technical_references/pdfs/electrical_engineering/Introduction_to_Voltage_Source_Inverters.pdf)
 
-* \[🌐] [**Voltage Source Inverters:** ](https://www.idc-online.com/technical_references/pdfs/electrical_engineering/Introduction_to_Voltage_Source_Inverters.pdf)
-  * Single-phase voltage source inverters&#x20;
-  * Three-phase voltage source inverters&#x20;
+* \[🌐] [**Voltage Source Inverters:**](https://www.idc-online.com/technical_references/pdfs/electrical_engineering/Introduction_to_Voltage_Source_Inverters.pdf)
+  * Single-phase voltage source inverters
+  * Three-phase voltage source inverters
   * \[🌐] [Sinusoidal modulation](https://www.scribd.com/document/505096270/spwm)
 
 </details>

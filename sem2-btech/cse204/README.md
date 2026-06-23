@@ -1,5 +1,19 @@
 # CSE204 / C++
 
+{% hint style="info" icon="arrow-up-from-bracket" %}
+## "You once looked up searching for help. Now, look back and offer it. "
+
+### "Become the Senior you needed, when you were a Junior"
+
+#### _"This archive survives on student collaboration, not algorithms. Don't let it freeze in time — contribute your Endsem Exam Papers."_
+
+* "You found what you needed here because someone took the time to share. Pass the help forward."
+* "The best way to thank the seniors who helped you is to **be that senior for someone else**."
+* "We are caught in an inescapable network of mutuality; what affects one directly, affects all indirectly. Uplift those Juniors who will follow you next by contributing to the collective store of Resources."
+
+<p align="center"><a href="https://play.google.com/store/apps/details?id=com.mantavyam.vaultscapes" class="button primary">Share via App</a><a href="https://mantavyam.notion.site/18152f7cde8880d699a5f2e65f87374e?pvs=105" class="button secondary">Share via Form</a></p>
+{% endhint %}
+
 ## Syllabus
 
 {% file src="../.gitbook/assets/CSE204-Syllabus-BTECH-IT.pdf" %}
@@ -15,22 +29,22 @@ The official Syllabus of 2nd Semester BTech for CSE204/ASET aims to cover C++ bu
 
 <details>
 
-<summary>M1: Introduction to OOP </summary>
+<summary>M1: Introduction to OOP</summary>
 
-**Review of C**&#x20;
+**Review of C**
 
 * \[🌐] [Difference between C and C++](https://www.freecodecamp.org/news/c-vs-cpp-whats-the-difference/)
-* \[🌐] [Procedure-Oriented vs. Object-Oriented Approach. ](https://www.tutorialspoint.com/differences-between-procedural-and-object-oriented-programming)
+* \[🌐] [Procedure-Oriented vs. Object-Oriented Approach.](https://www.tutorialspoint.com/differences-between-procedural-and-object-oriented-programming)
 
-**Basic Concepts**&#x20;
+**Basic Concepts**
 
 * \[🌐] [Principles of Object-Oriented Programming](https://khalilstemmler.com/articles/object-oriented/programming/4-principles/)
 * \[🌐] [Binding: Static & Dynamic](https://www.scaler.com/topics/static-binding-and-dynamic-binding/)
-* \[🌐] [Message Passing](https://www.scaler.com/topics/oops-concepts-in-cpp/)&#x20;
+* \[🌐] [Message Passing](https://www.scaler.com/topics/oops-concepts-in-cpp/)
 
-\[🌐] [**Characteristics of Object-Oriented Languages** ](https://www.interviewbit.com/blog/characteristics-of-object-oriented-programming/)
+\[🌐] [**Characteristics of Object-Oriented Languages**](https://www.interviewbit.com/blog/characteristics-of-object-oriented-programming/)
 
-\[🌐] [**Object-Oriented Modeling Techniques** ](https://ashishprajapati29.wordpress.com/wp-content/uploads/2016/07/object-oriented-modeling-in-java.pdf)
+\[🌐] [**Object-Oriented Modeling Techniques**](https://ashishprajapati29.wordpress.com/wp-content/uploads/2016/07/object-oriented-modeling-in-java.pdf)
 
 </details>
 
@@ -46,7 +60,7 @@ The official Syllabus of 2nd Semester BTech for CSE204/ASET aims to cover C++ bu
 
 \[🌐] [Constructors & Destructors](https://www.tutorialspoint.com/cplusplus/cpp_constructor_destructor.htm)
 
-\[🌐] [Abstract Data Types ](https://www.scholarhat.com/tutorial/datastructures/abstract-data-type)
+\[🌐] [Abstract Data Types](https://www.scholarhat.com/tutorial/datastructures/abstract-data-type)
 
 </details>
 
@@ -136,7 +150,7 @@ The official Syllabus of 2nd Semester BTech for CSE204/ASET aims to cover C++ bu
 
 {% embed url="https://youtu.be/LfaMVlDaQ24?si=-t8O4nvDsFRtToyz" %}
 
-**Indian Institute of Science (IISC) Bangalore: Complete C++**&#x20;
+**Indian Institute of Science (IISC) Bangalore: Complete C++**
 
 [https://cds.iisc.ac.in/wp-content/uploads/DS286.AUG2016.Lab2\_.cpp\_tutorial.pdf](https://cds.iisc.ac.in/wp-content/uploads/DS286.AUG2016.Lab2_.cpp_tutorial.pdf)
 
