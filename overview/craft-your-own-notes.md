@@ -2,7 +2,7 @@
 icon: notion
 ---
 
-# Craft your Own Notes?
+# Craft your Own Notes ?
 
 ## AI-Orchestrated Note Generation — User Guide
 
@@ -137,6 +137,8 @@ For each topic in the provided module outline:
 
 ---
 # INFO
+# Version : v1.1
+# Signed off by Author : JUNE/2026
 # Author : @mantavyam (Shivam)
 # GitHub : https://github.com/mantavyam
 # License : MIT — free to use, modify, and distribute with attribution
@@ -236,6 +238,84 @@ Answer both questions, then the AI will proceed through all three phases automat
 
 * If you are generating notes for personal study, GFM Markdown is the practical choice.&#x20;
 * HTML is worth the cost when you need a polished, shareable document.
+{% endstep %}
+
+{% step %}
+### Monitoring the Agent — Do Not Walk Away
+
+Do not submit the prompt and leave. Watch every step the agent takes and read its reasoning as it unfolds. Expand the thinking steps if your client supports it. Intervene early — a course correction at step one costs nothing; catching a deviation after twenty sections means discarding a large amount of generated output and starting over entirely.
+
+***
+
+{% hint style="danger" icon="flag" %}
+#### Red Flags to Watch For
+
+**IN-PROCESS VALIDATION**
+
+**1. Agent skips the pre-flight questions and starts generating immediately**
+
+It ignored the mandatory question phase entirely. Stop it immediately and say:
+
+```
+"Stop. Re-read the instructions. You must ask me the pre-flight questions and output format style (GFM vs HTML) before doing anything else."
+```
+
+***
+
+**2. Agent writes notes directly into the chat as plain text**
+
+It is not following the file creation instructions and starts responding in chat directly. Stop it and say:
+
+```
+"Stop. Notes must be created as a separate file artifact, not written into the chat."
+```
+
+***
+
+**3. Agent creates the file but immediately starts filling content without placeholders**
+
+It merged Phase 1 and Phase 2, skipping the skeleton step. Stop it and say:
+
+```
+"Stop. You must first create the base skeleton file with only placeholder comments and nothing else. Content comes after."
+```
+
+***
+
+**4. Agent fills multiple sections in a single tool call**
+
+It is rushing and will produce shallow, compressed output. Stop it and say:
+
+```
+"Stop. Use thinking and reasoning to gather complete context first, Each section must be filled in a separate str_replace call, one at a time, in order."
+```
+
+***
+
+**POST GENERATION VALIDATION:**
+
+**1. Agent skips a section or jumps out of order**
+
+It may leave topics entirely unwritten. Stop it, point to the missing section, and say:
+
+```
+"You skipped this section. Go back and complete it surgically adding in-place to the already created file."
+```
+
+***
+
+**2. Agent skips the validation step at the end**
+
+It may deliver a file with unfilled placeholders still inside. Stop it and say:
+
+```
+"Run the validation step. Confirm that zero placeholders remain, then report the line count and file size before presenting the file."
+```
+
+***
+
+If the agent persistently ignores the instructions across multiple corrections, do not attempt further fixes in the same conversation. Start a fresh session, paste the prompt again, and watch from the very first response.
+{% endhint %}
 {% endstep %}
 
 {% step %}

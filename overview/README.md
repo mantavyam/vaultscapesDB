@@ -19,7 +19,7 @@ If you are still typing your topic name into AI and hoping for the best,  you ar
 
 _**Nobody is going to teach you this in class.**_&#x20;
 
-But it is sitting right here on this page: [craft-your-own-notes.md](craft-your-own-notes.md "mention")
+But the full framework is documented right here on this page: [craft-your-own-notes.md](craft-your-own-notes.md "mention")
 {% endhint %}
 
 [**Download Vaultscapes on Google Play →**](https://play.google.com/store/apps/details?id=com.mantavyam.vaultscapes)
