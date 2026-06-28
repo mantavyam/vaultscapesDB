@@ -22,8 +22,6 @@ description: Year-3-Semester-6
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [CSE602-QA-Class-Notes-By-Kanishka](https://drive.google.com/file/d/1IhwIZcMXcsgdMpNTPZPQC-IyYF5Xhi5O/view?usp=drivesdk)                                    |
 | [CSE602-QA-M1\_ Arithmetic Fundamentals — Quantitative Aptitude Notes](https://drive.google.com/file/d/1JWPrmqFT5eGM6RHlyswr4GIxWy0Gnh9G/view?usp=drivesdk) |
-| [CSE603-M1-IOT-Notes](https://drive.google.com/file/d/1VXAGtzEYndqXwXmEZ8h4bppziOcBvrqb/view?usp=drivesdk)                                                  |
-| [CSE603-M2-IOT-Notes](https://drive.google.com/file/d/16Rsr3uDGo2m73iYX2qn912tZXkUvVwW_/view?usp=drivesdk)                                                  |
 | [CSE604-M1-PST-Notes-BTECH-CSE+IT](https://drive.google.com/file/d/14ixF3JmS2WwTlQw-DP-NjZmM3Q5nEmyT/view?usp=drivesdk)                                     |
 | [CSE604-M2-PST-Notes-BTECH-CSE+IT](https://drive.google.com/file/d/1jrDMBVk2Z3klqQCjjig_92QYxXo5l62d/view?usp=drivesdk)                                     |
 | [CSE604-M3-PST-Notes-BTECH-CSE+IT](https://drive.google.com/file/d/1bN2JVWt1vBR-4UDGbnGaukuEFLXvg5a_/view?usp=drivesdk)                                     |
@@ -32,6 +30,10 @@ description: Year-3-Semester-6
 | [CSE605-M2-SOFT-ENGG-notes-2](https://drive.google.com/file/d/1BHf2p41BxB-wZgQurWyp07aMiehq0hQ8/view?usp=drivesdk)                                          |
 | [IT601 — Module I\_Intro to data comm](https://drive.google.com/file/d/1FWkfThKm9VE4HjknYpx7MtiYBBjCLOer/view?usp=drivesdk)                                 |
 | [IT601 — Module II\_ Data Link Layer](https://drive.google.com/file/d/1h0uZaiXdBxuObbD71lZbSEUZw2dGikFJ/view?usp=drivesdk)                                  |
+| [CSE603-M1-IOT-NOTES-vaultscapes](https://drive.google.com/file/d/1ok7u-9RqbreGHykn6tGuENwwxjibMFPZ/view?usp=drive_link)                                    |
+| [CSE603-M2-IOT-NOTES-vaultscapes](https://drive.google.com/file/d/1xYBsB_ObWCuJYL0Y8Kd1J-LdF2ZA20CA/view?usp=drive_link)                                    |
+| [CSE603-M3-IOT-NOTES-vaultscapes](https://drive.google.com/file/d/13JzXbpl67W-TE8K08K44sUEOIqJwFUv0/view?usp=drive_link)                                    |
+| [CSE603-M4-IOT-NOTES-vaultscapes](https://drive.google.com/file/d/1osAfxez-YVCkwZlDtW6OYgCAXcHOxaTU/view?usp=drive_link)                                    |
 
 ## Previous Year Questions
 

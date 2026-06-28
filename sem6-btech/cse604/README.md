@@ -586,6 +586,12 @@ description: Problem Solving Techniques
 | [Y3S6-CSE604-PST-EndSem-PYQ-Jun24-vaultscapes](https://drive.google.com/file/d/1ZZK4ycb7M4Wf_cy6BV7OFZ99-bpMfJZD/view?usp=drivesdk) |
 | [Y3S6-CSE604-PST-EndSem-PYQ-Jun25-vaultscapes](https://drive.google.com/file/d/1U7EVLbGNdM0RNu5PcqQnPUK-DDD656pt/view?usp=drivesdk) |
 
+{% hint style="success" icon="map" %}
+Document Embedded Below Showcases the Concept Mapping of Previous Year Questions with Syllabus.
+{% endhint %}
+
+{% embed url="https://docs.google.com/document/d/1JjV90054dpK19NTiZ-QI9E1PXdQ27FuU1VSSeCeV4XI/edit?usp=drive_link" %}
+
 ***
 
 {% embed url="https://play.google.com/store/apps/details?id=com.mantavyam.vaultscapes&pcampaignid=web_share" %}

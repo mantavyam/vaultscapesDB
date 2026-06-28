@@ -125,10 +125,12 @@
 
 ## Notes
 
-| Content Preview                                                                                            |
-| ---------------------------------------------------------------------------------------------------------- |
-| [CSE603-M1-IOT-Notes](https://drive.google.com/file/d/1VXAGtzEYndqXwXmEZ8h4bppziOcBvrqb/view?usp=drivesdk) |
-| [CSE603-M2-IOT-Notes](https://drive.google.com/file/d/16Rsr3uDGo2m73iYX2qn912tZXkUvVwW_/view?usp=drivesdk) |
+| Content Preview                                                                                                          |
+| ------------------------------------------------------------------------------------------------------------------------ |
+| [CSE603-M1-IOT-NOTES-vaultscapes](https://drive.google.com/file/d/1ok7u-9RqbreGHykn6tGuENwwxjibMFPZ/view?usp=drive_link) |
+| [CSE603-M2-IOT-NOTES-vaultscapes](https://drive.google.com/file/d/1xYBsB_ObWCuJYL0Y8Kd1J-LdF2ZA20CA/view?usp=drive_link) |
+| [CSE603-M3-IOT-NOTES-vaultscapes](https://drive.google.com/file/d/13JzXbpl67W-TE8K08K44sUEOIqJwFUv0/view?usp=drive_link) |
+| [CSE603-M4-IOT-NOTES-vaultscapes](https://drive.google.com/file/d/1osAfxez-YVCkwZlDtW6OYgCAXcHOxaTU/view?usp=drive_link) |
 
 ## Question Directory
 
