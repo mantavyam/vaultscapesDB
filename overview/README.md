@@ -9,12 +9,17 @@ _**We are HIRING:**_ [_**Apply Now**_](https://mantavyam.gitbook.io/vaultscapes/
 {% endhint %}
 
 {% hint style="success" %}
-**Resources Updated for**: [SEMESTER-6/BTECH-CSE+IT](https://mantavyam.gitbook.io/vaultscapes/sem-6)
+#### What if the hours you spend making notes could be spent actually understanding them?&#x20;
 
-* Perform a HARD REFRESH in your Browser.
-* Press Combination Keys to clear cached content and load the latest data.
-  * _**Windows & Linux**_: `Ctrl + Shift + R`
-  * _**Mac**_: `Cmd + Shift + R`
+#### AI did not give you bad notes. You gave AI bad instructions.&#x20;
+
+If you are still typing your topic name into AI and hoping for the best,  you are leaving 90% of its capability on the table. There is a structured way to do this.
+
+<p align="center"><em>FREE, for anyone willing to understand the full framework.</em></p>
+
+_**Nobody is going to teach you this in class.**_&#x20;
+
+But it is sitting right here on this page: [craft-your-own-notes.md](craft-your-own-notes.md "mention")
 {% endhint %}
 
 [**Download Vaultscapes on Google Play →**](https://play.google.com/store/apps/details?id=com.mantavyam.vaultscapes)
