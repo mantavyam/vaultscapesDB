@@ -4,6 +4,7 @@
 * [How to Use Database ?](how-to-use-database.md)
 * [How to Collaborate ?](how-to-collaborate.md)
 * [Craft your Own Notes ?](craft-your-own-notes.md)
+* [Projects](projects.md)
 * [Wall of Honor](collaborators.md)
 * [Hiring](hiring.md)
 * [Privacy Policy](privacy-policy.md)

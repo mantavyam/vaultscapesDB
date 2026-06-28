@@ -4,9 +4,19 @@ icon: folder-tree
 
 # Course Structure
 
+{% columns %}
+{% column %}
 {% hint style="warning" icon="briefcase-blank" %}
 _**We are HIRING:**_ [_**Apply Now**_](https://mantavyam.gitbook.io/vaultscapes/hiring)
 {% endhint %}
+{% endcolumn %}
+
+{% column %}
+{% hint style="info" %}
+_**Build your Own**_ : [projects.md](projects.md "mention")
+{% endhint %}
+{% endcolumn %}
+{% endcolumns %}
 
 {% hint style="success" %}
 #### What if the hours you spend making notes could be spent actually understanding them?&#x20;
@@ -63,7 +73,9 @@ _You've already found what you need; now, imagine adding your own bit. It takes 
 
 _If you're up for it, lend a hand with a quick upload—maybe your take on a tricky topic or an updated resource list. The form's straightforward, and every addition helps keep things fresh and relevant._
 
-_See the Contributor Wall? Yours could be next. Simple as that._
+_See the Contributor Wall?_ [collaborators.md](collaborators.md "mention")
+
+_Yours could be next. Simple as that._
 
 <p align="center"><img src=".gitbook/assets/Collaborator.jpg" alt="" data-size="original"></p>
 
