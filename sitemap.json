@@ -1,4 +1,8 @@
 {
+  "gitbookUrlTemplates": {
+    "nativeRender": "{url}.md?displayAgentInstructions=false",
+    "openOnWeb": "{url}?displayAgentInstructions=false"
+  },
   "semesters": [
     {
       "id": "y1s1",
@@ -169,9 +173,20 @@
         { "id": "y3s6-cse604", "name": "Problem Solving Techniques", "code": "CSE604", "gitbookUrl": "https://mantavyam.gitbook.io/vaultscapes/sem-6/cse604" },
         { "id": "y3s6-cse624", "name": "Problem Solving Techniques Lab", "code": "CSE624", "gitbookUrl": "https://mantavyam.gitbook.io/vaultscapes/sem-6/cse604/cse624" },
         { "id": "y3s6-cse605", "name": "Software Engineering", "code": "CSE605", "gitbookUrl": "https://mantavyam.gitbook.io/vaultscapes/sem-6/cse605" },
+        { "id": "y3s6-cse605-m2", "name": "Software Engineering / M2", "code": "CSE605 / M2", "gitbookUrl": "https://mantavyam.gitbook.io/vaultscapes/sem-6/cse605/m2" },
+        { "id": "y3s6-cse605-m3", "name": "Software Engineering / M3", "code": "CSE605 / M3", "gitbookUrl": "https://mantavyam.gitbook.io/vaultscapes/sem-6/cse605/m3" },
+        { "id": "y3s6-cse605-m4", "name": "Software Engineering / M4", "code": "CSE605 / M4", "gitbookUrl": "https://mantavyam.gitbook.io/vaultscapes/sem-6/cse605/m4" },
+        { "id": "y3s6-cse605-m5", "name": "Software Engineering / M5", "code": "CSE605 / M5", "gitbookUrl": "https://mantavyam.gitbook.io/vaultscapes/sem-6/cse605/m5" },
         { "id": "y3s6-it601", "name": "Computer Networks", "code": "IT601", "gitbookUrl": "https://mantavyam.gitbook.io/vaultscapes/sem-6/it601" },
+        { "id": "y3s6-it601-m3", "name": "Computer Networks / M3", "code": "IT601 / M3", "gitbookUrl": "https://mantavyam.gitbook.io/vaultscapes/sem-6/it601/m3" },
+        { "id": "y3s6-it601-m4", "name": "Computer Networks / M4", "code": "IT601 / M4", "gitbookUrl": "https://mantavyam.gitbook.io/vaultscapes/sem-6/it601/m4" },
+        { "id": "y3s6-it601-m5", "name": "Computer Networks / M5", "code": "IT601 / M5", "gitbookUrl": "https://mantavyam.gitbook.io/vaultscapes/sem-6/it601/m5" },
         { "id": "y3s6-it621", "name": "Computer Networks Lab", "code": "IT621", "gitbookUrl": "https://mantavyam.gitbook.io/vaultscapes/sem-6/it601/it621" },
         { "id": "y3s6-bcu641", "name": "Communication", "code": "BCU641", "gitbookUrl": "https://mantavyam.gitbook.io/vaultscapes/sem-6/bcu641" },
+        { "id": "y3s6-bcu641-m1", "name": "Communication / M1", "code": "BCU641 / M1", "gitbookUrl": "https://mantavyam.gitbook.io/vaultscapes/sem-6/bcu641/m1" },
+        { "id": "y3s6-bcu641-m2", "name": "Communication / M2", "code": "BCU641 / M2", "gitbookUrl": "https://mantavyam.gitbook.io/vaultscapes/sem-6/bcu641/m2" },
+        { "id": "y3s6-bcu641-m3", "name": "Communication / M3", "code": "BCU641 / M3", "gitbookUrl": "https://mantavyam.gitbook.io/vaultscapes/sem-6/bcu641/m3" },
+        { "id": "y3s6-bcu641-m4", "name": "Communication / M4", "code": "BCU641 / M4", "gitbookUrl": "https://mantavyam.gitbook.io/vaultscapes/sem-6/bcu641/m4" },
         { "id": "y3s6-bsu643", "name": "Behaviour", "code": "BSU643", "gitbookUrl": "https://mantavyam.gitbook.io/vaultscapes/sem-6/bsu643" },
         { "id": "y3s6-nmp660", "name": "Minor Project", "code": "NMP660", "gitbookUrl": "https://mantavyam.gitbook.io/vaultscapes/sem-6/nmp660" }
       ],
