@@ -1,0 +1,776 @@
+{
+  "UrlTemplates": {
+    "gitbookUrl": "https://mantavyam.gitbook.io/vaultscapes",
+    "githubUrl": "https://raw.githubusercontent.com/mantavyam/vaultscapesDB/refs/heads/main",
+    "nativeRender": "{githubUrl}{path}.md",
+    "nativeFallback": "{gitbookUrl}{path}.md?displayAgentInstructions=false",
+    "openOnWeb": "{gitbookUrl}{path}"
+  },
+  "semesters": [
+    {
+      "id": "y1s1",
+      "name": "Semester 1",
+      "description": "Y1S1 of UG BTECH CSE & IT",
+      "order": 1,
+      "overview": {
+        "name": "Overview - Semester 1",
+        "path": "/sem-1/overview",
+        "readme": "/sem-1/README"
+      },
+      "core": [
+        {
+          "id": "y1s1-mat101",
+          "name": "Mathematics",
+          "code": "MAT101",
+          "path": "/sem-1/mat101"
+        },
+        {
+          "id": "y1s1-che101",
+          "name": "Chemistry",
+          "code": "CHE101",
+          "path": "/sem-1/che101",
+          "readme": "/sem-1/che101/README"
+        },
+        {
+          "id": "y1s1-che121",
+          "name": "Chemistry Lab",
+          "code": "CHE121",
+          "path": "/sem-1/che101/che121"
+        },
+        {
+          "id": "y1s1-cse104",
+          "name": "Programming",
+          "code": "CSE104",
+          "path": "/sem-1/cse104",
+          "readme": "/sem-1/cse104/README"
+        },
+        {
+          "id": "y1s1-cse124",
+          "name": "Programming Lab",
+          "code": "CSE124",
+          "path": "/sem-1/cse104/cse124"
+        },
+        {
+          "id": "y1s1-civ101",
+          "name": "Civil Engineering",
+          "code": "CIV101",
+          "path": "/sem-1/civ101"
+        },
+        {
+          "id": "y1s1-evs142",
+          "name": "Environmental Science",
+          "code": "EVS142",
+          "path": "/sem-1/evs142"
+        },
+        {
+          "id": "y1s1-bcu141",
+          "name": "Communication",
+          "code": "BCU141",
+          "path": "/sem-1/bcu141"
+        },
+        {
+          "id": "y1s1-bsu143",
+          "name": "Behaviour",
+          "code": "BSU143",
+          "path": "/sem-1/bsu143"
+        },
+        {
+          "id": "y1s1-flu144",
+          "name": "French",
+          "code": "FLU144",
+          "path": "/sem-1/flu144"
+        },
+        {
+          "id": "y1s1-bme124",
+          "name": "Workshop",
+          "code": "BME124",
+          "path": "/sem-1/bme124"
+        }
+      ],
+      "specialisation": [
+        {
+          "id": "y1s1-csc101",
+          "name": "Cyber Security",
+          "code": "CSC101",
+          "path": "/sem-1/specialisation/csc101"
+        },
+        {
+          "id": "y1s1-csa101",
+          "name": "AI and ML",
+          "code": "CSA101",
+          "path": "/sem-1/specialisation/csa101"
+        },
+        {
+          "id": "y1s1-csd101",
+          "name": "Data Science",
+          "code": "CSD101",
+          "path": "/sem-1/specialisation/csd101"
+        },
+        {
+          "id": "y1s1-csi101",
+          "name": "IOT",
+          "code": "CSI101",
+          "path": "/sem-1/specialisation/csi101"
+        }
+      ]
+    },
+    {
+      "id": "y1s2",
+      "name": "Semester 2",
+      "description": "Y1S2 of UG BTECH CSE & IT",
+      "order": 2,
+      "overview": {
+        "name": "Overview - Semester 2",
+        "path": "/sem-2/overview",
+        "readme": "/sem-2/README"
+      },
+      "core": [
+        {
+          "id": "y1s2-mat201",
+          "name": "Mathematics",
+          "code": "MAT201",
+          "path": "/sem-2/mat201"
+        },
+        {
+          "id": "y1s2-phy101",
+          "name": "Physics",
+          "code": "PHY101",
+          "path": "/sem-2/phy101",
+          "readme": "/sem-2/phy101/README"
+        },
+        {
+          "id": "y1s2-phy121",
+          "name": "Physics Lab",
+          "code": "PHY121",
+          "path": "/sem-2/phy101/phy121"
+        },
+        {
+          "id": "y1s2-cse204",
+          "name": "C++",
+          "code": "CSE204",
+          "path": "/sem-2/cse204",
+          "readme": "/sem-2/cse204/README"
+        },
+        {
+          "id": "y1s2-cse224",
+          "name": "C++ Lab",
+          "code": "CSE224",
+          "path": "/sem-2/cse204/cse224"
+        },
+        {
+          "id": "y1s2-ece101",
+          "name": "Electrical Engineering",
+          "code": "ECE101",
+          "path": "/sem-2/ece101",
+          "readme": "/sem-2/ece101/README"
+        },
+        {
+          "id": "y1s2-ece121",
+          "name": "Electrical Engineering Lab",
+          "code": "ECE121",
+          "path": "/sem-2/ece101/ece121"
+        },
+        {
+          "id": "y1s2-evs242",
+          "name": "Environmental Science",
+          "code": "EVS242",
+          "path": "/sem-2/evs242"
+        },
+        {
+          "id": "y1s2-bsu243",
+          "name": "Behavioural Science",
+          "code": "BSU243",
+          "path": "/sem-2/bsu243"
+        },
+        {
+          "id": "y1s2-bcu241",
+          "name": "Communication",
+          "code": "BCU241",
+          "path": "/sem-2/bcu241"
+        },
+        {
+          "id": "y1s2-flu244",
+          "name": "French",
+          "code": "FLU244",
+          "path": "/sem-2/flu244"
+        },
+        {
+          "id": "y1s2-bme223",
+          "name": "Engineering Graphics",
+          "code": "BME223",
+          "path": "/sem-2/bme223"
+        }
+      ],
+      "specialisation": [
+        {
+          "id": "y1s2-csc201",
+          "name": "Cyber Security",
+          "code": "CSC201",
+          "path": "/sem-2/specialisation/csc201"
+        },
+        {
+          "id": "y1s2-csa201",
+          "name": "AI and ML",
+          "code": "CSA201",
+          "path": "/sem-2/specialisation/csa201"
+        },
+        {
+          "id": "y1s2-csd201",
+          "name": "Data Science",
+          "code": "CSD201",
+          "path": "/sem-2/specialisation/csd201"
+        },
+        {
+          "id": "y1s2-csi201",
+          "name": "IOT",
+          "code": "CSI201",
+          "path": "/sem-2/specialisation/csi201"
+        }
+      ]
+    },
+    {
+      "id": "y2s3",
+      "name": "Semester 3",
+      "description": "Y2S3 of UG BTECH CSE & IT",
+      "order": 3,
+      "overview": {
+        "name": "Overview - Semester 3",
+        "path": "/sem-3/overview",
+        "readme": "/sem-3/README"
+      },
+      "core": [
+        {
+          "id": "y2s3-mat301",
+          "name": "Mathematics",
+          "code": "MAT301",
+          "path": "/sem-3/mat301"
+        },
+        {
+          "id": "y2s3-cse302",
+          "name": "Python",
+          "code": "CSE302",
+          "path": "/sem-3/cse302",
+          "readme": "/sem-3/cse302/README"
+        },
+        {
+          "id": "y2s3-cse322",
+          "name": "Python Lab",
+          "code": "CSE322",
+          "path": "/sem-3/cse302/cse322"
+        },
+        {
+          "id": "y2s3-cse202",
+          "name": "Data Structures C++",
+          "code": "CSE202",
+          "path": "/sem-3/cse202",
+          "readme": "/sem-3/cse202/README"
+        },
+        {
+          "id": "y2s3-cse222",
+          "name": "Data Structures C++ Lab",
+          "code": "CSE222",
+          "path": "/sem-3/cse202/cse222"
+        },
+        {
+          "id": "y2s3-cse304",
+          "name": "Database Management System",
+          "code": "CSE304",
+          "path": "/sem-3/cse304",
+          "readme": "/sem-3/cse304/README"
+        },
+        {
+          "id": "y2s3-cse324",
+          "name": "Database Management System Lab",
+          "code": "CSE324",
+          "path": "/sem-3/cse304/cse324"
+        },
+        {
+          "id": "y2s3-ece306",
+          "name": "Digital Electronics",
+          "code": "ECE306",
+          "path": "/sem-3/ece306",
+          "readme": "/sem-3/ece306/README"
+        },
+        {
+          "id": "y2s3-ece326",
+          "name": "Digital Electronics Lab",
+          "code": "ECE326",
+          "path": "/sem-3/ece306/ece326"
+        },
+        {
+          "id": "y2s3-bsu343",
+          "name": "Behavioural Science",
+          "code": "BSU343",
+          "path": "/sem-3/bsu343"
+        },
+        {
+          "id": "y2s3-bcu341",
+          "name": "Communication",
+          "code": "BCU341",
+          "path": "/sem-3/bcu341"
+        },
+        {
+          "id": "y2s3-flu344",
+          "name": "French",
+          "code": "FLU344",
+          "path": "/sem-3/flu344"
+        },
+        {
+          "id": "y2s3-ntp330",
+          "name": "Term Paper",
+          "code": "NTP330",
+          "path": "/sem-3/ntp330"
+        }
+      ],
+      "specialisation": [
+        {
+          "id": "y2s3-csc301",
+          "name": "Cyber Security",
+          "code": "CSC301",
+          "path": "/sem-3/specialisation/csc301"
+        },
+        {
+          "id": "y2s3-csa301",
+          "name": "AI and ML",
+          "code": "CSA301",
+          "path": "/sem-3/specialisation/csa301"
+        },
+        {
+          "id": "y2s3-csd301",
+          "name": "Data Science",
+          "code": "CSD301",
+          "path": "/sem-3/specialisation/csd301"
+        },
+        {
+          "id": "y2s3-csi301",
+          "name": "IOT",
+          "code": "CSI301",
+          "path": "/sem-3/specialisation/csi301"
+        }
+      ]
+    },
+    {
+      "id": "y2s4",
+      "name": "Semester 4",
+      "description": "Y2S4 of UG BTECH CSE & IT",
+      "order": 4,
+      "overview": {
+        "name": "Overview - Semester 4",
+        "path": "/sem-4/overview",
+        "readme": "/sem-4/README"
+      },
+      "core": [
+        {
+          "id": "y2s4-cse401",
+          "name": "Discrete Mathematics",
+          "code": "CSE401",
+          "path": "/sem-4/cse401"
+        },
+        {
+          "id": "y2s4-cse402",
+          "name": "Computer Organization and Architecture",
+          "code": "CSE402",
+          "path": "/sem-4/cse402"
+        },
+        {
+          "id": "y2s4-cse403",
+          "name": "Java Programming",
+          "code": "CSE403",
+          "path": "/sem-4/cse403",
+          "readme": "/sem-4/cse403/README"
+        },
+        {
+          "id": "y2s4-cse423",
+          "name": "Java Lab",
+          "code": "CSE423",
+          "path": "/sem-4/cse403/cse423"
+        },
+        {
+          "id": "y2s4-cse404",
+          "name": "Operating System",
+          "code": "CSE404",
+          "path": "/sem-4/cse404",
+          "readme": "/sem-4/cse404/README"
+        },
+        {
+          "id": "y2s4-cse424",
+          "name": "Operating System Lab",
+          "code": "CSE424",
+          "path": "/sem-4/cse404/cse424"
+        },
+        {
+          "id": "y2s4-cse405",
+          "name": "Computer Networks and Security",
+          "code": "CSE405",
+          "path": "/sem-4/cse405"
+        },
+        {
+          "id": "y2s4-bcu441",
+          "name": "Communication",
+          "code": "BCU441",
+          "path": "/sem-4/bcu441"
+        },
+        {
+          "id": "y2s4-bsu443",
+          "name": "Behaviour",
+          "code": "BSU443",
+          "path": "/sem-4/bsu443"
+        },
+        {
+          "id": "y2s4-flu444",
+          "name": "French",
+          "code": "FLU444",
+          "path": "/sem-4/flu444"
+        },
+        {
+          "id": "y2s4-it401",
+          "name": "Formal Languages and Automata",
+          "code": "IT401",
+          "path": "/sem-4/it401"
+        },
+        {
+          "id": "y2s4-it402",
+          "name": "Cyber Security - Digital Forensics",
+          "code": "IT402",
+          "path": "/sem-4/it402"
+        }
+      ],
+      "specialisation": [
+        {
+          "id": "y2s4-csc401",
+          "name": "Cyber Security",
+          "code": "CSC401",
+          "path": "/sem-4/specialisation/csc401"
+        },
+        {
+          "id": "y2s4-csa401",
+          "name": "AI and ML",
+          "code": "CSA401",
+          "path": "/sem-4/specialisation/csa401"
+        },
+        {
+          "id": "y2s4-csd401",
+          "name": "Data Science",
+          "code": "CSD401",
+          "path": "/sem-4/specialisation/csd401"
+        },
+        {
+          "id": "y2s4-csi401",
+          "name": "IOT",
+          "code": "CSI401",
+          "path": "/sem-4/specialisation/csi401"
+        }
+      ]
+    },
+    {
+      "id": "y3s5",
+      "name": "Semester 5",
+      "description": "Y3S5 of UG BTECH CSE & IT",
+      "order": 5,
+      "overview": {
+        "name": "Overview - Semester 5",
+        "path": "/sem-5/overview",
+        "readme": "/sem-5/README"
+      },
+      "core": [
+        {
+          "id": "y3s5-cse303",
+          "name": "Algorithm Design and Analysis",
+          "code": "CSE303",
+          "path": "/sem-5/cse303",
+          "readme": "/sem-5/cse303/README"
+        },
+        {
+          "id": "y3s5-cse323",
+          "name": "Algorithm Design and Analysis Lab",
+          "code": "CSE323",
+          "path": "/sem-5/cse303/cse323"
+        },
+        {
+          "id": "y3s5-cse501",
+          "name": "Theory of Computation",
+          "code": "CSE501",
+          "path": "/sem-5/cse501"
+        },
+        {
+          "id": "y3s5-cse503",
+          "name": "Android App Development",
+          "code": "CSE503",
+          "path": "/sem-5/cse503",
+          "readme": "/sem-5/cse503/README"
+        },
+        {
+          "id": "y3s5-cse523",
+          "name": "Android App Development Lab",
+          "code": "CSE523",
+          "path": "/sem-5/cse503/cse523"
+        },
+        {
+          "id": "y3s5-cse504",
+          "name": "Advanced Java",
+          "code": "CSE504",
+          "path": "/sem-5/cse504",
+          "readme": "/sem-5/cse504/README"
+        },
+        {
+          "id": "y3s5-cse524",
+          "name": "Advanced Java Lab",
+          "code": "CSE524",
+          "path": "/sem-5/cse504/cse524"
+        },
+        {
+          "id": "y3s5-cse505",
+          "name": "Internet and Web Technologies",
+          "code": "CSE505",
+          "path": "/sem-5/cse505",
+          "readme": "/sem-5/cse505/README"
+        },
+        {
+          "id": "y3s5-cse525",
+          "name": "Internet and Web Technologies Lab",
+          "code": "CSE525",
+          "path": "/sem-5/cse505/cse525"
+        },
+        {
+          "id": "y3s5-it501",
+          "name": "Blockchain",
+          "code": "IT501",
+          "path": "/sem-5/it501"
+        },
+        {
+          "id": "y3s5-bcu541",
+          "name": "Communication",
+          "code": "BCU541",
+          "path": "/sem-5/bcu541"
+        },
+        {
+          "id": "y3s5-bsu543",
+          "name": "Behaviour",
+          "code": "BSU543",
+          "path": "/sem-5/bsu543"
+        },
+        {
+          "id": "y3s5-npt550",
+          "name": "Report",
+          "code": "NPT550",
+          "path": "/sem-5/npt550"
+        }
+      ],
+      "specialisation": [
+        {
+          "id": "y3s5-csc501",
+          "name": "Cyber Security",
+          "code": "CSC501",
+          "path": "/sem-5/specialisation/csc501"
+        },
+        {
+          "id": "y3s5-csa501",
+          "name": "AI and ML",
+          "code": "CSA501",
+          "path": "/sem-5/specialisation/csa501"
+        },
+        {
+          "id": "y3s5-csd501",
+          "name": "Data Science",
+          "code": "CSD501",
+          "path": "/sem-5/specialisation/csd501"
+        },
+        {
+          "id": "y3s5-csi501",
+          "name": "IOT",
+          "code": "CSI501",
+          "path": "/sem-5/specialisation/csi501"
+        }
+      ]
+    },
+    {
+      "id": "y3s6",
+      "name": "Semester 6",
+      "description": "Y3S6 of UG BTECH CSE & IT",
+      "order": 5,
+      "overview": {
+        "name": "Overview - Semester 6",
+        "path": "/sem-6/overview",
+        "readme": "/sem-6/README"
+      },
+      "core": [
+        {
+          "id": "y3s6-cse601",
+          "name": "Data Communication & Computer Networks",
+          "code": "CSE601",
+          "path": "/sem-6/cse601",
+          "readme": "/sem-6/cse601/README"
+        },
+        {
+          "id": "y3s6-cse621",
+          "name": "Data Communication & Computer Networks Lab",
+          "code": "CSE621",
+          "path": "/sem-6/cse601/cse621"
+        },
+        {
+          "id": "y3s6-cse602",
+          "name": "Quantitative Aptitude",
+          "code": "CSE602",
+          "path": "/sem-6/cse602"
+        },
+        {
+          "id": "y3s6-cse603",
+          "name": "IOT",
+          "code": "CSE603",
+          "path": "/sem-6/cse603",
+          "readme": "/sem-6/cse603/README"
+        },
+        {
+          "id": "y3s6-cse623",
+          "name": "IOT Lab",
+          "code": "CSE623",
+          "path": "/sem-6/cse603/cse623"
+        },
+        {
+          "id": "y3s6-cse604",
+          "name": "Problem Solving Techniques",
+          "code": "CSE604",
+          "path": "/sem-6/cse604",
+          "readme": "/sem-6/cse604/README"
+        },
+        {
+          "id": "y3s6-cse624",
+          "name": "Problem Solving Techniques Lab",
+          "code": "CSE624",
+          "path": "/sem-6/cse604/cse624"
+        },
+        {
+          "id": "y3s6-cse605",
+          "name": "Software Engineering",
+          "code": "CSE605",
+          "path": "/sem-6/cse605",
+          "readme": "/sem-6/cse605/README"
+        },
+        {
+          "id": "y3s6-cse605-m2",
+          "name": "Software Engineering / M2",
+          "code": "CSE605 / M2",
+          "path": "/sem-6/cse605/m2"
+        },
+        {
+          "id": "y3s6-cse605-m3",
+          "name": "Software Engineering / M3",
+          "code": "CSE605 / M3",
+          "path": "/sem-6/cse605/m3"
+        },
+        {
+          "id": "y3s6-cse605-m4",
+          "name": "Software Engineering / M4",
+          "code": "CSE605 / M4",
+          "path": "/sem-6/cse605/m4"
+        },
+        {
+          "id": "y3s6-cse605-m5",
+          "name": "Software Engineering / M5",
+          "code": "CSE605 / M5",
+          "path": "/sem-6/cse605/m5"
+        },
+        {
+          "id": "y3s6-it601",
+          "name": "Computer Networks",
+          "code": "IT601",
+          "path": "/sem-6/it601",
+          "readme": "/sem-6/it601/README"
+        },
+        {
+          "id": "y3s6-it601-m3",
+          "name": "Computer Networks / M3",
+          "code": "IT601 / M3",
+          "path": "/sem-6/it601/m3"
+        },
+        {
+          "id": "y3s6-it601-m4",
+          "name": "Computer Networks / M4",
+          "code": "IT601 / M4",
+          "path": "/sem-6/it601/m4"
+        },
+        {
+          "id": "y3s6-it601-m5",
+          "name": "Computer Networks / M5",
+          "code": "IT601 / M5",
+          "path": "/sem-6/it601/m5"
+        },
+        {
+          "id": "y3s6-it621",
+          "name": "Computer Networks Lab",
+          "code": "IT621",
+          "path": "/sem-6/it601/it621"
+        },
+        {
+          "id": "y3s6-bcu641",
+          "name": "Communication",
+          "code": "BCU641",
+          "path": "/sem-6/bcu641",
+          "readme": "/sem-6/bcu641/README"
+        },
+        {
+          "id": "y3s6-bcu641-m1",
+          "name": "Communication / M1",
+          "code": "BCU641 / M1",
+          "path": "/sem-6/bcu641/m1"
+        },
+        {
+          "id": "y3s6-bcu641-m2",
+          "name": "Communication / M2",
+          "code": "BCU641 / M2",
+          "path": "/sem-6/bcu641/m2"
+        },
+        {
+          "id": "y3s6-bcu641-m3",
+          "name": "Communication / M3",
+          "code": "BCU641 / M3",
+          "path": "/sem-6/bcu641/m3"
+        },
+        {
+          "id": "y3s6-bcu641-m4",
+          "name": "Communication / M4",
+          "code": "BCU641 / M4",
+          "path": "/sem-6/bcu641/m4"
+        },
+        {
+          "id": "y3s6-bsu643",
+          "name": "Behaviour",
+          "code": "BSU643",
+          "path": "/sem-6/bsu643"
+        },
+        {
+          "id": "y3s6-nmp660",
+          "name": "Minor Project",
+          "code": "NMP660",
+          "path": "/sem-6/nmp660"
+        }
+      ],
+      "specialisation": [
+        {
+          "id": "y3s6-csc601",
+          "name": "Cyber Security",
+          "code": "CSC601",
+          "path": "/sem-6/specialisation/csc601"
+        },
+        {
+          "id": "y3s6-csa601",
+          "name": "AI and ML",
+          "code": "CSA601",
+          "path": "/sem-6/specialisation/csa601"
+        },
+        {
+          "id": "y3s6-csd601",
+          "name": "Data Science",
+          "code": "CSD601",
+          "path": "/sem-6/specialisation/csd601"
+        },
+        {
+          "id": "y3s6-csi601",
+          "name": "IOT",
+          "code": "CSI601",
+          "path": "/sem-6/specialisation/csi601"
+        }
+      ]
+    }
+  ]
+}
