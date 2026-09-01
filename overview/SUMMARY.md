@@ -6,6 +6,5 @@
 * [Craft your Own Notes ?](craft-your-own-notes.md)
 * [Projects](projects.md)
 * [Wall of Honor](collaborators.md)
-* [Hiring](hiring.md)
 * [Privacy Policy](privacy-policy.md)
 * [Terms of Service](terms-of-service.md)
