@@ -5,6 +5,7 @@
 * [How to Collaborate ?](how-to-collaborate.md)
 * [Craft your Own Notes ?](craft-your-own-notes.md)
 * [Projects](projects.md)
+* [Machine Learning](machine-learning.md)
 * [Wall of Honor](collaborators.md)
 * [Privacy Policy](privacy-policy.md)
 * [Terms of Service](terms-of-service.md)
