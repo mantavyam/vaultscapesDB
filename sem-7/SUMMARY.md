@@ -1,23 +1,12 @@
 # Table of contents
 
 * [Overview](README.md)
-* [CSE601](cse601.md)
-* [CSE602](cse602.md)
-* [CSE603](cse603/README.md)
-  * [CSE623](cse603/cse623.md)
-* [CSE604](cse604/README.md)
-  * [CSE624](cse604/cse624.md)
-* [CSE605](cse605/README.md)
-  * [CSE625](cse605/cse625.md)
-* [IT601](it601.md)
-* [BCU641](bcu641.md)
-* [BSU643](bsu643.md)
-* [FLU644](flu644.md)
-* [NMP660](nmp660.md)
-
-## SPECIALISATION
-
-* [CSC601](specialisation/csc601.md)
-* [CSA601](specialisation/csa601.md)
-* [CSD601](specialisation/csd601.md)
-* [CSI601](specialisation/csi601.md)
+* [CSE702 / Artificial Intelligence](cse702.md)
+* [CSE704 / Data Analytics](cse704/README.md)
+  * [CSE724 / Data Analytics Lab](cse704/cse724.md)
+* [CSE706 / Cyber Security](cse706/README.md)
+  * [CSE726 / Cyber Security Lab](cse706/cse726.md)
+* [CSE723 / Advanced PST Lab](cse723.md)
+* [IT702 / Cloud Computing](it702/README.md)
+  * [IT722 / Cloud Computing Lab](it702/it722.md)
+* [NPT750 / IPT-2](npt550.md)

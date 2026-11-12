@@ -1,5 +1,5 @@
 ---
-description: Year-3-Semester-6
+description: Year-4-Semester-7
 metaLinks:
   alternates:
     - https://app.gitbook.com/s/LN0puSSAgKgcy1Upnznn/
@@ -9,9 +9,7 @@ metaLinks:
 
 ## Syllabus
 
-{% hint style="danger" %}
-Content Yet to be Updated for this Page, Submit Resources If you want to collaborate, find form attached on this page below.
-{% endhint %}
+
 
 ## Exam Schedule
 
