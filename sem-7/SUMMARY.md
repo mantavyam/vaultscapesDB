@@ -9,4 +9,4 @@
 * [CSE723 / Advanced PST Lab](cse723.md)
 * [IT702 / Cloud Computing](it702/README.md)
   * [IT722 / Cloud Computing Lab](it702/it722.md)
-* [NPT750 / IPT-2](npt550.md)
+* [NPT750 / IPT-2](npt750.md)
