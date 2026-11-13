@@ -103,31 +103,13 @@ Data for 7th Sem is Actively Being Updated. Share Resources via **Vaultscapes** 
 
 </details>
 
-## Notes
-
-### MidTerm
-
-\[⤓]
-
-### EndSem
-
-\[⤓]
-
-## Question Directory
-
-\[⤓]
-
-### Assignment Questions
-
-\[⤓]
-
 ### Previous Year Questions
 
-\[⤓]
+\[⤓] [CSE704-Endsem-PYQ-JAN23](https://drive.google.com/uc?export=download\&id=1gJgh1slJqL8clfJXW-6SssJ8k5EDcJ_A)
 
-## External Sources
+\[⤓] [CSE704-Endsem-PYQ-DEC23](https://drive.google.com/uc?export=download\&id=1k0vgopEUi-xirNWWGc3D1r0B23CqAsWd)
 
-\[⤓]
+\[⤓] [CSE704-Endsem-PYQ-DEC24](https://drive.google.com/uc?export=download\&id=1sIy-4PpEA4y5PKjhNSTAtBCLoLEt3Lvx)
 
 ***
 

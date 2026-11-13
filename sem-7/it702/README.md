@@ -103,31 +103,19 @@ Data for 7th Sem is Actively Being Updated. Share Resources via **Vaultscapes** 
 
 </details>
 
-## Notes
+## Question Directory
 
 ### MidTerm
 
-\[⤓]
+\[⤓] [IT702-CCV-PYQ-MIDTERM-BTECH-IT-OCT26](https://drive.google.com/uc?export=download\&id=18okT1g_c_khJ8wUbDsI0XZVqy8VYWjCe)
 
-### EndSem
-
-\[⤓]
-
-## Question Directory
-
-\[⤓]
-
-### Assignment Questions
-
-\[⤓]
+{% embed url="https://drive.google.com/file/d/18okT1g_c_khJ8wUbDsI0XZVqy8VYWjCe/view?usp=drive_link" %}
 
 ### Previous Year Questions
 
-\[⤓]
+\[⤓] [IT702-Endsem-PYQ-DEC23](https://drive.google.com/uc?export=download\&id=1POvEfj904WqmIBQuYdQgOU45Yuzq21Vm)
 
-## External Sources
-
-\[⤓]
+\[⤓] [IT702-Endsem-PYQ-DEC24](https://drive.google.com/uc?export=download\&id=1bdsMTV9WUqANoprWKl9o11sVchVRjZ4p)
 
 ***
 

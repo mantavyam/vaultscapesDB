@@ -19,6 +19,30 @@ Data for 7th Sem is Actively Being Updated. Share Resources via **Vaultscapes** 
 
 <table data-view="cards"><thead><tr><th data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><a href="cse702.md">cse702.md</a></td><td><a href=".gitbook/assets/btech-y4s7-sub-icon-cse.png">btech-y4s7-sub-icon-cse.png</a></td></tr><tr><td><a href="cse704/">cse704</a></td><td><a href=".gitbook/assets/btech-y4s7-sub-icon-cse.png">btech-y4s7-sub-icon-cse.png</a></td></tr><tr><td><a href="cse704/cse724.md">cse724.md</a></td><td><a href=".gitbook/assets/btech-y4s7-sub-icon-cse.png">btech-y4s7-sub-icon-cse.png</a></td></tr><tr><td><a href="cse706/">cse706</a></td><td><a href=".gitbook/assets/btech-y4s7-sub-icon-cse.png">btech-y4s7-sub-icon-cse.png</a></td></tr><tr><td><a href="cse706/cse726.md">cse726.md</a></td><td><a href=".gitbook/assets/btech-y4s7-sub-icon-cse.png">btech-y4s7-sub-icon-cse.png</a></td></tr><tr><td><a href="cse723.md">cse723.md</a></td><td><a href=".gitbook/assets/btech-y4s7-sub-icon-cse.png">btech-y4s7-sub-icon-cse.png</a></td></tr><tr><td><a href="it702/">it702</a></td><td><a href=".gitbook/assets/btech-y4s7-sub-icon-it.png">btech-y4s7-sub-icon-it.png</a></td></tr><tr><td><a href="it702/it722.md">it722.md</a></td><td><a href=".gitbook/assets/btech-y4s7-sub-icon-it.png">btech-y4s7-sub-icon-it.png</a></td></tr><tr><td><a href="npt750.md">npt750.md</a></td><td><a href=".gitbook/assets/btech-y4s7-sub-icon-npt.png">btech-y4s7-sub-icon-npt.png</a></td></tr></tbody></table>
 
+## Mid-Sem-PYQ
+
+\[⤓] [CSE702-AI-PYQ-MIDTERM-BTECH-CSE+IT-OCT26](https://drive.google.com/uc?export=download\&id=14z3xnIzRJWWRyed-c0yXJPJRagG1s_jv)
+
+\[⤓] [IT702-CCV-PYQ-MIDTERM-BTECH-IT-OCT26](https://drive.google.com/uc?export=download\&id=18okT1g_c_khJ8wUbDsI0XZVqy8VYWjCe)
+
+## End-Sem-PYQ
+
+\[⤓] [CSE702-Endsem-PYQ-JAN23](https://drive.google.com/uc?export=download\&id=1TrObaMilcVsdnLvhDim1xr94md5ZM4Pu)
+
+\[⤓] [CSE702-Endsem-PYQ-DEC23](https://drive.google.com/uc?export=download\&id=1VffMFr0YZAuCw87gbS7zeoyYXYgSMiXq)
+
+\[⤓] [CSE702-Endsem-PYQ-DEC24](https://drive.google.com/uc?export=download\&id=1qtIpwrtxwRBZsWj89Ago8uZach44po8b)
+
+\[⤓] [CSE704-Endsem-PYQ-JAN23](https://drive.google.com/uc?export=download\&id=1gJgh1slJqL8clfJXW-6SssJ8k5EDcJ_A)
+
+\[⤓] [CSE704-Endsem-PYQ-DEC23](https://drive.google.com/uc?export=download\&id=1k0vgopEUi-xirNWWGc3D1r0B23CqAsWd)
+
+\[⤓] [CSE704-Endsem-PYQ-DEC24](https://drive.google.com/uc?export=download\&id=1sIy-4PpEA4y5PKjhNSTAtBCLoLEt3Lvx)
+
+\[⤓] [IT702-Endsem-PYQ-DEC23](https://drive.google.com/uc?export=download\&id=1POvEfj904WqmIBQuYdQgOU45Yuzq21Vm)
+
+\[⤓] [IT702-Endsem-PYQ-DEC24](https://drive.google.com/uc?export=download\&id=1bdsMTV9WUqANoprWKl9o11sVchVRjZ4p)
+
 {% embed url="https://discord.com/invite/AQ7PNzdCnC" %}
 
 {% embed url="https://mantavyam.notion.site/18152f7cde8880d699a5f2e65f87374e?pvs=105" %}
