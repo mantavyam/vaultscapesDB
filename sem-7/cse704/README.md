@@ -18,7 +18,7 @@ Data for 7th Sem is Actively Being Updated. Share Resources via **Vaultscapes** 
 
 <details>
 
-<summary>M1: <strong>Introduction to Big Data</strong></summary>
+<summary>M1: Introduction to Big Data</summary>
 
 * Evolution of Big data
 * Best Practices for Big data Analytics
@@ -38,7 +38,7 @@ Data for 7th Sem is Actively Being Updated. Share Resources via **Vaultscapes** 
 
 <details>
 
-<summary>M2: <strong>Clustering and Classification</strong></summary>
+<summary>M2: Clustering and Classification</summary>
 
 * Analytical Theory and Methods:
   * Overview of Clustering
@@ -59,7 +59,7 @@ Data for 7th Sem is Actively Being Updated. Share Resources via **Vaultscapes** 
 
 <details>
 
-<summary>M3: <strong>Association and Recommendation System</strong></summary>
+<summary>M3: Association and Recommendation System</summary>
 
 * Analytical Theory and Methods:
   * Association Rules
@@ -83,7 +83,7 @@ Data for 7th Sem is Actively Being Updated. Share Resources via **Vaultscapes** 
 
 <details>
 
-<summary>M4: <strong>NoSQL Data Management for Big Data and Visualization</strong></summary>
+<summary>M4: NoSQL Data Management for Big Data and Visualization</summary>
 
 * NoSQL Databases:
   * Schema-less Models
