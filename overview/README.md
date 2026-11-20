@@ -18,6 +18,12 @@ icon: folder-tree
 _**Build your Own**_ : [projects.md](projects.md "mention")
 {% endhint %}
 {% endcolumn %}
+
+{% column %}
+{% hint style="info" %}
+**Enlist on** [collaborators.md](collaborators.md "mention")
+{% endhint %}
+{% endcolumn %}
 {% endcolumns %}
 
 <figure><img src=".gitbook/assets/Vaultscapes-banner.png" alt=""><figcaption><p>Welcome to Vaultscapes: An Open-Source Academic Resource Sharing Database</p></figcaption></figure>
